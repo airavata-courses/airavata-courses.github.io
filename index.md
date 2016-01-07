@@ -4,12 +4,8 @@ layout: default
 
 # Science Gateway Architectures
 
-* **Course:** [INFO-I590, Indiana University School of Informatics and Computing](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO)
+* **Course:** [INFO-I590, Topics in Informatics, School of Informatics and Computing, Indiana University](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO)
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
-
-* TOC
-{:toc}
-
 
 ## Course Overview
 
@@ -29,9 +25,15 @@ In this course, students will be divided into development teams, and each team w
 
 * Hands-on experience in developing a science gateway from scratch while working with Open Source philosophies - particularly modelled after Apache Software Foundation.
 
-* Applying the general concepts of Distributed Systems and understanding state of the art in applicable areas. ### Course Outcome * After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paraidgms and architectures.
-* The course will provide required skills to apply for Google Summer of Code like programs. 
-* The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
+* Applying the general concepts of Distributed Systems and understanding state of the art in applicable areas. 
+
+### Course Outcome 
+
+* After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paraidgms and architectures.
+
+* The course will provide required skills to apply for Google Summer of Code like programs. 
+
+* The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
 
 
 ## Instructors
