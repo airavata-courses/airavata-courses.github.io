@@ -82,9 +82,6 @@ During the course, instructors will provide referecnes to journal and conference
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
     * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 
 ## Grading
