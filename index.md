@@ -7,6 +7,10 @@ layout: default
 * **Course:** [INFO-I590, Indiana University School of Informatics and Computing](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO)
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
 
+* TOC
+{:toc}
+
+
 ## Course Overview
 
 Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.
