@@ -36,8 +36,6 @@ In this course, students will be divided into development teams, and each team w
 * After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paradigms and architectures.
 
 * The course will provide opportunities to acquire required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/) like programs. 
-    * Using issue trackers like JIRA
-    * Code 
 
 * The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
 
@@ -110,9 +108,12 @@ During the course, instructors will provide referecnes to journal and conference
     * Student that contribute successful pull requests to other student for bug fixes will be rewarded, as will the student that accepts the pull requests. 
 
 * The bulk of the grading is for Projects. It should be noted that the project evaluation is granularly broken down based on design, critical considerations of alternative approaches, building over existing solutions, implementation, well written tests and finally a report.  
-    * Gracefully handling errors: The code must reliably handle possible error conditions.
+    * Testing: An critical aspect of distributed systems programming is to develop comprehensive test methods for the programs. A significant effort should be invested in writing programs that will thoroughly test the system code, including the handling of different error conditions.
+        * Refer Apache Airavata Test Driven Development [example](https://cwiki.apache.org/confluence/display/AIRAVATA/Tests+in+Airavata)
+    * Gracefully handling errors: The code must reliably handle possible error conditions, both internal and reacting to external failures (in a distributed system context).
     * Resource Usage: Must manage resources such as memory, cpu and I/O usage with care. 
-
+    * Security aspects: Projects involves developing network accessible services which are inherently vulnerable to malicious attacks. Security methodologies should be carefully considered. Students should be aware of potential flaws such as string overflows or malformed incoming messages and put an effort to mitigate them. 
+    
 ## Open Collaboration
 
 Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers. We won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
