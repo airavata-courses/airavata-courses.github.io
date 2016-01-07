@@ -19,19 +19,19 @@ In this course, students will be divided into development teams, and each team w
 
 ### Course Objectives
 
-* In depth understanding of core concepts of science gateway architectures.
+* A highlevel, broad understanding of core concepts of science gateway architectures.
 
 * Study of both abstract concepts and practical techniques for building science gateways.
 
-* Hands-on experience in developing a science gateway from scratch while working with Open Source philosophies - particularly modelled after Apache Software Foundation.
+* Hands-on experience in developing a science gateway while working with Open Source philosophies - particularly modelled after Apache Software Foundation.
 
 * Applying the general concepts of Distributed Systems and understanding state of the art in applicable areas. 
 
 ### Course Outcome 
 
-* After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paraidgms and architectures.
+* After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paradigms and architectures.
 
-* The course will provide required skills to apply for Google Summer of Code like programs. 
+* The course will provide opportunities to acquire required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/) like programs. 
 
 * The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
 
@@ -89,26 +89,23 @@ During the course, instructors will provide referecnes to journal and conference
 
 #### GitHub
 
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-
+* [Official GitHub Help](https://help.github.com/)
+* [Recommended resources](http://hackerhours.org/resources.html#github)
 
 ## Grading
 
 * Grades are based on points that each student acquires through submitting assignments, mid-term and final presentations, and peer reviewing other student’s codes.
-
-	* Students who show little activity on GitHub may not receive their points.
+    * 60% On-Going Semester Long Project
+    * 10% Mid-Term Demo/Presentations
+    * 10% Final Demo/Presentation
+    * 20% Class Participation, constructive discussion in mailing lists, pull requests, contribution to fellow student code/design reviews.
 
 * Other bonus opportunities will be available.
-
-	* If a student adopts a component from another student, both the adopting student and the donating student will receive bonus points. This can be done 2 times per student per semester.
-
-	* Student that contribute successful pull requests to other student for bug fixes will be rewarded, as will the student that accepts the pull requests. 
+    * Student that contribute successful pull requests to other student for bug fixes will be rewarded, as will the student that accepts the pull requests. 
 
 
 ## Open Collaboration
 
 Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers. We won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 
-Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source.
+Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate a design or code from elsewhere, credit the original source.
