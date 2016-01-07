@@ -17,6 +17,10 @@ Gateways are interesting topics in their own right. Modern gateway systems are m
 
 In this course, students will be divided into development teams, and each team will build a science gateway software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building science gateways as well as learning DevOps principles for deploying robust cloud services.  Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members.
 
+The following video describes the course:
+
+[![Course Overview](http://img.youtube.com/vi/zNM25fw56YE/0.jpg)](https://youtu.be/zNM25fw56YE)
+
 ### Course Objectives
 
 * A highlevel, broad understanding of core concepts of science gateway architectures.
@@ -32,6 +36,8 @@ In this course, students will be divided into development teams, and each team w
 * After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paradigms and architectures.
 
 * The course will provide opportunities to acquire required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/) like programs. 
+    * Using issue trackers like JIRA
+    * Code 
 
 * The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
 
@@ -103,6 +109,9 @@ During the course, instructors will provide referecnes to journal and conference
 * Other bonus opportunities will be available.
     * Student that contribute successful pull requests to other student for bug fixes will be rewarded, as will the student that accepts the pull requests. 
 
+* The bulk of the grading is for Projects. It should be noted that the project evaluation is granularly broken down based on design, critical considerations of alternative approaches, building over existing solutions, implementation, well written tests and finally a report.  
+    * Gracefully handling errors: The code must reliably handle possible error conditions.
+    * Resource Usage: Must manage resources such as memory, cpu and I/O usage with care. 
 
 ## Open Collaboration
 
