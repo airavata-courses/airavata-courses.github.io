@@ -7,12 +7,26 @@
 
 Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.
 
-Gateways are interesting topics in their own right. Modern gateway systems are moving towards microservice architectures and DevOps principles such as containerization (Docker), continuous integration and continuous delivery.  Many gateways are also investigating how to integrate Apache’s “big data” and cloud computing software projects like Apache Mesos, Apache Spark, Apache Samza, Apache JClouds and Apache Kafka. RPC versus message-oriented middleware at scale is also an open question, as are NoSQL versus Relational DB approaches for gateway data management.  Finally, as gateways typically include Web-based user environments, choosing the right technologies and crafting the correct user experience are challenging problems.
+Gateways are interesting topics in their own right. Modern gateway systems are moving towards microservice architectures and DevOps principles employing containerization (using Docker), continuous integration and continuous delivery. 
 
+ Many gateways are also investigating how to integrate Apache’s “big data” and cloud computing software projects like Apache Mesos, Apache Spark, Apache Samza, Apache JClouds and Apache Kafka. RPC versus message-oriented middleware at scale is also an open question, as are NoSQL versus Relational DB approaches for gateway data management.  Finally, as gateways typically include Web-based user environments, choosing the right technologies and crafting the correct user experience are challenging problems.
 
 In this course, students will be divided into development teams, and each team will build a science gateway software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building science gateways as well as learning DevOps principles for deploying robust cloud services.  Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members.
 
-### Instructors
+### Course Objectives
+
+* In depth understanding of core concepts of science gateway architectures.
+
+* Study of both abstract concepts and practical techniques for building science gateways.
+
+* Hands-on experience in developing a science gateway from scratch while working with Open Source philosophies - particularly modelled after Apache Software Foundation.
+
+* Applying the general concepts of Distributed Systems and understanding state of the art in applicable areas. ### Course Outcome * After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paraidgms and architectures.
+* The course will prepare the students to compete in Google Summer of Code like programs. 
+* The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
+
+
+## Instructors
 The course will be taught by Marlon Pierce and Suresh Marru, who lead the IU Science Gateway Group and are project management committee members for the Apache Airavata open source software.
 
 ## Prerequisites
@@ -20,10 +34,7 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the IU Sci
 Students should be familiar with Linux and Unix operating systems, basic networking concepts, one or more programming languages, databases, basics of Web development, and version control systems
 
 
-## Course Outline
-
-
-#### Assignments
+## Assignments
 
 Points for each assignment are awarded for the number of required capabilities that can be demonstrated.
 
@@ -54,31 +65,17 @@ Points for each assignment are awarded for the number of required capabilities t
 
 ## Resources
 
+During the course, instructors will provide referecnes to journal and conference papers. A good understanding of concepts discussed in these referred papers will greatly help in absorbing the course material. 
+
 ### Beginner Materials
 
-This class assumes you are confident with this material, but in case you need a brush-up...
+* Principles of Distributed Computing – [Lecture Collection](http://disco.ethz.ch/lectures/podc_allstars/)
 
-* Distributed Systems – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
-* see also – [Other Lists](#other-lists)
 
 ### Recommended Reading
 
 * [Overview of Apache Airavata](link)
 
-
-
-### Tools
-
-* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging:
-    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
-        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
-        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
-    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-* sharing code snippets: [gist.github.com](https://gist.github.com/)
-* asking questions: [Stack Overflow](http://stackoverflow.com/)
 
 #### GitHub
 
@@ -92,15 +89,15 @@ This class assumes you are confident with this material, but in case you need a 
 
 ## Grading
 
-* Grades are based on points that each team acquires through submitting assignments, mid-term and final presentations, and peer reviewing other teams’ codes.
+* Grades are based on points that each student acquires through submitting assignments, mid-term and final presentations, and peer reviewing other student’s codes.
 
-	* Students who show little activity on GitHub may not receive their team’s points.
+	* Students who show little activity on GitHub may not receive their points.
 
 * Other bonus opportunities will be available.
 
-	* If a team adopts a component from another team, both the adopting team and the donating team will receive bonus points. This can be done 1 time per team per semester.
+	* If a student adopts a component from another student, both the adopting student and the donating student will receive bonus points. This can be done 2 times per student per semester.
 
-	* Teams that contribute successful pull requests to other teams for bug fixes will be rewarded, as will the team that accepts the pull requests. 
+	* Student that contribute successful pull requests to other student for bug fixes will be rewarded, as will the student that accepts the pull requests. 
 
 
 ## Open Collaboration
