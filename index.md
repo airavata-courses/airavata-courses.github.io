@@ -6,6 +6,7 @@ layout: default
 
 * **Course:** [INFO-I590, Topics in Informatics, School of Informatics and Computing, Indiana University](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO)
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
+* **Class Schedule** Tuesdays from 8 am to 10.30 am in Informatics I2 Room 122
 
 ## Course Overview
 
