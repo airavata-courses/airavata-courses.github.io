@@ -4,7 +4,7 @@ layout: default
 
 # Science Gateway Architectures
 
-* **Course:** [INFO-I590, Topics in Informatics, School of Informatics and Computing, Indiana University](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO)
+* **Course:** [INFO-I590, Topics in Informatics, School of Informatics and Computing, Indiana University](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO){:target="_blank"}
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
 * **Class Schedule** Tuesdays from 8 am to 10.30 am in Informatics I2 Room 122
 
@@ -36,7 +36,7 @@ In this course, students will be divided into development teams, and each team w
 
 * After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paradigms and architectures.
 
-* The course will provide opportunities to acquire required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/) like programs. 
+* The course will provide opportunities to acquire required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/){:target="_blank"} like programs. 
 
 * The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
 
@@ -84,7 +84,7 @@ During the course, instructors will provide referecnes to journal and conference
 
 ### Beginner Materials
 
-* Principles of Distributed Computing – [Lecture Collection](http://disco.ethz.ch/lectures/podc_allstars/)
+* Principles of Distributed Computing – [Lecture Collection](http://disco.ethz.ch/lectures/podc_allstars/){:target="_blank"}
 
 
 ### Recommended Reading
@@ -94,8 +94,8 @@ During the course, instructors will provide referecnes to journal and conference
 
 #### GitHub
 
-* [Official GitHub Help](https://help.github.com/)
-* [Recommended resources](http://hackerhours.org/resources.html#github)
+* [Official GitHub Help](https://help.github.com/){:target="_blank"}
+* [Recommended resources](http://hackerhours.org/resources.html#github){:target="_blank"}
 
 ## Grading
 
@@ -110,7 +110,7 @@ During the course, instructors will provide referecnes to journal and conference
 
 * The bulk of the grading is for Projects. It should be noted that the project evaluation is granularly broken down based on design, critical considerations of alternative approaches, building over existing solutions, implementation, well written tests and finally a report.  
     * Testing: An critical aspect of distributed systems programming is to develop comprehensive test methods for the programs. A significant effort should be invested in writing programs that will thoroughly test the system code, including the handling of different error conditions.
-        * Refer Apache Airavata Test Driven Development [example](https://cwiki.apache.org/confluence/display/AIRAVATA/Tests+in+Airavata)
+        * Refer Apache Airavata Test Driven Development [example](https://cwiki.apache.org/confluence/display/AIRAVATA/Tests+in+Airavata){:target="_blank"}
     * Gracefully handling errors: The code must reliably handle possible error conditions, both internal and reacting to external failures (in a distributed system context).
     * Resource Usage: Must manage resources such as memory, cpu and I/O usage with care. 
     * Security aspects: Projects involves developing network accessible services which are inherently vulnerable to malicious attacks. Security methodologies should be carefully considered. Students should be aware of potential flaws such as string overflows or malformed incoming messages and put an effort to mitigate them. 
