@@ -12,7 +12,7 @@ layout: default
 
 The following video describes the course:
 
-[![Course Overview](http://img.youtube.com/vi/zNM25fw56YE/0.jpg)](https://youtu.be/zNM25fw56YE)
+[![Course Overview](http://img.youtube.com/vi/zNM25fw56YE/0.jpg)](https://youtu.be/zNM25fw56YE){:target="_blank"}
 
 Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.
 
