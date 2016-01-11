@@ -59,6 +59,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ## Course Outline
 
 ###  Week 1 - January 12th
+* [Slides]({{ site.url }}/public/slides/test.pdf)
 * Introduction to the class
 * Overview of science gateways
 * Apache Airavata high level overview and demo.
