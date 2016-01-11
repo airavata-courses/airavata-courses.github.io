@@ -6,7 +6,7 @@ layout: default
 
 * **Course:** [INFO-I590, Topics in Informatics, School of Informatics and Computing, Indiana University](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO){:target="_blank"}
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
-* **Class Schedule** Tuesdays from 8 am to 10.30 am in Informatics I2 Room 122
+* **Class Schedule** Tuesdays from 8 am to 10.30 am in I2 (Informatics East) Room 122
 
 ## Course Overview
 
@@ -24,7 +24,7 @@ In this course, students will be divided into development teams, and each team w
 
 ### Course Objectives
 
-* A highlevel, broad understanding of core concepts of science gateway architectures.
+* Provide a highlevel, broad understanding of core concepts of science gateway architectures.
 
 * Study of both abstract concepts and practical techniques for building science gateways.
 
@@ -32,13 +32,21 @@ In this course, students will be divided into development teams, and each team w
 
 * Applying the general concepts of Distributed Systems and understanding state of the art in applicable areas. 
 
-### Course Outcome 
+### Course Outcomes 
 
-* After successfully completing this course, students should be ready to contribute to open source projects, apply general concepts of distributed systems to computational science problems and in general adopt to emerging paradigms and architectures.
+* Demonstrate an understanding of open source contributions.
 
-* The course will provide opportunities to acquire required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/){:target="_blank"} like programs. 
+* Demonstrate required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/){:target="_blank"} like programs. 
 
-* The course will cover breadth of topics and is expected to be rigorous and requires strong class and mailing list participation. Grades will be dependent on all of these aspects. 
+* Demonstrate an understanding of applying distributed systems concepts to building middle ware for computational science gateways.
+
+* Demonstrate an ability design, develop & deploy component based micro service architecture.
+
+* Demonstrate an ability to develop remote job submission interfaces to computational cyberinfrastructure like IU Big Red 2 Supercomputers.
+
+* Demonstrate an ability to develop a simple metadata management system.
+
+* Demonstrate an ability to develop and consume API services.  
 
 
 ## Instructors
@@ -48,27 +56,88 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the IU Sci
 
 Students should be familiar with Linux and Unix operating systems, basic networking concepts, one or more programming languages, databases, basics of Web development, and version control systems
 
+## Course Outline
 
-## Assignments
+###  Week 1 - January 12th
+* Introduction to the class
+* Overview of science gateways
+* Apache Airavata high level overview and demo.
+* Overview of class structure: projects, grading, etc.
 
-Points for each assignment are awarded for the number of required capabilities that can be demonstrated.
+#### Assignment 1
+* Assignment A1.1: 1 point
+    * Students will request accounts, submit jobs on Airavata Test Drive Portal using [tutorial information](http://airavata.apache.org/documentation/quickstart-tutorials.html){:target="_blank"}
+    * Assignment: every student gets an account and runs through the demo, which we can verify.
+    * Need help or found a problem?  Email the mailing list.  
+    * Extra point: email the mailing list with a bug or suggested improvements
+* Assignment A1.2: 1 point
+    * Get accounts on BR2, Karst, and submit the job described in the RT tutorial: http://rt.uits.iu.edu/ci/training/index.php 
+    * IU accounts on Big Red II, Karst, Quarry - https://kb.iu.edu/d/aczn#research 
+    * Accessing resources via SSH Keys  - https://kb.iu.edu/d/aews 
+    * Running jobs with batch queuing systems https://kb.iu.edu/d/bcqt#jobs 
+* Assignment A1.3: 1 point
+    * Git and GitHub - Walkthrough - https://help.github.com/ 
+    * Github workflow by updating student profile 
 
-1. Assignment. Write clients that can submit and monitor jobs to BR2, Karst, and Amazon/Quarry/Jetstream.
+###  Week 2 - January 19th 
+#### Assignment 2
 
-2. Assignment: Develop initial services
+###  Week 3 - January 26th 
+#### Project Milestone 1
+* Submit remote jobs to BR2 using SSH and Monitor
 
-3. Assignment: Continuous integration and deployment
+###  Week 4 - February 2nd
+#### Assignment 3  
 
-4. Assignment : Determine and implement metadata management system
+###  Week 5 - February 9th 
+#### Project Milestone 2
+* Service version remote job submission tool
 
-5. Assignment: Integration, end-to-end testing
+###  Week 6 - February 16th
+#### Assignment 4 
 
-6. Assignment: Throttling and scheduling
+###  Week 7 - February 23rd 
+#### Project Milestone 3
+* User Interface to remote job submission
 
-7. Assignment: Scaling, load balancing and fault tolerance
+###  Week 8 - March 1st 
+#### Assignment 5
 
-8. Assignment: Workflows
+###  Week 9 - March 8th - Midterm Demos, Presentations
+#### Project Milestone 4
+* Metadata Management 
+* A skeletal web interface to submit a job to BR2 and view job history with user login
 
+### Spring Break - March 13th to 18th 
+
+###  Week 10 - March 22st
+#### Assignment 5 
+
+###  Week 11 - March 29th 
+#### Project Milestone 5
+* Continuous Integration & Deployments
+
+###  Week 12 - April 5th 
+#### Assignment 6
+
+###  Week 13 - April 12th
+#### Project Milestone 6 
+* Scaling, Load Balancing, Fault Tolerance
+
+###  Week 14 - April 19th 
+#### Assignment 7
+
+###  Week 15 - April 26th - Final Demos, Presentations 
+#### Project Milestone 7
+* Multiple Component Application Server with 
+* Defined API
+* Defined internal, standalone component (microservice) version of application server.
+* Defined internal APIs, internal communication mechanisms
+* Demonstrated continuous deployment
+* Demonstrated fault tolerance, load balancing
+
+###  Finals Week - May 2nd - 6th 
+* Bonus Week
 
 ## Student Teams
 
@@ -78,36 +147,26 @@ Points for each assignment are awarded for the number of required capabilities t
 * Switch who's "driving" regularly
 * Make sure to save the code and send it to all team members.
 
-## Resources
-
-During the course, instructors will provide referecnes to journal and conference papers. A good understanding of concepts discussed in these referred papers will greatly help in absorbing the course material. 
-
-### Beginner Materials
-
-* Principles of Distributed Computing – [Lecture Collection](http://disco.ethz.ch/lectures/podc_allstars/){:target="_blank"}
-
-
-### Recommended Reading
-
-* [Overview of Apache Airavata](link)
-
-
-#### GitHub
-
-* [Official GitHub Help](https://help.github.com/){:target="_blank"}
-* [Recommended resources](http://hackerhours.org/resources.html#github){:target="_blank"}
-
 ## Grading
 
-* Grades are based on points that each student acquires through submitting assignments, mid-term and final presentations, and peer reviewing other student’s codes.
-    * 60% On-Going Semester Long Project
+* Grades are based on points that each student acquires through submitting assignments, projects mid-term and final presentations, and peer reviewing other student’s codes.
+    * 70% Semester Long Project with milestones. 
+        * See below for longer description. 
     * 10% Mid-Term Demo/Presentations
     * 10% Final Demo/Presentation
-    * 20% Class Participation, constructive discussion in mailing lists, pull requests, contribution to fellow student code/design reviews.
-
-* Other bonus opportunities will be available.
-    * Student that contribute successful pull requests to other student for bug fixes will be rewarded, as will the student that accepts the pull requests. 
-
+    * 10% Class Participation, constructive discussion in mailing lists, pull requests, contribution to fellow student code/design reviews.
+* Students will be divided into teams. Each team will work a project with intermediate milestones due every two weeks.  There will also be a midterm and final presentation. 
+* Smaller assignments will be made on alternating weeks.
+* Course Project 70%:  There will be 7 project milestones, including mid-term and final milestones, scheduled biweekly.  Each project milestone is worth 10 points.  
+* Projects must be checked into github, must be reproducibly executable on the deadline day by the instructors.
+* If the instructors cannot execute your project and verify you have met the success criteria, the team receives 0 points.
+* A team may resubmit their assignment at any time before the next milestone. Each resubmission gets -1 point; i.e., 9 points if you get it right on the second try, 8 points on the third try, etc.
+* Students who show no activity (no github commits, no email discussions, etc) for the milestone will receive 0 points.
+* Midterm Presentation: 10%  All team members must participate.
+* Final Presentation: 10% All team members must participate
+* Gap assignments: 10%  Smaller skill and knowledge building assignments will be given in between project milestones. These will be worth 1 point each. There may be 1 or more of these per alternate week.
+* These are earned by each student, not by the team.
+* Bonus Points: as assigned throughout the semester.  These opportunities will typically be for 1 point each.  They do not count against you if you do not complete them.  
 * The bulk of the grading is for Projects. It should be noted that the project evaluation is granularly broken down based on design, critical considerations of alternative approaches, building over existing solutions, implementation, well written tests and finally a report.  
     * Testing: An critical aspect of distributed systems programming is to develop comprehensive test methods for the programs. A significant effort should be invested in writing programs that will thoroughly test the system code, including the handling of different error conditions.
         * Refer Apache Airavata Test Driven Development [example](https://cwiki.apache.org/confluence/display/AIRAVATA/Tests+in+Airavata){:target="_blank"}
@@ -115,8 +174,17 @@ During the course, instructors will provide referecnes to journal and conference
     * Resource Usage: Must manage resources such as memory, cpu and I/O usage with care. 
     * Security aspects: Projects involves developing network accessible services which are inherently vulnerable to malicious attacks. Security methodologies should be carefully considered. Students should be aware of potential flaws such as string overflows or malformed incoming messages and put an effort to mitigate them. 
     
+## Resources
+
+During the course, instructors will provide references to journal and conference papers. A good understanding of concepts discussed in these referred papers will greatly help in absorbing the course material. 
+
+### Beginner Materials
+
+* Principles of Distributed Computing – [Lecture Collection](http://disco.ethz.ch/lectures/podc_allstars/){:target="_blank"}
+* [Overview of Apache Airavata](https://cwiki.apache.org/confluence/download/attachments/45876421/iwsg2014_submission_19%20(2)%20(1).pdf?version=1&modificationDate=1409604473000&api=v2)
+
 ## Open Collaboration
 
-Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers. We won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
+* Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers. We won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 
-Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate a design or code from elsewhere, credit the original source.
+* Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate a design or code from elsewhere, credit the original source.
