@@ -111,6 +111,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 #### Assignment 5
 
 ###  Week 9 - March 8th - Midterm Demos, Presentations
+
 #### Project Milestone 4
 * Metadata Management 
 * A skeletal web interface to submit a job to BR2 and view job history with user login
