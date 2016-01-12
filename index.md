@@ -59,11 +59,10 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ## Course Outline
 
 ###  Week 1 - January 12th
-* [Slides]({{ site.url }}/public/slides/test.pdf)
 * Introduction to the class
 * Overview of science gateways
 * Apache Airavata high level overview and demo.
-* Overview of class structure: projects, grading, etc.
+* Overview of class structure: projects, grading, etc. [Slides]({{ site.url }}public/slides/I590CourseStructure.pdf)
 
 #### Assignment 1
 * Assignment A1.1: 1 point
@@ -80,28 +79,35 @@ Students should be familiar with Linux and Unix operating systems, basic network
     * Git and GitHub - Walkthrough - https://help.github.com/ 
     * Github workflow by updating student profile 
 
-###  Week 2 - January 19th 
+###  Week 2 - January 19th
+
 #### Assignment 2
 
 ###  Week 3 - January 26th 
+
 #### Project Milestone 1
 * Submit remote jobs to BR2 using SSH and Monitor
 
 ###  Week 4 - February 2nd
+
 #### Assignment 3  
 
-###  Week 5 - February 9th 
+###  Week 5 - February 9th
+ 
 #### Project Milestone 2
 * Service version remote job submission tool
 
 ###  Week 6 - February 16th
+
 #### Assignment 4 
 
 ###  Week 7 - February 23rd 
+
 #### Project Milestone 3
 * User Interface to remote job submission
 
 ###  Week 8 - March 1st 
+
 #### Assignment 5
 
 ###  Week 9 - March 8th - Midterm Demos, Presentations
@@ -112,23 +118,29 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ### Spring Break - March 13th to 18th 
 
 ###  Week 10 - March 22st
+
 #### Assignment 5 
 
 ###  Week 11 - March 29th 
+
 #### Project Milestone 5
 * Continuous Integration & Deployments
 
 ###  Week 12 - April 5th 
+
 #### Assignment 6
 
 ###  Week 13 - April 12th
+
 #### Project Milestone 6 
 * Scaling, Load Balancing, Fault Tolerance
 
 ###  Week 14 - April 19th 
+
 #### Assignment 7
 
 ###  Week 15 - April 26th - Final Demos, Presentations 
+
 #### Project Milestone 7
 * Multiple Component Application Server with 
 * Defined API
