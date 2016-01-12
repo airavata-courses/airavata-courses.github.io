@@ -59,8 +59,8 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ## Course Outline
 
 ###  Week 1 - January 12th
-* Introduction to the class
-* Overview of science gateways
+* Introduction to the class [Slides]({{ site.url }}public/slides/SGG-I590-Overview.pdf) 
+* Overview of science gateways [Slides]({{ site.url }}public/slides/I590-Gateways-and-Science.pdf)
 * Overview of Supercomputing, Apache Airavata, Projects. [Slides]({{ site.url }}public/slides/Supercomputing-Airavata.pdf)
 * Overview of class structure: projects, grading, etc. [Slides]({{ site.url }}public/slides/I590CourseStructure.pdf)
 
