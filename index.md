@@ -66,18 +66,26 @@ Students should be familiar with Linux and Unix operating systems, basic network
 
 #### Assignment 1
 * Assignment A1.1: 1 point
+    * DUE: January 19th at 8 am
     * Students will request accounts, submit jobs on Airavata Test Drive Portal using [tutorial information](http://airavata.apache.org/documentation/quickstart-tutorials.html){:target="_blank"}
     * Assignment: every student gets an account and runs through the demo, which we can verify.
     * Need help or found a problem?  Email the mailing list.  
     * Extra point: email the mailing list with a bug or suggested improvements
 * Assignment A1.2: 1 point
+    * DUE: January 19th at 8 am
     * Get accounts on BR2, Karst, and submit the job described in the RT tutorial: http://rt.uits.iu.edu/ci/training/index.php 
     * IU accounts on Big Red II, Karst, Quarry - https://kb.iu.edu/d/aczn#research 
     * Accessing resources via SSH Keys  - https://kb.iu.edu/d/aews 
     * Running jobs with batch queuing systems https://kb.iu.edu/d/bcqt#jobs 
 * Assignment A1.3: 1 point
-    * Git and GitHub - Walkthrough - https://help.github.com/ 
-    * Github workflow by updating student profile 
+    * DUE: January 19th at 8 am
+    * All students create a GitHub account and send to instructors
+    * Create a README for your team project
+      * We will create a subproject for each team at https://github.com/airavata-courses
+      * All team members add their names to the README.md file, commit, and push to the master
+    * Guides
+      * Git and GitHub - Walkthrough - https://help.github.com/
+      * Github workflow by updating student profile 
 
 ###  Week 2 - January 19th
 
