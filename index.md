@@ -61,7 +61,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 1 - January 12th
 * Introduction to the class
 * Overview of science gateways
-* Apache Airavata high level overview and demo.
+* Overview of Supercomputing, Apache Airavata, Projects. [Slides]({{ site.url }}public/slides/Supercomputing-Airavata.pdf)
 * Overview of class structure: projects, grading, etc. [Slides]({{ site.url }}public/slides/I590CourseStructure.pdf)
 
 #### Assignment 1
