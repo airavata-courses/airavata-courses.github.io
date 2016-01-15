@@ -100,6 +100,8 @@ Students should be familiar with Linux and Unix operating systems, basic network
     * Read Zookeeper [Paper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 * Cloud and Data Intensive Computing Scheduling - Data Center Scheduling using Apache Mesos
     * Read Mesos [Paper](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
+* Apache way
+    * Open Communities beyond Open Source
 
 ###  Week 3 - January 26th 
 
