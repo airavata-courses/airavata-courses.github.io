@@ -88,8 +88,18 @@ Students should be familiar with Linux and Unix operating systems, basic network
       * Github workflow by updating student profile 
 
 ###  Week 2 - January 19th
-
-#### Assignment 2
+* Discussion of Assignments
+* Nuts & Bolts of HPC Job Management
+    * Git and GitHub Basics
+    * Remote Login and Filetransfer
+    * Using SSH and SCP with SSH-Keys
+    * Using Torque resource manager and MOAB scheduler on Karst cluster
+        * Job Submissions
+        * Job Monitoring
+* Distributed Co-ordination using Zookeper
+    * Read Zookeeper [Paper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
+* Cloud and Data Intensive Computing Scheduling - Data Center Scheduling using Apache Mesos
+    * Read Mesos [Paper](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
 
 ###  Week 3 - January 26th 
 
@@ -204,6 +214,11 @@ During the course, instructors will provide references to journal and conference
 
 * Principles of Distributed Computing – [Lecture Collection](http://disco.ethz.ch/lectures/podc_allstars/){:target="_blank"}
 * [Overview of Apache Airavata](https://cwiki.apache.org/confluence/download/attachments/45876421/iwsg2014_submission_19%20(2)%20(1).pdf?version=1&modificationDate=1409604473000&api=v2)
+
+### Reference Papers
+
+* Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center [Apache Mesos Paper](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
+* ZooKeeper: Wait-free coordination for Internet-scale systems [Apache Zookeeper Paper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 
 ## Open Collaboration
 
