@@ -72,7 +72,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
     * Students will request accounts, submit jobs on Airavata Test Drive Portal using [tutorial information](http://airavata.apache.org/documentation/quickstart-tutorials.html){:target="_blank"}
     * Assignment: every student gets an account and runs through the demo, which we can verify.
     * Need help or found a problem?  Email the mailing list.  
-    * Extra point: email the mailing list with a bug or suggested improvements
+    * ***Bonus point:*** email the mailing list with a bug or suggested improvements
 * Assignment A1.2: 1 point
     * DUE: January 19th at 8 am
     * Get accounts on BR2, Karst, and submit the job described in the RT tutorial: http://rt.uits.iu.edu/ci/training/index.php 
