@@ -88,14 +88,8 @@ Students should be familiar with Linux and Unix operating systems, basic network
       * Github workflow by updating student profile 
 
 ###  Week 2 - January 19th
-* Discussion of Assignments
-* Nuts & Bolts of HPC Job Management
-    * Git and GitHub Basics
-    * Remote Login and Filetransfer
-    * Using SSH and SCP with SSH-Keys
-    * Using Torque resource manager and MOAB scheduler on Karst cluster
-        * Job Submissions
-        * Job Monitoring
+* Git and GitHub Basics [Slides]({{ site.url }}public/slides/I590-Git-Overview.pdf) 
+* Cluster Scheduling and Resource Management [Slides]({{ site.url }}public/slides/I590-ClusterScheduling.pdf)
 * Distributed Co-ordination using Zookeper
     * Read Zookeeper [Paper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 * Cloud and Data Intensive Computing Scheduling - Data Center Scheduling using Apache Mesos
