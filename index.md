@@ -59,6 +59,8 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ## Course Outline
 
 ###  Week 1 - January 12th
+
+#### Lectures
 * Introduction to the class [Slides]({{ site.url }}public/slides/SGG-I590-Overview.pdf) 
 * Overview of science gateways [Slides]({{ site.url }}public/slides/I590-Gateways-and-Science.pdf)
 * Overview of Supercomputing, Apache Airavata, Projects. [Slides]({{ site.url }}public/slides/Supercomputing-Airavata.pdf)
@@ -88,43 +90,67 @@ Students should be familiar with Linux and Unix operating systems, basic network
       * Github workflow by updating student profile 
 
 ###  Week 2 - January 19th
+
+#### Lectures
 * Git and GitHub Basics [Slides]({{ site.url }}public/slides/I590-Git-Overview.pdf) 
 * Cluster Scheduling and Resource Management [Slides]({{ site.url }}public/slides/I590-ClusterScheduling.pdf)
 * Distributed Co-ordination using Zookeper
     * Read Zookeeper [Paper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 * Cloud and Data Intensive Computing Scheduling - Data Center Scheduling using Apache Mesos
     * Read Mesos [Paper](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
-* Apache way
-    * Open Communities beyond Open Source
 
 ###  Week 3 - January 26th 
 
-#### Project Milestone 1
-* Submit remote jobs to BR2 using SSH and Monitor
+#### Lectures
+
+#### Project Milestone 1 Due: Application(s) that submits and monitors a job remotely on Karst
+* The application can run anywhere. Must be able to run on instrucutors’ laptops.
+* Must build from a source checkout from GitHub
+	* Document any pre-requisites not in GitHub, like Java or Python versions.
+* Must be documented adequately for instructors to reproduce the results
+* Use SSH, SCP with SSH Keys (do not store your IU passwords in code or config files).
+* Design choice: wrap executable or use a library?
+* Design choice: how do you monitor jobs?
+* You can use any language and build system of your choice. If you do not have a preference, we recommend Java and Maven. 
+* Use GitHub issue management tools to discuss the project.  Use GitHub for all communications.
+* Have a build system, also in GitHub
+* Design choice: what do you use?  Maven, ant, make, ...
 
 ###  Week 4 - February 2nd
+
+#### Lectures
 
 #### Assignment 3  
 
 ###  Week 5 - February 9th
- 
+
+#### Lectures 
+
 #### Project Milestone 2
 * Service version remote job submission tool
 
 ###  Week 6 - February 16th
 
+#### Lectures
+
 #### Assignment 4 
 
 ###  Week 7 - February 23rd 
+
+#### Lectures
 
 #### Project Milestone 3
 * User Interface to remote job submission
 
 ###  Week 8 - March 1st 
 
+#### Lectures
+
 #### Assignment 5
 
 ###  Week 9 - March 8th - Midterm Demos, Presentations
+
+#### Lectures
 
 #### Project Milestone 4
 * Metadata Management 
@@ -134,27 +160,39 @@ Students should be familiar with Linux and Unix operating systems, basic network
 
 ###  Week 10 - March 22st
 
+#### Lectures
+
 #### Assignment 5 
 
 ###  Week 11 - March 29th 
+
+#### Lectures
 
 #### Project Milestone 5
 * Continuous Integration & Deployments
 
 ###  Week 12 - April 5th 
 
+#### Lectures
+
 #### Assignment 6
 
 ###  Week 13 - April 12th
+
+#### Lectures
 
 #### Project Milestone 6 
 * Scaling, Load Balancing, Fault Tolerance
 
 ###  Week 14 - April 19th 
 
+#### Lectures
+
 #### Assignment 7
 
 ###  Week 15 - April 26th - Final Demos, Presentations 
+
+#### Lectures
 
 #### Project Milestone 7
 * Multiple Component Application Server with 
