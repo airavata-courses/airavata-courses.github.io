@@ -102,8 +102,23 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 3 - January 26th 
 
 #### Lectures
+* Representational State Transfer (REST) and Science Gateways [Slides]({{ site.url }}public/slides/Week3-REST-ScienceGateways.pdf) 
 
-#### Project Milestone 1 Due: Application(s) that submits and monitors a job remotely on Karst
+#### Assignment 2.1: Peer Review Project 1 (1 point)
+* Due 11:59 pm February 1st
+* Peer-review the code of one of the other teams. 
+* Create at least one issue (using the team's GitHub Issues) suggesting an improvement or identifying a bug.  
+* Use GitHub's code review to identify specific improvements of fixes. 
+* To complete the assignment, submit links to issues that you reported.
+
+#### Assignment 2.2: Peer Review Project 2 (1 point)
+* Due 11:59 pm February 1st
+* Peer-review the code of one of the other teams (different team from Assignment 2.1)
+* Create at least one issue (using the team's GitHub Issues) suggesting an improvement or identifying a bug.  
+* Use GitHub's code review to identify specific improvements of fixes. 
+* To complete the assignment, submit links to issues that you reported.
+
+#### Project Milestone 1 Due: Application that submits and monitors a job remotely on Karst
 * The application can run anywhere. Must be able to run on instrucutors’ laptops.
 * Must build from a source checkout from GitHub
 	* Document any pre-requisites not in GitHub, like Java or Python versions.
@@ -120,14 +135,22 @@ Students should be familiar with Linux and Unix operating systems, basic network
 
 #### Lectures
 
-#### Assignment 3  
 
 ###  Week 5 - February 9th
 
 #### Lectures 
 
-#### Project Milestone 2
-* Service version remote job submission tool
+#### Project Milestone 2 Due (10 Points)
+* Your project should run as a service and with a preliminary API.
+	* Base this on the application developed in Milestone 1.
+	* API methods must be for submitting, monitoring, and canceling jobs.
+* You must provide also clients or client samples for your code.
+	* Client samples can be your choice: PHP, bash, Java clients, etc.
+* Instructors must be able to compile and run both the service and the client samples.
+	* The entire environment for running things should be automated.
+* Don’t assume clients and and the server share anything.
+	* OK to use localhost
+	* That is, run server on a laptop.
 
 ###  Week 6 - February 16th
 
