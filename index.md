@@ -61,10 +61,10 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 1 - January 12th
 
 #### Lectures
-* Introduction to the class [Slides]({{ site.url }}public/slides/SGG-I590-Overview.pdf) 
-* Overview of science gateways [Slides]({{ site.url }}public/slides/I590-Gateways-and-Science.pdf)
-* Overview of Supercomputing, Apache Airavata, Projects. [Slides]({{ site.url }}public/slides/Supercomputing-Airavata.pdf)
-* Overview of class structure: projects, grading, etc. [Slides]({{ site.url }}public/slides/I590CourseStructure.pdf)
+* Introduction to the class: [Slides]({{ site.url }}public/slides/SGG-I590-Overview.pdf) 
+* Overview of science gateways: [Slides]({{ site.url }}public/slides/I590-Gateways-and-Science.pdf)
+* Overview of Supercomputing, Apache Airavata, Projects: [Slides]({{ site.url }}public/slides/Supercomputing-Airavata.pdf)
+* Overview of class structure: projects, grading, etc: [Slides]({{ site.url }}public/slides/I590CourseStructure.pdf)
 
 #### Assignment 1
 * Assignment A1.1: 1 point
@@ -92,8 +92,8 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 2 - January 19th
 
 #### Lectures
-* Git and GitHub Basics [Slides]({{ site.url }}public/slides/I590-Git-Overview.pdf) 
-* Cluster Scheduling and Resource Management [Slides]({{ site.url }}public/slides/I590-ClusterScheduling.pdf)
+* Git and GitHub Basics: [Slides]({{ site.url }}public/slides/I590-Git-Overview.pdf) 
+* Cluster Scheduling and Resource Management: [Slides]({{ site.url }}public/slides/I590-ClusterScheduling.pdf)
 * Distributed Co-ordination using Zookeper
     * Read Zookeeper [Paper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 * Cloud and Data Intensive Computing Scheduling - Data Center Scheduling using Apache Mesos
@@ -102,7 +102,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 3 - January 26th 
 
 #### Lectures
-* Representational State Transfer (REST) and Science Gateways [Slides]({{ site.url }}public/slides/Week3-REST-ScienceGateways.pdf) 
+* Representational State Transfer (REST) and Science Gateways: [Slides]({{ site.url }}public/slides/Week3-REST-ScienceGateways.pdf) 
 
 #### Assignment 2.1: Peer Review Project 1 (1 point)
 * Due 11:59 pm February 1st
@@ -155,13 +155,15 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 6 - February 16th
 
 #### Lectures
+* The SEAGrid Science Gateway: [Slides]({{ site.url }}public/slides/I590-SEAGrid.pdf)
 
 #### Assignment 4 
 
 ###  Week 7 - February 23rd 
 
 #### Lectures
-* Google Summer of Code 2016 [Slides]({{ site.url }}public/slides/GSOC-2016.pdf) 
+* Google Summer of Code 2016: [Slides]({{ site.url }}public/slides/GSOC-2016.pdf)
+* Science Gateway Metadata and Information Services: [Slides]({{ site.url }}public/slides/I590ScienceGatewayMetadata.pdf)
 
 ###  Week 8 - March 1st 
 
