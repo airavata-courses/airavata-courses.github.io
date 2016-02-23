@@ -161,15 +161,14 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 7 - February 23rd 
 
 #### Lectures
-
-#### Project Milestone 3
-* User Interface to remote job submission
+* Google Summer of Code 2016 [Slides]({{ site.url }}public/slides/GSOC-2016.pdf) 
 
 ###  Week 8 - March 1st 
 
 #### Lectures
 
-#### Assignment 5
+#### Project Milestone 3
+* User Interface to remote job submission
 
 ###  Week 9 - March 8th - Midterm Demos, Presentations
 
