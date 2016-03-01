@@ -168,6 +168,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 8 - March 1st 
 
 #### Lectures
+* Introduction to Distributed Systems: [Slides]({{ site.url }}public/slides/I590-DistributedComputingScienceGateways.pdf)
 
 #### Project Milestone 3
 * User Interface to remote job submission
