@@ -171,21 +171,52 @@ Students should be familiar with Linux and Unix operating systems, basic network
 * Introduction to Distributed Systems: [Slides]({{ site.url }}public/slides/I590-DistributedComputingScienceGateways.pdf)
 
 #### Project Milestone 3
-* User Interface to remote job submission
+* In this milestone, you will provide a simple user interface that will allow users to submit jobs to Karst.  All gateways should support the same application: GROMACS. 
+* Can be either Web or GUI interface.
+  * Allow the user to log in, run and monitor multiple GROMACS jobs (following https://kb.iu.edu/d/beus (Links to an external site.)).
+  * Users should be able specify the number of nodes, wall time, input file.
+  * Users should be able to download outputs.
+* Submitting the Assignment
+  * Make a named branch of your master branch (milestone-3).
+  * Put all instructions in README-MILESTONE3.md. You could also use GitHub's wiki feature.
+  * Submit the assignment in Canvas when you are ready. Include pointers to the appropriate GitHub branch and the documentation.
+* Simplifying assumptions:
+  * Do not attempt to maintain the user identity from UI server to backend. It is OK to run jobs under a common account. Do not attempt to implement sophisticated user identity management, single sign-on, etc.
+  * TLS security between UI server and Application server is enough for the milestone. Don’t try to implement OAuth.
 
-###  Week 9 - March 8th - Midterm Demos, Presentations
+
+###  Week 9 - March 8th
 
 #### Lectures
 
 #### Project Milestone 4
-* Metadata Management 
-* A skeletal web interface to submit a job to BR2 and view job history with user login
+* Enhance the middleware provide information services and track user metadata.
+  * Users should be able to see a job history in the user interface
+  * Events should be intercepted by the portal.
+* Enhance the User Interface to support GROMACS submission on Big Red II as well as Karst
+* Design and publish schema in GitHub for your metadata system.
+  * Computing, applications, and experiments must be described.
+* Design and publish a description of your information management system.
+* Submitting the Assignment
+  * Make a named branch of your master branch (milestone-4).
+  * Put all instructions in README-MILESTONE4.md. You could also use GitHub's wiki feature.
+  * Submit the assignment in Canvas when you are ready. Include pointers to the appropriate GitHub branch and the documentation.
+
 
 ### Spring Break - March 13th to 18th 
 
-###  Week 10 - March 22st
+###  Week 10 - March 22nd - Midterm Demos, Presentations
 
-#### Lectures
+#### Midterm Presentations
+* Team Presentations
+* 10 minute presentations by each team member
+* Demo of Gateway
+* System Design
+  * What choices did you make for state management, data storage, API implementation, metadata modelings, etc
+* Team recommendations
+  * How can the team work more effectively?	
+  * How can the class be more effective?
+
 
 #### Assignment 5 
 
