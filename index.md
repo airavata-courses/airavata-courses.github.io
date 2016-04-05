@@ -223,6 +223,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 11 - March 29th 
 
 #### Lectures
+* Introduction to Distributed Systems: [Slides]({{ site.url }}public/slides/I590-DistributedComputingScienceGateways.pdf)
 
 #### Project Milestone 5
 * Continuous Integration & Deployments
@@ -230,6 +231,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 12 - April 5th 
 
 #### Lectures
+* Microservices and Messaging: [Slides]({{ site.url }}public/slides/Microservices-I590.pdf)
 
 #### Assignment 6
 
