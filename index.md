@@ -231,7 +231,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 ###  Week 12 - April 5th 
 
 #### Lectures
-* Microservices and Messaging: [Slides]({{ site.url }}public/slides/Microservices-I590.pdf)
+* Microservices and Messaging: [Slides]({{ site.url }}public/slides/MicroServices-I590.pdf)
 
 #### Assignment 6
 
