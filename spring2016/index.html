@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+	Science Gateway Architectures Course
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/spring2016/public/css/poole.css">
+  <link rel="stylesheet" href="/spring2016/public/css/syntax.css">
+  <link rel="stylesheet" href="/spring2016/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/spring2016/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/spring2016/public/favicon.ico">
+
+</head>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-72139837-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+  <body class="theme-base-08">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <!--<div class="sidebar-item">-->
+    <!--<p>Course on applying Open Source, Distributed Computing, Computational Science Principles</p>-->
+  <!--</div>-->
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+    
+      
+    
+
+    <a class="sidebar-nav-item" href="https://github.com/airavata-courses" target="_blank">Course GitHub Repo</a>
+    <!--<span class="sidebar-nav-item">Currently v</span>-->
+  </nav>
+
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home"></a>
+            <small></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <h1 id="science-gateway-architectures">Science Gateway Architectures</h1>
+
+<ul>
+  <li><strong>Course:</strong> <a href="https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&amp;department=INFO" target="_blank">INFO-I590, Topics in Informatics, School of Informatics and Computing, Indiana University</a></li>
+  <li><strong>Instructors:</strong> Marlon Pierce, <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#097;&#114;&#112;&#105;&#101;&#114;&#099;&#064;&#105;&#117;&#046;&#101;&#100;&#117;">&#109;&#097;&#114;&#112;&#105;&#101;&#114;&#099;&#064;&#105;&#117;&#046;&#101;&#100;&#117;</a>; Suresh Marru, <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#109;&#097;&#114;&#114;&#117;&#064;&#105;&#117;&#046;&#101;&#100;&#117;">&#115;&#109;&#097;&#114;&#114;&#117;&#064;&#105;&#117;&#046;&#101;&#100;&#117;</a></li>
+  <li><strong>Class Schedule</strong> Tuesdays from 8 am to 10.30 am in I2 (Informatics East) Room 122</li>
+</ul>
+
+<h2 id="course-overview">Course Overview</h2>
+
+<p>The following video describes the course:</p>
+
+<p><a href="https://youtu.be/zNM25fw56YE" target="_blank"><img src="http://img.youtube.com/vi/zNM25fw56YE/0.jpg" alt="Course Overview" /></a></p>
+
+<p>Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.</p>
+
+<p>Gateways are interesting topics in their own right. Modern gateway systems are moving towards microservice architectures and DevOps principles employing containerization (using Docker), continuous integration and continuous delivery.</p>
+
+<p>Many gateways are also investigating how to integrate Apache’s “big data” and cloud computing software projects like Apache Mesos, Apache Spark, Apache Samza, Apache JClouds and Apache Kafka. RPC versus message-oriented middleware at scale is also an open question, as are NoSQL versus Relational DB approaches for gateway data management.  Finally, as gateways typically include Web-based user environments, choosing the right technologies and crafting the correct user experience are challenging problems.</p>
+
+<p>In this course, students will be divided into development teams, and each team will build a science gateway software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building science gateways as well as learning DevOps principles for deploying robust cloud services.  Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members.</p>
+
+<h3 id="course-objectives">Course Objectives</h3>
+
+<ul>
+  <li>
+    <p>Provide a highlevel, broad understanding of core concepts of science gateway architectures.</p>
+  </li>
+  <li>
+    <p>Study of both abstract concepts and practical techniques for building science gateways.</p>
+  </li>
+  <li>
+    <p>Hands-on experience in developing a science gateway while working with Open Source philosophies - particularly modelled after Apache Software Foundation.</p>
+  </li>
+  <li>
+    <p>Applying the general concepts of Distributed Systems and understanding state of the art in applicable areas.</p>
+  </li>
+</ul>
+
+<h3 id="course-outcomes">Course Outcomes</h3>
+
+<ul>
+  <li>
+    <p>Demonstrate an understanding of open source contributions.</p>
+  </li>
+  <li>
+    <p>Demonstrate required skills to apply for <a href="https://developers.google.com/open-source/gsoc/" target="_blank">Google Summer of Code</a> like programs. </p>
+  </li>
+  <li>
+    <p>Demonstrate an understanding of applying distributed systems concepts to building middle ware for computational science gateways.</p>
+  </li>
+  <li>
+    <p>Demonstrate an ability design, develop &amp; deploy component based micro service architecture.</p>
+  </li>
+  <li>
+    <p>Demonstrate an ability to develop remote job submission interfaces to computational cyberinfrastructure like IU Big Red 2 Supercomputers.</p>
+  </li>
+  <li>
+    <p>Demonstrate an ability to develop a simple metadata management system.</p>
+  </li>
+  <li>
+    <p>Demonstrate an ability to develop and consume API services.</p>
+  </li>
+</ul>
+
+<h2 id="instructors">Instructors</h2>
+<p>The course will be taught by Marlon Pierce and Suresh Marru, who lead the IU Science Gateway Group and are project management committee members for the Apache Airavata open source software.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<p>Students should be familiar with Linux and Unix operating systems, basic networking concepts, one or more programming languages, databases, basics of Web development, and version control systems</p>
+
+<h2 id="course-outline">Course Outline</h2>
+
+<h3 id="week-1---january-12th">Week 1 - January 12th</h3>
+
+<h4 id="lectures">Lectures</h4>
+<ul>
+  <li>Introduction to the class: <a href="http://courses.airavata.org/spring2016/public/slides/SGG-I590-Overview.pdf">Slides</a></li>
+  <li>Overview of science gateways: <a href="http://courses.airavata.org/spring2016/public/slides/I590-Gateways-and-Science.pdf">Slides</a></li>
+  <li>Overview of Supercomputing, Apache Airavata, Projects: <a href="http://courses.airavata.org/spring2016/public/slides/Supercomputing-Airavata.pdf">Slides</a></li>
+  <li>Overview of class structure: projects, grading, etc: <a href="http://courses.airavata.org/spring2016/public/slides/I590CourseStructure.pdf">Slides</a></li>
+</ul>
+
+<h4 id="assignment-1">Assignment 1</h4>
+<ul>
+  <li>Assignment A1.1: 1 point
+    <ul>
+      <li>DUE: January 19th at 8 am</li>
+      <li>Students will request accounts, submit jobs on Airavata Test Drive Portal using <a href="http://airavata.apache.org/documentation/quickstart-tutorials.html" target="_blank">tutorial information</a></li>
+      <li>Assignment: every student gets an account and runs through the demo, which we can verify.</li>
+      <li>Need help or found a problem?  Email the mailing list.</li>
+      <li><strong><em>Bonus point:</em></strong> email the mailing list with a bug or suggested improvements</li>
+    </ul>
+  </li>
+  <li>Assignment A1.2: 1 point
+    <ul>
+      <li>DUE: January 19th at 8 am</li>
+      <li>Get accounts on BR2, Karst, and submit the job described in the RT tutorial: http://rt.uits.iu.edu/ci/training/index.php</li>
+      <li>IU accounts on Big Red II, Karst, Quarry - https://kb.iu.edu/d/aczn#research</li>
+      <li>Accessing resources via SSH Keys  - https://kb.iu.edu/d/aews</li>
+      <li>Running jobs with batch queuing systems https://kb.iu.edu/d/bcqt#jobs</li>
+    </ul>
+  </li>
+  <li>Assignment A1.3: 1 point
+    <ul>
+      <li>DUE: January 19th at 8 am</li>
+      <li>All students create a GitHub account and send to instructors</li>
+      <li>Create a README for your team project
+        <ul>
+          <li>We will create a subproject for each team at https://github.com/airavata-courses</li>
+          <li>All team members add their names to the README.md file, commit, and push to the master</li>
+        </ul>
+      </li>
+      <li>Guides
+        <ul>
+          <li>Git and GitHub - Walkthrough - https://help.github.com/</li>
+          <li>Github workflow by updating student profile</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-2---january-19th">Week 2 - January 19th</h3>
+
+<h4 id="lectures-1">Lectures</h4>
+<ul>
+  <li>Git and GitHub Basics: <a href="http://courses.airavata.org/spring2016/public/slides/I590-Git-Overview.pdf">Slides</a></li>
+  <li>Cluster Scheduling and Resource Management: <a href="http://courses.airavata.org/spring2016/public/slides/I590-ClusterScheduling.pdf">Slides</a></li>
+  <li>Distributed Co-ordination using Zookeper
+    <ul>
+      <li>Read Zookeeper <a href="https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf">Paper</a></li>
+    </ul>
+  </li>
+  <li>Cloud and Data Intensive Computing Scheduling - Data Center Scheduling using Apache Mesos
+    <ul>
+      <li>Read Mesos <a href="http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf">Paper</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-3---january-26th">Week 3 - January 26th</h3>
+
+<h4 id="lectures-2">Lectures</h4>
+<ul>
+  <li>Representational State Transfer (REST) and Science Gateways: <a href="http://courses.airavata.org/spring2016/public/slides/Week3-REST-ScienceGateways.pdf">Slides</a></li>
+</ul>
+
+<h4 id="assignment-21-peer-review-project-1-1-point">Assignment 2.1: Peer Review Project 1 (1 point)</h4>
+<ul>
+  <li>Due 11:59 pm February 1st</li>
+  <li>Peer-review the code of one of the other teams.</li>
+  <li>Create at least one issue (using the team’s GitHub Issues) suggesting an improvement or identifying a bug.</li>
+  <li>Use GitHub’s code review to identify specific improvements of fixes.</li>
+  <li>To complete the assignment, submit links to issues that you reported.</li>
+</ul>
+
+<h4 id="assignment-22-peer-review-project-2-1-point">Assignment 2.2: Peer Review Project 2 (1 point)</h4>
+<ul>
+  <li>Due 11:59 pm February 1st</li>
+  <li>Peer-review the code of one of the other teams (different team from Assignment 2.1)</li>
+  <li>Create at least one issue (using the team’s GitHub Issues) suggesting an improvement or identifying a bug.</li>
+  <li>Use GitHub’s code review to identify specific improvements of fixes.</li>
+  <li>To complete the assignment, submit links to issues that you reported.</li>
+</ul>
+
+<h4 id="project-milestone-1-due-application-that-submits-and-monitors-a-job-remotely-on-karst">Project Milestone 1 Due: Application that submits and monitors a job remotely on Karst</h4>
+<ul>
+  <li>The application can run anywhere. Must be able to run on instrucutors’ laptops.</li>
+  <li>Must build from a source checkout from GitHub
+    <ul>
+      <li>Document any pre-requisites not in GitHub, like Java or Python versions.</li>
+    </ul>
+  </li>
+  <li>Must be documented adequately for instructors to reproduce the results</li>
+  <li>Use SSH, SCP with SSH Keys (do not store your IU passwords in code or config files).</li>
+  <li>Design choice: wrap executable or use a library?</li>
+  <li>Design choice: how do you monitor jobs?</li>
+  <li>You can use any language and build system of your choice. If you do not have a preference, we recommend Java and Maven.</li>
+  <li>Use GitHub issue management tools to discuss the project.  Use GitHub for all communications.</li>
+  <li>Have a build system, also in GitHub</li>
+  <li>Design choice: what do you use?  Maven, ant, make, …</li>
+</ul>
+
+<h3 id="week-4---february-2nd">Week 4 - February 2nd</h3>
+
+<h4 id="lectures-3">Lectures</h4>
+
+<h3 id="week-5---february-9th">Week 5 - February 9th</h3>
+
+<h4 id="lectures-4">Lectures</h4>
+
+<h4 id="project-milestone-2-due-10-points">Project Milestone 2 Due (10 Points)</h4>
+<ul>
+  <li>Your project should run as a service and with a preliminary API.
+    <ul>
+      <li>Base this on the application developed in Milestone 1.</li>
+      <li>API methods must be for submitting, monitoring, and canceling jobs.</li>
+    </ul>
+  </li>
+  <li>You must provide also clients or client samples for your code.
+    <ul>
+      <li>Client samples can be your choice: PHP, bash, Java clients, etc.</li>
+    </ul>
+  </li>
+  <li>Instructors must be able to compile and run both the service and the client samples.
+    <ul>
+      <li>The entire environment for running things should be automated.</li>
+    </ul>
+  </li>
+  <li>Don’t assume clients and and the server share anything.
+    <ul>
+      <li>OK to use localhost</li>
+      <li>That is, run server on a laptop.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-6---february-16th">Week 6 - February 16th</h3>
+
+<h4 id="lectures-5">Lectures</h4>
+<ul>
+  <li>The SEAGrid Science Gateway: <a href="http://courses.airavata.org/spring2016/public/slides/I590-SEAGrid.pdf">Slides</a></li>
+</ul>
+
+<h4 id="assignment-4">Assignment 4</h4>
+
+<h3 id="week-7---february-23rd">Week 7 - February 23rd</h3>
+
+<h4 id="lectures-6">Lectures</h4>
+<ul>
+  <li>Google Summer of Code 2016: <a href="http://courses.airavata.org/spring2016/public/slides/GSOC-2016.pdf">Slides</a></li>
+  <li>Science Gateway Metadata and Information Services: <a href="http://courses.airavata.org/spring2016/public/slides/I590ScienceGatewayMetadata.pdf">Slides</a></li>
+</ul>
+
+<h3 id="week-8---march-1st">Week 8 - March 1st</h3>
+
+<h4 id="lectures-7">Lectures</h4>
+<ul>
+  <li>Introduction to Distributed Systems: <a href="http://courses.airavata.org/spring2016/public/slides/I590-DistributedComputingScienceGateways.pdf">Slides</a></li>
+</ul>
+
+<h4 id="project-milestone-3">Project Milestone 3</h4>
+<ul>
+  <li>In this milestone, you will provide a simple user interface that will allow users to submit jobs to Karst.  All gateways should support the same application: GROMACS. </li>
+  <li>Can be either Web or GUI interface.
+    <ul>
+      <li>Allow the user to log in, run and monitor multiple GROMACS jobs (following https://kb.iu.edu/d/beus (Links to an external site.)).</li>
+      <li>Users should be able specify the number of nodes, wall time, input file.</li>
+      <li>Users should be able to download outputs.</li>
+    </ul>
+  </li>
+  <li>Submitting the Assignment
+    <ul>
+      <li>Make a named branch of your master branch (milestone-3).</li>
+      <li>Put all instructions in README-MILESTONE3.md. You could also use GitHub’s wiki feature.</li>
+      <li>Submit the assignment in Canvas when you are ready. Include pointers to the appropriate GitHub branch and the documentation.</li>
+    </ul>
+  </li>
+  <li>Simplifying assumptions:
+    <ul>
+      <li>Do not attempt to maintain the user identity from UI server to backend. It is OK to run jobs under a common account. Do not attempt to implement sophisticated user identity management, single sign-on, etc.</li>
+      <li>TLS security between UI server and Application server is enough for the milestone. Don’t try to implement OAuth.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-9---march-8th">Week 9 - March 8th</h3>
+
+<h4 id="lectures-8">Lectures</h4>
+
+<h4 id="project-milestone-4">Project Milestone 4</h4>
+<ul>
+  <li>Enhance the middleware provide information services and track user metadata.
+    <ul>
+      <li>Users should be able to see a job history in the user interface</li>
+      <li>Events should be intercepted by the portal.</li>
+    </ul>
+  </li>
+  <li>Enhance the User Interface to support GROMACS submission on Big Red II as well as Karst</li>
+  <li>Design and publish schema in GitHub for your metadata system.
+    <ul>
+      <li>Computing, applications, and experiments must be described.</li>
+    </ul>
+  </li>
+  <li>Design and publish a description of your information management system.</li>
+  <li>Submitting the Assignment
+    <ul>
+      <li>Make a named branch of your master branch (milestone-4).</li>
+      <li>Put all instructions in README-MILESTONE4.md. You could also use GitHub’s wiki feature.</li>
+      <li>Submit the assignment in Canvas when you are ready. Include pointers to the appropriate GitHub branch and the documentation.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="spring-break---march-13th-to-18th">Spring Break - March 13th to 18th</h3>
+
+<h3 id="week-10---march-22nd---midterm-demos-presentations">Week 10 - March 22nd - Midterm Demos, Presentations</h3>
+
+<h4 id="midterm-presentations">Midterm Presentations</h4>
+<ul>
+  <li>Team Presentations</li>
+  <li>10 minute presentations by each team member</li>
+  <li>Demo of Gateway</li>
+  <li>System Design
+    <ul>
+      <li>What choices did you make for state management, data storage, API implementation, metadata modelings, etc</li>
+    </ul>
+  </li>
+  <li>Team recommendations
+    <ul>
+      <li>How can the team work more effectively?</li>
+      <li>How can the class be more effective?</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="assignment-5">Assignment 5</h4>
+
+<h3 id="week-11---march-29th">Week 11 - March 29th</h3>
+
+<h4 id="lectures-9">Lectures</h4>
+<ul>
+  <li>Introduction to Distributed Systems: <a href="http://courses.airavata.org/spring2016/public/slides/I590-DistributedComputingScienceGateways.pdf">Slides</a></li>
+</ul>
+
+<h4 id="project-milestone-5">Project Milestone 5</h4>
+<ul>
+  <li>Continuous Integration &amp; Deployments</li>
+</ul>
+
+<h3 id="week-12---april-5th">Week 12 - April 5th</h3>
+
+<h4 id="lectures-10">Lectures</h4>
+<ul>
+  <li>Microservices and Messaging: <a href="http://courses.airavata.org/spring2016/public/slides/MicroServices-I590.pdf">Slides</a></li>
+</ul>
+
+<h4 id="assignment-6">Assignment 6</h4>
+
+<h3 id="week-13---april-12th">Week 13 - April 12th</h3>
+
+<h4 id="lectures-11">Lectures</h4>
+
+<h4 id="project-milestone-6">Project Milestone 6</h4>
+<ul>
+  <li>Scaling, Load Balancing, Fault Tolerance</li>
+</ul>
+
+<h3 id="week-14---april-19th">Week 14 - April 19th</h3>
+
+<h4 id="lectures-12">Lectures</h4>
+
+<h4 id="assignment-7">Assignment 7</h4>
+
+<h3 id="week-15---april-26th---final-demos-presentations">Week 15 - April 26th - Final Demos, Presentations</h3>
+
+<h4 id="lectures-13">Lectures</h4>
+
+<h4 id="project-milestone-7">Project Milestone 7</h4>
+<ul>
+  <li>Multiple Component Application Server with</li>
+  <li>Defined API</li>
+  <li>Defined internal, standalone component (microservice) version of application server.</li>
+  <li>Defined internal APIs, internal communication mechanisms</li>
+  <li>Demonstrated continuous deployment</li>
+  <li>Demonstrated fault tolerance, load balancing</li>
+</ul>
+
+<h3 id="finals-week---may-2nd---6th">Finals Week - May 2nd - 6th</h3>
+<ul>
+  <li>Bonus Week</li>
+</ul>
+
+<h2 id="student-teams">Student Teams</h2>
+
+<ul>
+  <li>Team size will depend on enrollment but will range from 2-5.</li>
+  <li>Agree on an editor and environment that the team is comfortable with. We recommend IntelliJ Idea</li>
+  <li>Team members who are less experienced/comfortable should have more keyboard time</li>
+  <li>Switch who’s “driving” regularly</li>
+  <li>Make sure to save the code and send it to all team members.</li>
+</ul>
+
+<h2 id="grading">Grading</h2>
+
+<ul>
+  <li>Grades are based on points that each student acquires through submitting assignments, projects mid-term and final presentations, and peer reviewing other student’s codes.
+    <ul>
+      <li>70% Semester Long Project with milestones.
+        <ul>
+          <li>See below for longer description.</li>
+        </ul>
+      </li>
+      <li>10% Mid-Term Demo/Presentations</li>
+      <li>10% Final Demo/Presentation</li>
+      <li>10% Class Participation, constructive discussion in mailing lists, pull requests, contribution to fellow student code/design reviews.</li>
+    </ul>
+  </li>
+  <li>Students will be divided into teams. Each team will work a project with intermediate milestones due every two weeks.  There will also be a midterm and final presentation.</li>
+  <li>Smaller assignments will be made on alternating weeks.</li>
+  <li>Course Project 70%:  There will be 7 project milestones, including mid-term and final milestones, scheduled biweekly.  Each project milestone is worth 10 points.</li>
+  <li>Projects must be checked into github, must be reproducibly executable on the deadline day by the instructors.</li>
+  <li>If the instructors cannot execute your project and verify you have met the success criteria, the team receives 0 points.</li>
+  <li>A team may resubmit their assignment at any time before the next milestone. Each resubmission gets -1 point; i.e., 9 points if you get it right on the second try, 8 points on the third try, etc.</li>
+  <li>Students who show no activity (no github commits, no email discussions, etc) for the milestone will receive 0 points.</li>
+  <li>Midterm Presentation: 10%  All team members must participate.</li>
+  <li>Final Presentation: 10% All team members must participate</li>
+  <li>Gap assignments: 10%  Smaller skill and knowledge building assignments will be given in between project milestones. These will be worth 1 point each. There may be 1 or more of these per alternate week.</li>
+  <li>These are earned by each student, not by the team.</li>
+  <li>Bonus Points: as assigned throughout the semester.  These opportunities will typically be for 1 point each.  They do not count against you if you do not complete them.</li>
+  <li>The bulk of the grading is for Projects. It should be noted that the project evaluation is granularly broken down based on design, critical considerations of alternative approaches, building over existing solutions, implementation, well written tests and finally a report.
+    <ul>
+      <li>Testing: An critical aspect of distributed systems programming is to develop comprehensive test methods for the programs. A significant effort should be invested in writing programs that will thoroughly test the system code, including the handling of different error conditions.
+        <ul>
+          <li>Refer Apache Airavata Test Driven Development <a href="https://cwiki.apache.org/confluence/display/AIRAVATA/Tests+in+Airavata" target="_blank">example</a></li>
+        </ul>
+      </li>
+      <li>Gracefully handling errors: The code must reliably handle possible error conditions, both internal and reacting to external failures (in a distributed system context).</li>
+      <li>Resource Usage: Must manage resources such as memory, cpu and I/O usage with care.</li>
+      <li>Security aspects: Projects involves developing network accessible services which are inherently vulnerable to malicious attacks. Security methodologies should be carefully considered. Students should be aware of potential flaws such as string overflows or malformed incoming messages and put an effort to mitigate them.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="resources">Resources</h2>
+
+<p>During the course, instructors will provide references to journal and conference papers. A good understanding of concepts discussed in these referred papers will greatly help in absorbing the course material.</p>
+
+<h3 id="beginner-materials">Beginner Materials</h3>
+
+<ul>
+  <li>Principles of Distributed Computing – <a href="http://disco.ethz.ch/lectures/podc_allstars/" target="_blank">Lecture Collection</a></li>
+  <li><a href="https://cwiki.apache.org/confluence/download/attachments/45876421/iwsg2014_submission_19%20(2)%20(1).pdf?version=1&amp;modificationDate=1409604473000&amp;api=v2">Overview of Apache Airavata</a></li>
+</ul>
+
+<h3 id="reference-papers">Reference Papers</h3>
+
+<ul>
+  <li>Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center <a href="http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf">Apache Mesos Paper</a></li>
+  <li>ZooKeeper: Wait-free coordination for Internet-scale systems <a href="https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf">Apache Zookeeper Paper</a></li>
+</ul>
+
+<h2 id="open-collaboration">Open Collaboration</h2>
+
+<ul>
+  <li>
+    <p>Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers. We won’t hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.</p>
+  </li>
+  <li>
+    <p>Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate a design or code from elsewhere, credit the original source.</p>
+  </li>
+</ul>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

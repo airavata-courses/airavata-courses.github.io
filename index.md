@@ -4,9 +4,9 @@ layout: default
 
 # Science Gateway Architectures
 
-* **Course:** [INFO-I590, Topics in Informatics, School of Informatics and Computing, Indiana University](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO){:target="_blank"}
+* **Course:** [CSCI-B 649, Topics in Systems, Computer Science, School of Informatics and Computing, Indiana University](https://www.soic.indiana.edu/graduate/courses/index.html?number=i590&department=INFO){:target="_blank"}
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
-* **Class Schedule** Tuesdays from 8 am to 10.30 am in I2 (Informatics East) Room 122
+* **Class Schedule** Tuesdays and Thursdays from 4 pm to 5pm in I2 (Informatics East) Room 150
 
 ## Course Overview
 
