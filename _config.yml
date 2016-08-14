@@ -1,4 +1,7 @@
-title:              
+# Plugins
+gems:             ['jekyll-paginate']
+
+title:
 tagline:             
 description:        'Course on applying Open Source, Distributed Computing, Computational Science Principles'
 url:                 http://courses.airavata.org/

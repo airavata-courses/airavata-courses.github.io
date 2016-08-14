@@ -10,10 +10,6 @@ layout: default
 
 ## Course Overview
 
-The following video describes the course:
-
-[![Course Overview](http://img.youtube.com/vi/zNM25fw56YE/0.jpg)](https://youtu.be/zNM25fw56YE){:target="_blank"}
-
 Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.
 
 Gateways are interesting topics in their own right. Modern gateway systems are moving towards microservice architectures and DevOps principles employing containerization (using Docker), continuous integration and continuous delivery. 
