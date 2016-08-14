@@ -11,9 +11,8 @@ layout: default
               <i class="icon-calendar"></i>
               <p><span>23 August</span></p>
            </div>
-           <div class="s-12 m-12 l-10">
-           
-   # Course Overview #
+           <div markdown="1" class="s-12 m-12 l-10">
+            # Course Overview #
          
    </div>
         </div>
