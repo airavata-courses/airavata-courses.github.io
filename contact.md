@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Where and how to find us
+## How to find us
 
 * Email is the best way to contact the instructors. Marlon Pierce (marpierc at iu.edu>), Suresh Marru (smarru at iu.edu)
 * Twice a week lectures will be on Tuesdays and Thursdays from 4pm to 5.15pm in Informatics East (I2) Room 150.
