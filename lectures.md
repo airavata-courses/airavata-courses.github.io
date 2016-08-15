@@ -18,7 +18,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Microservices: an Overview
     * Project background to get started
 
-###  Class 3 -  August 30th
+###  Class 3 - August 30th
 * Lecture: Nuts and Bolts of the projects
    * Git and GitHub basics
    * Jetstream
