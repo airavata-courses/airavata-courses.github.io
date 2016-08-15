@@ -8,12 +8,6 @@ body {
     width: 100%;
     border-bottom: 1px solid #151E1F;
 }
-
-.logo-box img{
-    padding-top:20%; 
-    padding-right:15%;
-}
-
 h1 {
     color: #FFFFFF;
     font-family: impact,tahoma;

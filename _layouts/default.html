@@ -2,33 +2,44 @@
 <html lang="en-US">
 
 {% include head.html %}
-{% include google_analytics.html %}
 
 <body class="size-1140 align-content-left">
+<div class="line">
+    <div id="content-wrapper">
+        <!-- LEFT COLUMN -->
 
-{% include sidebar.html %}
+        {% include sidebar.html %}
 
-<!-- RIGHT COLUMN -->
-<div class="s-12 m-8 l-9">
-    <div class="box">
-        <!-- HEADER -->
-        <div class="line">
+        <!-- RIGHT COLUMN -->
+        <div class="s-12 m-8 l-9">
+            <div class="box">
+                <!-- HEADER -->
+                <!-- CAROUSEL -->
+                <div class="line">
 
-            <div class="container content">
-                {{ content }}
-            </div>
-
+                    <div class="container content">
+                        {{ content }}
+                    </div>
         </div>
     </div>
 </div>
-</div>
-</div>
 
-<script>
-    $(document).ready(function () {
-        $(".course-menu").click();
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/responsee.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/owl-carousel/owl.carousel.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $("#owl-demo").owlCarousel({
+            navigation : true,
+            slideSpeed : 300,
+            paginationSpeed : 400,
+            autoPlay : true,
+            singleItem:true
+        });
     });
-</script>
-</body>
 
+</script>
+
+{% include google_analytics.html %}
+
+</body>
 </html>
