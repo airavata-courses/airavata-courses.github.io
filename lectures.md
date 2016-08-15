@@ -87,30 +87,30 @@ The course focuses in teaching the distributed systems concepts through projects
     * Google DiRT
     * Other Examples
 
-###  Class 18 - October 27th
+###  Class 19 - October 27th
 * Lecture Topic: Managing Distributed Logging, Apache Kafka 
 
-###  Class 19 - November 1st
+###  Class 20 - November 1st
 * Lecture Topic: Stream Processing
     * Apache Storm and Twitter Heron
 
-###  Class 20 - November 3rd
+###  Class 21 - November 3rd
 
 #### Guest Lecture
 * To be Decided
 
-###  Class 21 - November 8th
+###  Class 22 - November 8th
 * Lecture Topic: Metadata management for Science Gateways
 
-###  Class 22 - November 10th
+###  Class 23 - November 10th
 * Lecture Topic: Workflows and Distributed Processing
 
-###  Class 23 - November 15th
+###  Class 24 - November 15th
 
 #### Guest Lecture
 * [IU’s research computing resources](http://researchtech.iu.edu/){:target="_blank"}
 
-###  Class 24 - November 17th
+###  Class 25 - November 17th
 * Project Milestone 3 DUE
 * Project Milestone 4 ASSIGNED
 * Lecture Topics: 
@@ -120,20 +120,20 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ### Thanksgiving Break - November 20th to 27th
 
-###  Class 25 - November 29th
+###  Class 26 - November 29th
 * Lecture Topic: Putting It All Together with Apache Airavata
 
-###  Class 26 - December 1st
+###  Class 27 - December 1st
 
 #### Guest Lecture
 * [The Open Science Grid](https://www.opensciencegrid.org/){:target="_blank"}
 
-###  Class 27 - December 6th
+###  Class 28 - December 6th
 
 #### Final Demos
 * Final presentations and demos
 
-###  Class 28 - December 8th
+###  Class 29 - December 8th
 
 #### Final Demos
 * Project Milestone 4 DUE

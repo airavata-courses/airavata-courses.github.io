@@ -63,30 +63,32 @@ Students should be familiar with Linux and Unix operating systems, basic network
 
 ## Grading
 
-* Grades are based on points that each student acquires through submitting assignments, projects mid-term and final presentations, and peer reviewing other student’s codes.
-    * 70% Semester Long Project with milestones. 
-        * See below for longer description. 
-    * 10% Mid-Term Demo/Presentations
-    * 10% Final Demo/Presentation
-    * 10% Class Participation, constructive discussion in mailing lists, pull requests, contribution to fellow student code/design reviews.
-* Students will be divided into teams. Each team will work a project with intermediate milestones due every two weeks.  There will also be a midterm and final presentation. 
-* Smaller assignments will be made on alternating weeks.
-* Course Project 70%:  There will be 7 project milestones, including mid-term and final milestones, scheduled biweekly.  Each project milestone is worth 10 points.  
-* Projects must be checked into github, must be reproducibly executable on the deadline day by the instructors.
-* If the instructors cannot execute your project and verify you have met the success criteria, the team receives 0 points.
-* A team may resubmit their assignment at any time before the next milestone. Each resubmission gets -1 point; i.e., 9 points if you get it right on the second try, 8 points on the third try, etc.
-* Students who show no activity (no github commits, no email discussions, etc) for the milestone will receive 0 points.
-* Midterm Presentation: 10%  All team members must participate.
-* Final Presentation: 10% All team members must participate
-* Gap assignments: 10%  Smaller skill and knowledge building assignments will be given in between project milestones. These will be worth 1 point each. There may be 1 or more of these per alternate week.
-* These are earned by each student, not by the team.
-* Bonus Points: as assigned throughout the semester.  These opportunities will typically be for 1 point each.  They do not count against you if you do not complete them.  
-* The bulk of the grading is for Projects. It should be noted that the project evaluation is granularly broken down based on design, critical considerations of alternative approaches, building over existing solutions, implementation, well written tests and finally a report.  
-    * Testing: An critical aspect of distributed systems programming is to develop comprehensive test methods for the programs. A significant effort should be invested in writing programs that will thoroughly test the system code, including the handling of different error conditions.
-        * Refer Apache Airavata Test Driven Development [example](https://cwiki.apache.org/confluence/display/AIRAVATA/Tests+in+Airavata){:target="_blank"}
-    * Gracefully handling errors: The code must reliably handle possible error conditions, both internal and reacting to external failures (in a distributed system context).
-    * Resource Usage: Must manage resources such as memory, cpu and I/O usage with care. 
-    * Security aspects: Projects involves developing network accessible services which are inherently vulnerable to malicious attacks. Security methodologies should be carefully considered. Students should be aware of potential flaws such as string overflows or malformed incoming messages and put an effort to mitigate them. 
+* Students will be divided into teams. 
+Each team will have a project with 4 intermediate milestones.  There will also be a midterm and final presentation. The maximum number of points for the semester is 100.  90-100 points is an A, 80-89 points is a B, etc.
+
+* Course Project 80%: There will be 4 project milestones, including mid-term and final milestones. Each project milestone is worth 20 points.
+    * Must use Apache compatible open source licensed software and tools.
+     * Projects must be checked into github, must be reproducibly executable on the deadline day by the instructors.
+        * Linux/Unix compatible
+        * If the instructors cannot execute your project and verify you have met the success criteria, the team receives 0 points.
+        * A team may resubmit their assignment at any time before the next milestone. Each resubmission gets -1 points; i.e., 9 points if you get it right on the second try, 8 points on the third try, etc.
+    * Students who show no activity (no github commits, no email discussions, etc) for the milestone will receive 0 points.
+* Midterm Presentation: 5%  All team members must participate. This is worth 5 points.
+* Final Presentation: 5% All team members must participate. This is worth 5 points.
+* Classroom Interactions and Peer Reviews: 10%. The projects and the topics will require interactive pro-active participation. Also mimicking real-world open source and software development practices, the course requires students to be aware of other approaches to problems, borrowing ideas (with proper acknowledgements and no stealing and plagiarizing) and peer reviewing and offering constructive feedback. These demonstrated interactions (on github issues and pull requests) will be worth 10 points.  
+    * 1 point perfect attendance
+    * Up to 4 points classroom interactions
+    * Up to 5 points for GitHub interactions with other projects (not your team’s project). Examples include
+        * Posting bugs that get resolved
+        * Resolving bugs in other team’s projects. These must be accepted to the code base. 
+        * Trivial issues don’t get rewarded.
+
+### Project Grading
+* Each project will be judged on ~4 quality attributes. The number will vary by assignment
+* To get all points, the project must demonstrate all attributes to the grader.  The grader must also be able to easily install and test all software by following documentation for the milestone in the team’s GitHub Wiki.
+* Each student on the team will submit a report describing what they did
+    * Give a percentage of effort for each attribute
+    * Provide auditable proof via links to issues and commits.
     
 ## Resources
 
