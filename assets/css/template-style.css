@@ -1,12 +1,12 @@
 body {
-    background: none repeat scroll 0 0 #252D30;
+    background: none repeat scroll 0 0 #990000;
 }
 .logo-box {
-    background: none repeat scroll 0 0 #252D30;
+    background: none repeat scroll 0 0 #990000;
     display: block;
     padding: 1.25em;
     width: 100%;
-    border-bottom: 1px solid #151E1F;
+    border-bottom: 1px solid #990000;
 }
 h1 {
     color: #FFFFFF;
@@ -16,17 +16,17 @@ h1 {
     text-transform: uppercase;
 }
 .aside-nav ul {
-    background: none repeat scroll 0 0 #252D30;
+    background: none repeat scroll 0 0 #990000;
 }
 .aside-nav li a {
-    border-bottom: 1px solid #151E1F;
+    border-bottom: 1px solid #990000;
     color: #FFFFFF;
 }
 .aside-nav li a:link, .aside-nav li a:visited {
     color: #FFFFFF;
 }
 .aside-nav li > ul,.aside-nav li ul ul {
-    background: none repeat scroll 0 0 #151E1F;
+    background: none repeat scroll 0 0 #990000;
 }
 .top-nav li a:hover, .aside-nav li a:hover,.aside-nav > ul > li.active-item > a:link, .aside-nav > ul > li.active-item > a:visited {
     background: none repeat scroll 0 0 #181F22;
@@ -75,7 +75,7 @@ article hr {
     visibility: hidden;
 }
 #content-wrapper {
-    background: none repeat scroll 0 0 #252D30;
+    background: none repeat scroll 0 0 #990000;
 }
 img#background {
     height: auto;
