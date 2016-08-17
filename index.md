@@ -16,40 +16,31 @@ layout: default
 
 ## Course Overview
 
-Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.
-
-Gateways are interesting topics in their own right. Modern gateway systems are moving towards microservice architectures and DevOps principles employing containerization (using Docker), continuous integration and continuous delivery. 
-
-Many gateways are also investigating how to integrate Apache’s “big data” and cloud computing software projects like Apache Mesos, Apache Spark, Apache Samza, Apache JClouds and Apache Kafka. RPC versus message-oriented middleware at scale is also an open question, as are NoSQL versus Relational DB approaches for gateway data management.  Finally, as gateways typically include Web-based user environments, choosing the right technologies and crafting the correct user experience are challenging problems.
-
-In this course, students will be divided into development teams, and each team will build a science gateway software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building science gateways as well as learning DevOps principles for deploying robust cloud services.  Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members.
+Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.   
+<br/>
+Gateways are interesting topics in their own right. Modern gateway systems utilize microservice architectures and DevOps principles in their design and operations, adopting lessons learned from cloud-based Software as a Service activities. 
+Many gateways are also investigating how to integrate Apache’s “big data” and cloud computing software projects like Apache Mesos, Apache Spark, Apache Samza, Apache JClouds and Apache Kafka. RPC versus message-oriented middleware at scale is an open question, as are NoSQL versus Relational DB approaches for gateway data management. Finally, as gateways front ends are Web-based user environments, choosing the right technologies and crafting the correct user experience are challenging problems.   
+<br/>
+In this course, students will be divided into development teams, and each team will build a science gateway software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building science gateways as well as learning DevOps principles such as containerization, continuous integration, and continuous deployment for deploying robust cloud services.    
+<br/>
+Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members.
 
 ### Course Objectives
 
-* Provide a highlevel, broad understanding of core concepts of building distributed software architectures.
+* Provide a high level, broad understanding of the application of core distributed computing systems concepts to “Software as a Service” systems that support scientific research and education. 
+* Study both abstract concepts and practical techniques for building science gateways.
+* Provide hands-on experience in developing a science gateway while working with open source philosophies modelled after Apache Software Foundation.
+* Apply the general concepts of Distributed Systems and understanding state of the art in applicable areas.
 
-* Study of both abstract concepts and practical techniques for building science gateways.
 
-* Hands-on experience in developing a science gateway while working with Open Source philosophies - particularly modelled after Apache Software Foundation.
+### Course Outcomes  
 
-* Applying the general concepts of Distributed Systems and understanding state of the art in applicable areas. 
-
-### Course Outcomes 
-
-* Demonstrate an understanding of open source contributions.
-
-* Demonstrate required skills to apply for [Google Summer of Code](https://developers.google.com/open-source/gsoc/){:target="_blank"} like programs. 
-
-* Demonstrate an understanding of applying distributed systems concepts to building middle ware for computational science gateways.
-
-* Demonstrate an ability design, develop & deploy component based micro service architecture.
-
+* Demonstrate an applied understanding of microservice architectures and their underlying distributed systems foundations.
+* Demonstrate an applied understanding of the DevOps principles of continuous integration and delivery to the development and operations of science 
+* Demonstrate an understanding of open source practices, particularly those of the Apache Software Foundation.
 * Demonstrate an ability to develop remote job submission interfaces to computational cyberinfrastructure like IU Big Red 2 Supercomputers.
-
 * Demonstrate an ability to develop a simple metadata management system.
-
-* Demonstrate an ability to develop and consume API services.  
-
+* Demonstrate an ability to develop and consume API services.
 
 ## Instructors
 The course will be taught by Marlon Pierce and Suresh Marru, who lead the Science Gateways PTI Research Center and are project management committee members for the Apache Airavata open source software.
