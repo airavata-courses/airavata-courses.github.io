@@ -12,6 +12,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Student Detailed Introductions
     * Discussion of programming languages, tools, etc
 * Lecture Topic: Science Gateways and Apache Airavata 
+* [Slides]({{ site.url }}slides/B649-Overview-Fall2016.pdf)
 
 ###  Class 2 - August 25th
 * Project Milestone 1 ASSIGNED: Microservices and Messaging 
