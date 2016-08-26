@@ -15,11 +15,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * [Slides]({{ site.url }}slides/B649-Overview-Fall2016.pdf)
 
 ###  Class 2 - August 25th
-* Project Milestone 1 ASSIGNED: Microservices and Messaging 
-* Lecture Topic: Microservices: an Overview
-    * Project background to get started
+* Lecture Topic: Getting Ready for the Project 1 Assignment [[Slides]]({{ site.url }}slides/CS649-Project1-Assignment.pdf)
+* Lecture Topic: Apache Airavata: Enabling Science with Science Gateways [[Slides]]({{ site.url }}slides/CS649-ScienceGateways-and-Science.pdf)
 
 ###  Class 3 - August 30th
+* Project Milestone 1 ASSIGNED: Microservices and Messaging 
 * Lecture: Nuts and Bolts of the projects
    * Git and GitHub basics
    * Jetstream
