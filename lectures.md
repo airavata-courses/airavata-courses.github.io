@@ -20,13 +20,18 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Class 3 - August 30th
 * Project Milestone 1 ASSIGNED: Microservices and Messaging 
-* Lecture: Nuts and Bolts of the projects
-   * Git and GitHub basics
-   * Jetstream
-   * Amazon
+* Lecture: Introduction to Weather Prediction
+    * Motivating weather prediction use case
+    * Linked Environment for Atmospheric Discovery
+    * Personal Weather Predictor 
+* Advanced Track Project
 
 ###  Class 4 - September 1
 * Lecture Topic: Services, SOA, and Microservices
+* Lecture: Nuts and Bolts of the projects
+    * Git and GitHub basics
+    * Jetstream
+    * Amazon
 
 ###  Class 5 - September 6th
 * Lecture Topic: Introduction to Messaging
