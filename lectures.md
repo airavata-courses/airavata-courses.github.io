@@ -18,7 +18,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Apache Airavata: Enabling Science with Science Gateways [[Slides]]({{ site.url }}slides/CS649-ScienceGateways-and-Science.pdf)
 
 ###  Class 3 - August 30th
-* Project Milestone 1 ASSIGNED: Microservices and Messaging 
+* Project ASSIGNED: Microservices and Messaging 
 * Lecture: Introduction to Weather Prediction [[Slides]]({{ site.url }}slides/B649-Weather-Forecasting-Project-Overview.pdf)
     * Motivating weather prediction use case
     * Linked Environment for Atmospheric Discovery
@@ -26,14 +26,15 @@ The course focuses in teaching the distributed systems concepts through projects
 * Advanced Track Project
 
 ###  Class 4 - September 1
-* Lecture Topic: Services, SOA, and Microservices
+* Project Milestone 1: Break down of Components [[Slides]]({{ site.url }}slides/B649-Project-Milestone-1.pdf)
+* Lecture: Microservices 
+
+###  Class 5 - September 6th
+* Lecture Topic: Introduction to Messaging
 * Lecture: Nuts and Bolts of the projects
     * Git and GitHub basics
     * Jetstream
     * Amazon
-
-###  Class 5 - September 6th
-* Lecture Topic: Introduction to Messaging
 
 ###  Class 6 - September  8th 
 * Project Milestone 2 ASSIGNED: Containerization of Services
