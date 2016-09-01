@@ -7,7 +7,7 @@ layout: default
 The course focuses in teaching the distributed systems concepts through projects. The lectures prepare the students to execute the projects.
 
 ###  Class 1 - August 23rd
-* Introduction to the class [Slides]({{ site.url }}slides/B649-Overview-Fall2016.pdf)
+* Introduction to the class [[Slides]]({{ site.url }}slides/B649-Overview-Fall2016.pdf)
     * Overview of class structure: projects, grading, etc.
 * Student Detailed Introductions
     * Discussion of programming languages, tools, etc
@@ -19,7 +19,7 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Class 3 - August 30th
 * Project Milestone 1 ASSIGNED: Microservices and Messaging 
-* Lecture: Introduction to Weather Prediction [Slides]({{ site.url }}slides/B649-Weather-Forecasting-Project-Overview.pdf)
+* Lecture: Introduction to Weather Prediction [[Slides]]({{ site.url }}slides/B649-Weather-Forecasting-Project-Overview.pdf)
     * Motivating weather prediction use case
     * Linked Environment for Atmospheric Discovery
     * Personal Weather Predictor 
