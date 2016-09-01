@@ -7,7 +7,7 @@ layout: default
 The course focuses in teaching the distributed systems concepts through projects. The lectures prepare the students to execute the projects.
 
 ###  Class 1 - August 23rd
-* Introduction to the class [[Slides]]({{ site.url }}slides/B649-Overview-Fall2016.pdf)
+* Introduction to the class [[Slides]]({{ site.url }}slides/B649-SGA-Overview-Fall2016.pdf)
     * Overview of class structure: projects, grading, etc.
 * Student Detailed Introductions
     * Discussion of programming languages, tools, etc
