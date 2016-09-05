@@ -7,29 +7,34 @@ layout: default
 The course focuses in teaching the distributed systems concepts through projects. The lectures prepare the students to execute the projects.
 
 ###  Class 1 - August 23rd
-* Introduction to the class
+* Introduction to the class [[Slides]]({{ site.url }}slides/B649-SGA-Overview-Fall2016.pdf)
     * Overview of class structure: projects, grading, etc.
 * Student Detailed Introductions
     * Discussion of programming languages, tools, etc
 * Lecture Topic: Science Gateways and Apache Airavata 
-* [Slides]({{ site.url }}slides/B649-Overview-Fall2016.pdf)
 
 ###  Class 2 - August 25th
 * Lecture Topic: Getting Ready for the Project 1 Assignment [[Slides]]({{ site.url }}slides/CS649-Project1-Assignment.pdf)
 * Lecture Topic: Apache Airavata: Enabling Science with Science Gateways [[Slides]]({{ site.url }}slides/CS649-ScienceGateways-and-Science.pdf)
 
 ###  Class 3 - August 30th
-* Project Milestone 1 ASSIGNED: Microservices and Messaging 
-* Lecture: Nuts and Bolts of the projects
-   * Git and GitHub basics
-   * Jetstream
-   * Amazon
+* Project ASSIGNED: Microservices and Messaging 
+* Lecture: Introduction to Weather Prediction [[Slides]]({{ site.url }}slides/B649-Weather-Forecasting-Project-Overview.pdf)
+    * Motivating weather prediction use case
+    * Linked Environment for Atmospheric Discovery
+    * Personal Weather Predictor 
+* Advanced Track Project
 
 ###  Class 4 - September 1
+* Project Milestone 1: Break down of Components [[Slides]]({{ site.url }}slides/B649-Project-Milestone-1.pdf)
 * Lecture Topic: Services, SOA, and Microservices [[Slides]]({{ site.url }}slides/CS649-MicroServices.pdf)
 
 ###  Class 5 - September 6th
 * Lecture Topic: Introduction to Messaging
+* Lecture: Nuts and Bolts of the projects
+    * Git and GitHub basics
+    * Jetstream
+    * Amazon
 
 ###  Class 6 - September  8th 
 * Lecture Topic: Containerization, Docker, Borg, etc
