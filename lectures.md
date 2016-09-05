@@ -26,13 +26,12 @@ The course focuses in teaching the distributed systems concepts through projects
    * Amazon
 
 ###  Class 4 - September 1
-* Lecture Topic: Services, SOA, and Microservices
+* Lecture Topic: Services, SOA, and Microservices [[Slides]]({{ site.url }}slides/CS649-MicroServices.pdf)
 
 ###  Class 5 - September 6th
 * Lecture Topic: Introduction to Messaging
 
 ###  Class 6 - September  8th 
-* Project Milestone 2 ASSIGNED: Containerization of Services
 * Lecture Topic: Containerization, Docker, Borg, etc
 
 ###  Class 7 - September  13th
