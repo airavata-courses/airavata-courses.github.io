@@ -30,10 +30,8 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Services, SOA, and Microservices [[Slides]]({{ site.url }}slides/CS649-MicroServices.pdf)
 
 ###  Class 5 - September 6th
-* Lecture Topic: Introduction to Messaging
-* Lecture: Nuts and Bolts of the projects
+* Lecture: Nuts and Bolts of the projects [[Slides]]({{ site.url }}slides/CS649-Git-Overview.pdf)
     * Git and GitHub basics
-    * Jetstream
     * Amazon
 
 ###  Class 6 - September  8th 
