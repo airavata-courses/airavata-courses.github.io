@@ -30,9 +30,9 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Services, SOA, and Microservices [[Slides]]({{ site.url }}slides/CS649-MicroServices.pdf)
 
 ###  Class 5 - September 6th
-* Lecture: Nuts and Bolts of the projects [[Slides]]({{ site.url }}slides/CS649-Git-Overview.pdf)
-    * Git and GitHub basics
-    * Amazon
+* Lecture: Nuts and Bolts of the projects 
+    * Git and GitHub basics [[Slides]]({{ site.url }}slides/CS649-Git-Overview.pdf)
+    * CICD with Travis-CI and Amazon Code Deploy [[Slides]]({{ site.url }}slides/CS649-CICD-Intro.pdf )
 
 ###  Class 6 - September  8th 
 * Lecture Topic: Containerization, Docker, Borg, etc
