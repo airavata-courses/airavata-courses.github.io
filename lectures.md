@@ -35,7 +35,7 @@ The course focuses in teaching the distributed systems concepts through projects
     * CICD with Travis-CI and Amazon Code Deploy [[Slides]]({{ site.url }}slides/CS649-CICD-Intro.pdf )
 
 ###  Class 6 - September  8th 
-* Lecture Topic: Introduction to Apache Thrift
+* Lecture Topic: Introduction to Apache Thrift [[Slides]]({{ site.url }}slides/B649-Thrift-Introduction-Tutorial.pdf)
 * Tutorial: Creating a microservice using Apache Thrift
 
 ###  Class 7 - September  13th
