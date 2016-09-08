@@ -35,7 +35,8 @@ The course focuses in teaching the distributed systems concepts through projects
     * CICD with Travis-CI and Amazon Code Deploy [[Slides]]({{ site.url }}slides/CS649-CICD-Intro.pdf )
 
 ###  Class 6 - September  8th 
-* Lecture Topic: Containerization, Docker, Borg, etc
+* Lecture Topic: Introduction to Apache Thrift
+* Tutorial: Creating a microservice using Apache Thrift
 
 ###  Class 7 - September  13th
 * Lecture Topic: Continuous Integration and Continuous Delivery
@@ -62,6 +63,7 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Class 12 - October 4th
 * Lecture Topic: Testing Gateways with Selenium, Sauce Labs
+* Lecture Topic: Containerization, Docker, Borg, etc
 
 ###  Class 13 - October 6th 
 * Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect
