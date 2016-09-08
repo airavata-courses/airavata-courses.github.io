@@ -39,83 +39,86 @@ The course focuses in teaching the distributed systems concepts through projects
 * Tutorial: Creating a microservice using Apache Thrift
 
 ###  Class 7 - September  13th
+* Lecture Topic: API Design, REST, Thrift, etc 
+
+###  Class 8 - September  15th
 * Lecture Topic: Continuous Integration and Continuous Delivery
 
-###  Class 8 - September  20th
+###  Class 9 - September  20th
 
 #### Guest Lecture
 * Dr. Sudhakar Pamidighantam 
 * Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
 
-###  Class 9 - September  22nd
+###  Class 10 - September  22nd
 * Project Milestone 1 DUE
 * Project Milestone 2 ASSIGNED
 * Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
 
-###  Class 10 - September  27th
-* Lecture Topic: API Design, REST, Thrift, etc 
+###  Class 11 - September  27th
 
-###  Class 11 - September  29th
+
+###  Class 12 - September  29th
 
 #### Guest Lecture
 * Speaker: [Dr. Andrea Donnellan](https://science.jpl.nasa.gov/people/Donnellan/){:target="_blank"}, NASA JPL
 * Topic: GeoGateway and Earthquake Science Cyberinfrastructure
 
-###  Class 12 - October 4th
+###  Class 13 - October 4th
 * Lecture Topic: Testing Gateways with Selenium, Sauce Labs
 * Lecture Topic: Containerization, Docker, Borg, etc
 
-###  Class 13 - October 6th 
+###  Class 14 - October 6th 
 * Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect
 
-###  Class 14 - October 11th
+###  Class 15 - October 11th
 * Lecture Topic: Applied Distributed Computing, Apache Zookeeper
 
-###  Class 15 - October 13th
+###  Class 16 - October 13th
 * Lecture Topic: Scheduling, Load Balancing, and Fault Tolerance 
 
-###  Class 16 - October 18th
+###  Class 17 - October 18th
 
 #### Midterm Demos
 * Project Midterm Demos and Presentations
 
-###  Class 17 - October 20th
+###  Class 18 - October 20th
 
 #### Midterm Demos
 * Project Milestone 2 DUE
 * Project Milestone 3 ASSIGNED
 * Project Midterm Demos and Presentations
 
-###  Class 18 - October 25th
+###  Class 19 - October 25th
 * Lecture Topic: What Can Possibly Go Wrong? 
     * Netflix’s Simian Army
     * Google DiRT
     * Other Examples
 
-###  Class 19 - October 27th
+###  Class 20 - October 27th
 * Lecture Topic: Managing Distributed Logging, Apache Kafka 
 
-###  Class 20 - November 1st
+###  Class 21 - November 1st
 * Lecture Topic: Stream Processing
     * Apache Storm and Twitter Heron
 
-###  Class 21 - November 3rd
+###  Class 22 - November 3rd
 
 #### Guest Lecture
 * To be Decided
 
-###  Class 22 - November 8th
+###  Class 23 - November 8th
 * Lecture Topic: Metadata management for Science Gateways
 
-###  Class 23 - November 10th
+###  Class 24 - November 10th
 * Lecture Topic: Workflows and Distributed Processing
 
-###  Class 24 - November 15th
+###  Class 25 - November 15th
 
 #### Guest Lecture
 * [IU’s research computing resources](http://researchtech.iu.edu/){:target="_blank"}
 
-###  Class 25 - November 17th
+###  Class 26 - November 17th
 * Project Milestone 3 DUE
 * Project Milestone 4 ASSIGNED
 * Lecture Topics: 
@@ -125,20 +128,20 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ### Thanksgiving Break - November 20th to 27th
 
-###  Class 26 - November 29th
+###  Class 27 - November 29th
 * Lecture Topic: Putting It All Together with Apache Airavata
 
-###  Class 27 - December 1st
+###  Class 28 - December 1st
 
 #### Guest Lecture
 * [The Open Science Grid](https://www.opensciencegrid.org/){:target="_blank"}
 
-###  Class 28 - December 6th
+###  Class 29 - December 6th
 
 #### Final Demos
 * Final presentations and demos
 
-###  Class 29 - December 8th
+###  Class 30 - December 8th
 
 #### Final Demos
 * Project Milestone 4 DUE
