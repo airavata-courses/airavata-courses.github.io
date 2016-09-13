@@ -10,6 +10,7 @@ layout: default
                                                                                                                               
 * **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 150
 * **Office Hours** Tuesdays and Thursdays from 3 pm to 4pm in I2 (Informatics East) Room 226B
+* **HipChat Instant Messaging** https://www.hipchat.com/gMdyarVIz 
 
 ## Information session
 * **Thursday August 18th**, Lindley Hall 102, 4pm to 5pm. 
