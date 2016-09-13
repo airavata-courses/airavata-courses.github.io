@@ -39,24 +39,25 @@ The course focuses in teaching the distributed systems concepts through projects
 * Tutorial: Creating a microservice using Apache Thrift
 
 ###  Class 7 - September  13th
-* Lecture Topic: API Design, REST, Thrift, etc 
+* Lecture Topic: REST for APIs [[Slides]]({{ site.url }}slides/CS649-REST.pdf)
 
 ###  Class 8 - September  15th
-* Lecture Topic: Continuous Integration and Continuous Delivery
+* Open project help with teaching assistants
 
 ###  Class 9 - September  20th
+* Lecture Topic: Continuous Integration and Continuous Delivery
+
+###  Class 10 - September  22nd
+* Project Milestone 1 DUE
+* Project Milestone 2 ASSIGNED
 
 #### Guest Lecture
 * Dr. Sudhakar Pamidighantam 
 * Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
 
-###  Class 10 - September  22nd
-* Project Milestone 1 DUE
-* Project Milestone 2 ASSIGNED
-* Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
 
 ###  Class 11 - September  27th
-
+* Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
 
 ###  Class 12 - September  29th
 
