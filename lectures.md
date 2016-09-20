@@ -45,25 +45,25 @@ The course focuses in teaching the distributed systems concepts through projects
 * Open project help with teaching assistants
 
 ###  Class 9 - September  20th
-* Lecture Topic: Continuous Integration and Continuous Delivery
+* Lecture Topic: Continuous Integration and Continuous Delivery [[Slides]]({{ site.url }}slides/CS649-CICD.pdf)
 
 ###  Class 10 - September  22nd
-* Project Milestone 1 DUE
-* Project Milestone 2 ASSIGNED
+* Open help session on Project Milestone 1
 
-#### Guest Lecture
-* Dr. Sudhakar Pamidighantam 
-* Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
-
+### September 26th: Project Milestone 2 DUE
 
 ###  Class 11 - September  27th
-* Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
+#### Guest Lecture
+* Speaker: [Dr. Andrea Donnellan](https://science.jpl.nasa.gov/people/Donnellan/){:target="_blank"}, NASA JPL
+* Topic: GeoGateway and Earthquake Science Cyberinfrastructure
 
 ###  Class 12 - September  29th
 
 #### Guest Lecture
-* Speaker: [Dr. Andrea Donnellan](https://science.jpl.nasa.gov/people/Donnellan/){:target="_blank"}, NASA JPL
-* Topic: GeoGateway and Earthquake Science Cyberinfrastructure
+* Dr. Sudhakar Pamidighantam 
+* Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
+* Project Milestone 2 ASSIGNED
+
 
 ###  Class 13 - October 4th
 * Lecture Topic: Testing Gateways with Selenium, Sauce Labs
@@ -76,7 +76,8 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Applied Distributed Computing, Apache Zookeeper
 
 ###  Class 16 - October 13th
-* Lecture Topic: Scheduling, Load Balancing, and Fault Tolerance 
+* Lecture Topic: Scheduling, Load Balancing, and Fault Tolerance
+* Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
 
 ###  Class 17 - October 18th
 
