@@ -20,7 +20,7 @@ The course focuses in teaching the distributed systems concepts through projects
     * Apache Thrift or Apache Wink for Service Interfaces.
     * Travis-CI for Continuous Integration 
     * Amazon Codedeploy for Continuous Deployment
-* Grading Template [[Doc]]({{ site.url }}CS649Project1SubmissionTemplate.docx)
+* **Project Submision Template [[Doc]]({{ site.url }}CS649Project1SubmissionTemplate.docx)**
 
 ###  Project 2: Security, Auditing, Distributed Coordination (Due October 20)
 * Security: OpenID Connect and OAuth
