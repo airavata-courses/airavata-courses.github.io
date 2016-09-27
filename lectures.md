@@ -53,6 +53,7 @@ The course focuses in teaching the distributed systems concepts through projects
 ### September 26th: Project Milestone 2 DUE
 
 ###  Class 11 - September  27th
+
 #### Guest Lecture
 * Speaker: [Dr. Andrea Donnellan](https://science.jpl.nasa.gov/people/Donnellan/){:target="_blank"}, NASA JPL
 * Topic: GeoGateway and Earthquake Science Cyberinfrastructure
