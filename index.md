@@ -65,7 +65,7 @@ Students should be familiar with Linux and Unix operating systems, basic network
 * Students will be divided into teams. 
 Each team will have a project with 4 intermediate milestones.  There will also be a midterm and final presentation. The maximum number of points for the semester is 100.  90-100 points is an A, 80-89 points is a B, etc.
 
-* Course Project 80%: There will be 4 project milestones, including mid-term and final milestones. Each project milestone is worth 20 points. Late assignments are penalized -1 point per day.
+* Course Project 80%: There will be 4 project milestones, including mid-term and final milestones. Each project milestone is worth 20 points. **Late assignments are penalized -1 point per day. **
     * Must use Apache compatible open source licensed software and tools.
      * Projects must be checked into github, must be reproducibly executable on the deadline day by the instructors. 
         * Linux/Unix compatible
