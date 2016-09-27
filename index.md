@@ -69,8 +69,9 @@ Each team will have a project with 4 intermediate milestones.  There will also b
     * Must use Apache compatible open source licensed software and tools.
      * Projects must be checked into github, must be reproducibly executable on the deadline day by the instructors.
         * Linux/Unix compatible
+	* Late assignments are penalized -1 point per day.
         * If the instructors cannot execute your project and verify you have met the success criteria, the team receives 0 points.
-        * A team may resubmit their assignment at any time before the next milestone. Each resubmission gets -1 points; i.e., 9 points if you get it right on the second try, 8 points on the third try, etc.
+        * A team may resubmit their assignment at any time before the next milestone. Each resubmission gets -1 points; i.e., 19 points if you get it right on the second try, 18 points on the third try, etc.
     * Students who show no activity (no github commits, no email discussions, etc) for the milestone will receive 0 points.
 * Midterm Presentation: 5%  All team members must participate. This is worth 5 points.
 * Final Presentation: 5% All team members must participate. This is worth 5 points.
