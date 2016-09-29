@@ -23,11 +23,16 @@ The course focuses in teaching the distributed systems concepts through projects
 * **Project Submision Template [[Doc]]({{ site.url }}CS649Project1SubmissionTemplate.docx)**
 
 ###  Project 2: Security, Auditing, Distributed Coordination (Due October 20)
-* Security: OpenID Connect and OAuth
-* Inter-service communication 
-* Containerization
-* Multilevel testing
-* Logging
+* Security: OpenID Connect and OAuth: show how to use OpenID Connect and OAuth2 to authenticate users and establish trust between multiple client tenants and the API gateway. Can use Google services.
+     * Grader will verify 
+* Multilevel Testing 1: Develop end-to-end system tests for your services. Develop “acceptance” and  “capacity” tests.  Capacity tests must break under some conditions. Set up your services so that you have separate testing and deployment environments.
+     * Grader will verify that you have separate test and deployment environments automated using Travis and CodeDeploy.
+* Provide plotting charts for your Capacity tests.
+     * Determine operating range for system based on Capacity tests.
+     * Modify your mock services so that they have limited capacity. For example, Each service spawn a new thread for each request Each request takes a configurable amount of time, ~3 minutes.
+* Containerization: Use Docker as a container for your microservices and demonstrate how multiple services in containers can be deployed onto a single EC2 instance.
+     * Grader will verify that you are able to deploy your services into docker containers for both your testing and production deployments on AWS.
+     * All dependencies for a particular service are packaged.
 
 ###  Project 3: Reliability & Scaling (Due November 17)
 * Fault tolerance
