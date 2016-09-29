@@ -22,7 +22,7 @@ The course focuses in teaching the distributed systems concepts through projects
     * Amazon Codedeploy for Continuous Deployment
 * **Project Submision Template [[Doc]]({{ site.url }}CS649Project1SubmissionTemplate.docx)**
 
-###  Project 2: Security, Auditing, Distributed Coordination (Due October 20)
+###  Project 2: Security, Testing, and Containerization (Due October 20)
 * Security: OpenID Connect and OAuth: show how to use OpenID Connect and OAuth2 to authenticate users and establish trust between multiple client tenants and the API gateway. Can use Google services.
      * Grader will verify 
 * Multilevel Testing 1: Develop end-to-end system tests for your services. Develop “acceptance” and  “capacity” tests.  Capacity tests must break under some conditions. Set up your services so that you have separate testing and deployment environments.
