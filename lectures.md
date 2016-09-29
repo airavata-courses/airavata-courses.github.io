@@ -65,13 +65,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
 * Project Milestone 2 ASSIGNED
 
-
 ###  Class 13 - October 4th
-* Lecture Topic: Testing Gateways with Selenium, Sauce Labs
-* Lecture Topic: Containerization, Docker, Borg, etc
+* Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect
 
 ###  Class 14 - October 6th 
-* Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect
+* Lecture Topic: Containerization, Docker, Borg, etc
 
 ###  Class 15 - October 11th
 * Lecture Topic: Applied Distributed Computing, Apache Zookeeper
