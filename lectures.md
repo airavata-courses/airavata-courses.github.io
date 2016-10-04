@@ -66,7 +66,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Project Milestone 2 ASSIGNED
 
 ###  Class 13 - October 4th
-* Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect
+* Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect [[Slides]]({{ site.url }}slides/CS649-OAuth2.pdf)
 
 ###  Class 14 - October 6th 
 * Lecture Topic: Containerization, Docker, Borg, etc
