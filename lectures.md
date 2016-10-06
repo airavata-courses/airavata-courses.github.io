@@ -68,10 +68,12 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Class 13 - October 4th
 * Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect [[Slides]]({{ site.url }}slides/CS649-OAuth2.pdf)
 
-###  Class 14 - October 6th 
-* Lecture Topic: Containerization, Docker, Borg, etc
+###  Class 14 - October 6th
+* Lecture Topic: Authentication and Authorization with OAuth2 and OpenID Connect, Part 2 [[Slides]]({{ site.url }}slides/CS649-OAuth2-PM2.pdf)
+* Lecture Topic: Capacity Testing
 
 ###  Class 15 - October 11th
+* Lecture Topic: Containerization, Docker, Borg, etc
 * Lecture Topic: Applied Distributed Computing, Apache Zookeeper
 
 ###  Class 16 - October 13th
