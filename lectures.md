@@ -73,8 +73,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Capacity Testing
 
 ###  Class 15 - October 11th
-* Lecture Topic: Containerization, Docker, Borg, etc
-* Lecture Topic: Applied Distributed Computing, Apache Zookeeper
+* Lecture Topic: Containerization and Docker [[Slides]]({{ site.url }}slides/CS649-Containers-Part1.pdf)
 
 ###  Class 16 - October 13th
 * Lecture Topic: Scheduling, Load Balancing, and Fault Tolerance
@@ -93,6 +92,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Project Midterm Demos and Presentations
 
 ###  Class 19 - October 25th
+* Lecture Topic: Applied Distributed Computing, Apache Zookeeper
 * Lecture Topic: What Can Possibly Go Wrong? 
     * Netflix’s Simian Army
     * Google DiRT
