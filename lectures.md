@@ -76,8 +76,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Containerization and Docker [[Slides]]({{ site.url }}slides/CS649-Containers-Part1.pdf)
 
 ###  Class 16 - October 13th
-* Lecture Topic: Scheduling, Load Balancing, and Fault Tolerance
-* Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
+* Lecture Topic: Containerizatoin and Docker, Part 2
 
 ###  Class 17 - October 18th
 
@@ -103,7 +102,9 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Class 21 - November 1st
 * Lecture Topic: Stream Processing
-    * Apache Storm and Twitter Heron
+* Lecture Topic: Scheduling, Load Balancing, and Fault Tolerance
+* Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
+
 
 ###  Class 22 - November 3rd
 
