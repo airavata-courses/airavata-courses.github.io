@@ -76,7 +76,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Containerization and Docker [[Slides]]({{ site.url }}slides/CS649-Containers-Part1.pdf)
 
 ###  Class 16 - October 13th
-* Lecture Topic: Containerizatoin and Docker, Part 2
+* Lecture Topic: Containerizatoin and Docker, Part 2 [[Slides]]({{ site.url }}slides/CS649-Containers-Part2.pdf)
 
 ###  Class 17 - October 18th
 
