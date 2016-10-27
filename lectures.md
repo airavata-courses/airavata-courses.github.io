@@ -91,25 +91,16 @@ The course focuses in teaching the distributed systems concepts through projects
 * Project Midterm Demos and Presentations
 
 ###  Class 19 - October 25th
-* Lecture Topic: Applied Distributed Computing, Apache Zookeeper
-* Lecture Topic: What Can Possibly Go Wrong? 
-    * Netflix’s Simian Army
-    * Google DiRT
-    * Other Examples
+* Project Midterm Demos and Presentations
 
 ###  Class 20 - October 27th
-* Lecture Topic: Managing Distributed Logging, Apache Kafka 
+* Lecture Topic: Apache Zookeeper and Distributed Systems
 
 ###  Class 21 - November 1st
-* Lecture Topic: Stream Processing
-* Lecture Topic: Scheduling, Load Balancing, and Fault Tolerance
-* Lecture Topic: Logging, Monitoring, and Notifications in Distributed Systems
-
+* Lecture Topic: IU's Jetstream and OpenStack
 
 ###  Class 22 - November 3rd
-
-#### Guest Lecture
-* To be Decided
+* Open help session for Project Milestone 3
 
 ###  Class 23 - November 8th
 * Lecture Topic: Metadata management for Science Gateways
