@@ -94,7 +94,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Project Midterm Demos and Presentations
 
 ###  Class 20 - October 27th
-* Lecture Topic: Apache Zookeeper and Distributed Systems
+* Lecture Topic: Apache Zookeeper and Distributed Systems [[Slides]]({{ site.url }}slides/CS649-DistributedComputingScienceGateways.pdf)
 
 ###  Class 21 - November 1st
 * Lecture Topic: IU's Jetstream and OpenStack
