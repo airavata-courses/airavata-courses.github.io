@@ -103,23 +103,18 @@ The course focuses in teaching the distributed systems concepts through projects
 * Open help session for Project Milestone 3
 
 ###  Class 23 - November 8th
-* Lecture Topic: Metadata management for Science Gateways
+* Lecture Topic: Apache Mesos
 
 ###  Class 24 - November 10th
-* Lecture Topic: Workflows and Distributed Processing
+* Lecture Topic: Messaging and Microservices [[Slides]]({{ site.url }}slides/CS649-MessagingAndMicroservices.pdf)
 
 ###  Class 25 - November 15th
-
-#### Guest Lecture
-* [IU’s research computing resources](http://researchtech.iu.edu/){:target="_blank"}
+* Lecture Topic: DevSecOps and Microservice Security
 
 ###  Class 26 - November 17th
 * Project Milestone 3 DUE
 * Project Milestone 4 ASSIGNED
-* Lecture Topics: 
-    * Clusters
-    * Schedulers
-    * [XSEDE](https://www.xsede.org/){:target="_blank"}
+* Open help session for Project Milestone 3
 
 ### Thanksgiving Break - November 20th to 27th
 
