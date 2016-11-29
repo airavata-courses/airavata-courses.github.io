@@ -109,7 +109,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Lecture Topic: Messaging and Microservices [[Slides]]({{ site.url }}slides/CS649-MessagingAndMicroservices.pdf)
 
 ###  Class 25 - November 15th
-* Lecture Topic: DevSecOps and Microservice Security
+* Lecture Topic: DevSecOps and Microservice Security [[Slides]]({{ site.url }}slides/DevSecOps-microservicesDevOps.pdf)
 
 ###  Class 26 - November 17th
 * Project Milestone 3 DUE
