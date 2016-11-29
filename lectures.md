@@ -119,12 +119,10 @@ The course focuses in teaching the distributed systems concepts through projects
 ### Thanksgiving Break - November 20th to 27th
 
 ###  Class 27 - November 29th
-* Lecture Topic: Putting It All Together with Apache Airavata
+* Lecture Topic: Science Gateways and Clusters [[Slides]]({{ site.url }}slides/CS649-ClusterScheduling.pdf)
 
 ###  Class 28 - December 1st
-
-#### Guest Lecture
-* [The Open Science Grid](https://www.opensciencegrid.org/){:target="_blank"}
+Lecture Topic: Amazon and Atmospheric sciences; Advanced Gateway Topics
 
 ###  Class 29 - December 6th
 
