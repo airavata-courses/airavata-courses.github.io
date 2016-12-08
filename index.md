@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Spring 2017 Advanced Science Gateway Architectures [Syllabus](spring2017.html)
-
 ## Fall 2016 Science Gateway Architectures
 
 * **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
@@ -13,6 +11,8 @@ layout: default
 * **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 150
 * **Office Hours** Tuesdays and Thursdays from 3 pm to 4pm in I2 (Informatics East) Room 226B
 * **HipChat Instant Messaging** https://www.hipchat.com/gMdyarVIz 
+
+#### [Spring 2017 Advanced Science Gateway Architectures](spring2017.html)
 
 ## Information session
 * **Thursday August 18th**, Lindley Hall 102, 4pm to 5pm. 

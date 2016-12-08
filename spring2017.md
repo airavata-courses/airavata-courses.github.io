@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Advanced Science Gateway Architectures
+## Spring 2017 - Advanced Science Gateway Architectures
 
 * **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
@@ -10,7 +10,6 @@ layout: default
 * **Class Schedule** Fridays from 1 pm to 3.30 pm in I2 (Informatics East) Room 130
 * **Office Hours** On Request
 * **HipChat Instant Messaging** https://www.hipchat.com/gMdyarVIz 
-
 
 ## Course Overview
 
