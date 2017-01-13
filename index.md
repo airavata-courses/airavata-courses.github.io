@@ -12,8 +12,6 @@ layout: default
 * **Office Hours** Tuesdays and Thursdays from 3 pm to 4pm in I2 (Informatics East) Room 226B
 * **HipChat Instant Messaging** https://www.hipchat.com/gMdyarVIz 
 
-#### [Spring 2017 Advanced Science Gateway Architectures](spring2017.html)
-
 ## Information session
 * **Thursday August 18th**, Lindley Hall 102, 4pm to 5pm. 
 * Provide an overview of the class and set expectations. 
