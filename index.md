@@ -2,92 +2,94 @@
 layout: default
 ---
 
-## Fall 2016 Science Gateway Architectures
+## Spring 2017 - Advanced Science Gateway Architectures
 
 * **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
-* **Associate Instructors:** [Anuj Bhandar](mailto:anujbhan@umail.iu.edu); [Ajinkya Dhamnaskar](mailto:adhamnas@umail.iu.edu); [Abhijit Karanjkar](mailto:aykaranj@umail.iu.edu); [Mangirish Wagle](mailto:mawagle@umail.iu.edu)
                                                                                                                               
-* **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 150
-* **Office Hours** Tuesdays and Thursdays from 3 pm to 4pm in I2 (Informatics East) Room 226B
+* **Class Schedule** Fridays from 1 pm to 3.30 pm in I2 (Informatics East) Room 130
+* **Office Hours** On Request
 * **HipChat Instant Messaging** https://www.hipchat.com/gMdyarVIz 
-
-## Information session
-* **Thursday August 18th**, Lindley Hall 102, 4pm to 5pm. 
-* Provide an overview of the class and set expectations. 
-* Why you should take it and who should not take it. 
 
 ## Course Overview
 
-Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, and other scientific fields by bringing unprecedented computing power to a broad community of scientists.  
+The goal of this course is for the students, building on their experiences in the introductory “Science Gateway Architectures” course, to explore specific open problems in science gateway architectures. Working with the course instructors, students will learn how to formulate concrete problems from general research issues, design and implement solutions, and critically evaluate their solutions and the solutions of their peers.
+
 <br/>
-Gateways are interesting topics in their own right. Modern gateway systems utilize microservice architectures and DevOps principles in their design and operations, adopting lessons learned from cloud-based Software as a Service activities. 
-Many gateways are also investigating how to integrate Apache’s “big data” and cloud computing software projects like Apache Mesos, Apache Spark, Apache Samza, Apache JClouds and Apache Kafka. RPC versus message-oriented middleware at scale is an open question, as are NoSQL versus Relational DB approaches for gateway data management. Finally, as gateways front ends are Web-based user environments, choosing the right technologies and crafting the correct user experience are challenging problems.   
+Over the last two decades, science gateways have matured from practical Web portals designed to submit jobs to supercomputers into full fledged distributed systems cyberinfrastructure that aims to manage all aspects of a computational and data science research, from conception to exploration to publication to reproducibility. It is a research challenge to investigate distributed systems architectures for science gateways that simultaneously enable scientific research in computational and data science, adopt the best modern “DevOps” practices for managing the developing and operations cycle, and have firm foundations in distributed systems concepts. The overarching problem is to do distributed computing research to define a reference architecture that can accommodate explorations of solutions to these challenges.
+
 <br/>
-In this course, students will be divided into development teams, and each team will build a science gateway software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building science gateways as well as learning DevOps principles such as containerization, continuous integration, and continuous deployment for deploying robust cloud services.    
-<br/>
-Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members.
-
-### Course Objectives
-
-* Provide a high level, broad understanding of the application of core distributed computing systems concepts to “Software as a Service” systems that support scientific research and education. 
-* Study both abstract concepts and practical techniques for building science gateways.
-* Provide hands-on experience in developing a science gateway while working with open source philosophies modelled after Apache Software Foundation.
-* Apply the general concepts of Distributed Systems and understanding state of the art in applicable areas.
-
-
-### Course Outcomes  
-
-* Demonstrate an applied understanding of microservice architectures and their underlying distributed systems foundations.
-* Demonstrate an applied understanding of the DevOps principles of continuous integration and delivery to the development and operations of science 
-* Demonstrate an understanding of open source practices, particularly those of the Apache Software Foundation.
-* Demonstrate an ability to develop remote job submission interfaces to computational cyberinfrastructure like IU Big Red 2 Supercomputers.
-* Demonstrate an ability to develop a simple metadata management system.
-* Demonstrate an ability to develop and consume API services.
+In this course, we will examine the requirements for a distributed computing framework that can simultaneously address the requirements of both computational and data-centric cyberinfrastructure. Through exploratory projects, students will have the opportunity to map distributed systems concepts to science gateway requirements. Course topics will be based on the Apache Airavata framework, which will provide a laboratory for student projects; students will explore alternative approaches for implementing innovative capabilities within the Airavata. Students will gain visibility of their work through public pull requests to the Apache Airavata code repository and discussions of their work on the public Apache Airavata mailing lists. This course will requires the background of the Spring 2016 (INFO-I509) and Fall 2016 (CSCI-B 649) “Science Gateway Architecture” courses. Students must have approval from the instructors to enroll.
 
 ## Instructors
 The course will be taught by Marlon Pierce and Suresh Marru, who lead the Science Gateways PTI Research Center and are project management committee members for the Apache Airavata open source software.
 
 ## Prerequisites
 
-Students should be familiar with Linux and Unix operating systems, basic networking concepts, one or more programming languages, databases, basics of Web development, and version control systems
+Students should have previously taken the Science Gateways Architecture course in Spring 2016 or Fall 2016. If you have not taken the course, email the instructors with your background and interests in the course. 
 
-## Student Teams
+## Course Format and Weekly Lectures
 
-* Team size will depend on enrollment but will range from 2-5.
-* Agree on an editor and environment that the team is comfortable with. We recommend IntelliJ Idea
-* Team members who are less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to all team members.
+The course will consist of 150 minutes/week of contact time with the instructors as lectures and team discussions. Specific classes will be structured around lectures on topics relevant to the projects. These will be a mixture of instructor-led and student-led presentations.
+
+## Project Themes
+
+Through exploratory themes, students will validate their understanding or learn foundation distributed systems concepts like Reliability, Scalability, Efficiency and Availability. The class will enable the students to get deeper insights into modern web scale systems and assumes understanding of DevOps strategies, microservice architecture principles and underpinning concepts like applications of CAP theorem.
+
+<br/>
+Each student will contribute to one or more project themes from the list below as part of a student team. The student teams will be responsible for researching, designing, implementing, and evaluating their solutions. Each theme will be assigned a project leader, who will be an experienced Apache Airavata developer, and 2-3 additional student team members.
+
+* Theme 1: APIs, Data Model Representation and Storage
+    * API Comparisons: REST, Swagger, Thrift, ProtoBuff etc.
+    * Optimal serialization, deserialization, storage and search strategies
+    * Internal (CPI) versus externally exposed (API) data models
+* Theme 2: Distributed Workload Distribution
+    * Load Balancing Stateful vs Stateless Services
+    * Message based vs hybrid message-RPC vs pure RPC.
+    * Work-Queue vs Master-Worker load balancing
+* Theme 3: DevOps Strategies
+    * Fault tolerance testing and validation
+    * Load balancing testing and validation
+    * Continuous upgrades without downtime
+    * Capacity testing
+    * Comparison of hosting alternatives: OpenStack (Jetstream), Amazon AWS, Google, Microsoft Azure
+* Theme 4: Cyberinfrastructure Integration
+    * Interacting with remote computing resources and data
+    * Metascheduling
+    * Gateway metadata and provenance
+    * Alternative resource utilization
+* Theme 5: Cybersecurity
+    * PHI, HIPAA, etc alignment for gateways
+    * DevSecOps practices
+    * Auditing, monitoring, and event detection
+    * Client assurance
+* Theme 6: Data-Centric Computing and Gateways
+    * Airavata and data stream processing
+    * Internet of Things and Airavata
+    * Searching and data mining structured data sets
+    * Event-driven computations
+* Theme 7: Scientific User Environments
+    * Gateways and interactive computing
+    * Application monitoring
+    * Visualization
+    * Modern user interfaces and environments for science
+    * Notebook integration
+* Theme 8: Application Toolboxes for Airavata Applications
+    * Defining toolboxes: application and resource collections.
+    * Toolbox templates
+    * Packaging, integrating, and sharing tool boxes
 
 ## Grading
 
-* Students will be divided into teams. 
-Each team will have a project with 4 intermediate milestones.  There will also be a midterm and final presentation. The maximum number of points for the semester is 100.  90-100 points is an A, 80-89 points is a B, etc.
+This will be a project-based course with students working on team projects. Each project will be subdivided into four milestones with specific, demonstrated deliverables that the student teams will present to the class. Students will use these deliverables to evaluate their solutions and make specific conclusions on their solutions to the project challenges. All work will be in public GitHub or Apache-hosted repositories.
 
-* Course Project 80%: There will be 4 project milestones, including mid-term and final milestones. Each project milestone is worth 20 points. **Late assignments are penalized -1 point per day. **
-    * Must use Apache compatible open source licensed software and tools.
-     * Projects must be checked into github, must be reproducibly executable on the deadline day by the instructors. 
-        * Linux/Unix compatible
-        * If the instructors cannot execute your project and verify you have met the success criteria, the team receives 0 points.
-        * A team may resubmit their assignment at any time before the next milestone. Each resubmission gets -1 points; i.e., 19 points if you get it right on the second try, 18 points on the third try, etc.
-    * Students who show no activity (no github commits, no email discussions, etc) for the milestone will receive 0 points.
-* Midterm Presentation: 5%  All team members must participate. This is worth 5 points.
-* Final Presentation: 5% All team members must participate. This is worth 5 points.
-* Classroom Interactions and Peer Reviews: 10%. The projects and the topics will require interactive pro-active participation. Also mimicking real-world open source and software development practices, the course requires students to be aware of other approaches to problems, borrowing ideas (with proper acknowledgements and no stealing and plagiarizing) and peer reviewing and offering constructive feedback. These demonstrated interactions (on github issues and pull requests) will be worth 10 points.  
-    * 1 point perfect attendance
-    * Up to 4 points classroom interactions
-    * Up to 5 points for GitHub interactions with other projects (not your team’s project). Examples include
-        * Posting bugs that get resolved
-        * Resolving bugs in other team’s projects. These must be accepted to the code base. 
-        * Trivial issues don’t get rewarded.
+<br/>
+Each project milestone will be worth 20 points. To earn full credit, the student teams must submit the project milestone on time and demonstrate to the instructors that all required deliverables and evaluations were met.
 
-### Project Grading
-* Each project will be judged on ~4 quality attributes. The number will vary by assignment
-* To get all points, the project must demonstrate all attributes to the grader.  The grader must also be able to easily install and test all software by following documentation for the milestone in the team’s GitHub Wiki.
-* Each student on the team will submit a report describing what they did
-    * Give a percentage of effort for each attribute
-    * Provide auditable proof via links to issues and commits.
+<br/>
+Each student will also be assigned 5 thirty-minute presentations throughout the semester, with each presentation worth points (5 points total). Students will submit a final report (10 points), in
+which the student will summarize his/her individual work and contributions. This will include pointers to the student’s code contributions, developer list discussions, presentation materials, etc. The remaining 5 points are awarded based on attendance, classroom participation, and interactions with other students and with the instructors.
+
     
 ## Resources
 
@@ -108,8 +110,3 @@ During the course, instructors will provide references to journal and conference
 * Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers. We won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 
 * Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate a design or code from elsewhere, credit the original source.
-
-## Project & Lectures
-
-* Detailed project milestones are described on the [Projects Page](projects.html)
-* Detailed class by class lecture scheduled are described on the [Lecture Page](lectures.html)
