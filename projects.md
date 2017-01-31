@@ -31,3 +31,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * Scalable 
 * Pluggable 
 * Facilitate Overlaid Features
+
+###  Project Theme 3: Distributed workload management 
+* [[Slides]]({{ site.url }}slides/CS649-Spring17-Distributed-Workload.pdf)
+* Allow Decoupling 
+* Ensure Impedance mismatch
+* Scaling, Elasticity
+* Fault Tolerance (Resilience) 
+* Asynchronous Communications 
