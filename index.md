@@ -77,12 +77,13 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
 ## Syllabus
 * Week 1: Introductions
     * Lecture 1: August 22
-    * Goal: Students should understand what the course is about and what is expected from them.
-    * Topics: 
-        * Introduce students to primary science gateways concepts
-        * Introduce students to Apache Airavata
-        * Introduce students to the Apache Way, open source
-        * Introduce students to planned projects
+        * [[Slides]]({{ site.url }}slides/SOIC-B649-Fall2017-Overview.pdf)
+        * Goal: Students should understand what the course is about and what is expected from them.
+        * Topics: 
+            * Introduce students to primary science gateways concepts
+            * Introduce students to Apache Airavata
+            * Introduce students to the Apache Way, open source
+            * Introduce students to planned projects
     * Lecture 2: August 24th
         * Goal: Students should understand what the course is about and what is expected from them.
         * Assignment 1: August 29th
