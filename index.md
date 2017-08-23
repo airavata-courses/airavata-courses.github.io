@@ -77,7 +77,8 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
 ## Syllabus
 * Week 1: Introductions
     * Lecture 1: August 22
-        * [[Slides]]({{ site.url }}slides/SOIC-B649-Fall2017-Overview.pdf)
+        * [[Class Overview Slides]]({{ site.url }}slides/SOIC-B649-Fall2017-Overview.pdf)
+        * [[Assignment 1 Slides]]({{ site.url }}slides/SICE-Fall17-B649-Assignment-1.pdf)
         * Goal: Students should understand what the course is about and what is expected from them.
         * Topics: 
             * Introduce students to primary science gateways concepts
