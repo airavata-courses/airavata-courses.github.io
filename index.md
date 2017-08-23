@@ -87,7 +87,7 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
             * Introduce students to planned projects
     * Lecture 2: August 24th
         * Goal: Students should understand what the course is about and what is expected from them.
-        * Assignment 1: August 29th
+    * Assignment 1: Due August 29th
         * Using the programming language of your choice, develop 3 gateway services and a simple Web user interface: a registry service, an orchestrator service, an enactment service, and an API server.  
         * Every student must do this individually
 * Week 2: Basic Skills, Part 1
@@ -183,7 +183,7 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
     * Lecture 26: November 30th
         * Goal: Expand on previous lecture topics
 * Week 16: Final Presentations
-    * Final Team Presentations - December 5ht
+    * Final Team Presentations - December 5th
     * Final Team Presentations - December 7th
 * Week 17: Finals Week
     * Finals week, no classes
