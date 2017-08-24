@@ -25,14 +25,20 @@ layout: default
 * Code submission due September 12th 
 * Peer reviews due September 19th
 
+* Using Docker, RabbitMQ, and Apache Jenkins, deploy the Microservice system from Assignment on Jetstream
+
 ### Assignment 3 
 * Assigned on September 19th 
 * Code submission due September 25th 
 * Peer reviews due October 2nd
 
+* Using Assignment 2, containerize the microservices and use Apache Thrift as a serializable message format.
+
 ### Midterm Presentations
 * October 10th 
 * October 12th
+
+* Using Assignment 3 and Apache Mesos, develop a load balancing approach that detects and handles faults on Jetstream
 
 ### Assignment 4 
 * Assigned on October 3rd 
@@ -43,6 +49,8 @@ layout: default
 * Assigned on October 17th 
 * Code submission due October 23rd 
 * Peer reviews due October 30th
+
+* Reconstruct Assignment 4 using Apache Helix
 
 ### Assignment 6 
 * Assigned on October 31st 
