@@ -12,10 +12,13 @@ layout: default
     * Associate Instructors will then grade the assignments after the peer-review deadline. 
 
 ###  Assignment 1 
-* [[Assignment 1 Overview]]({{ site.url }}slides/SICE-Fall17-B649-Assignment-1.pdf)
 * Assigned on August 22nd
 * Code submission due August 28th 
 * Peer reviews due September 4th
+
+* [[Assignment 1 Overview]]({{ site.url }}slides/SICE-Fall17-B649-Assignment-1.pdf)
+* Using the programming language of your choice, develop 3 gateway services and a simple Web user interface: a registry service, an orchestrator service, an enactment service, and an API server.  
+* Every student must do this individually
 
 ### Assignment 2 
 * Assigned on September 5th 
