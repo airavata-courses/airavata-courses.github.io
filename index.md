@@ -10,7 +10,7 @@ layout: default
     
 * **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 150
 * **Office Hours** On Request
-* **HipChat Instant Messaging** https://www.hipchat.com/gMdyarVIz 
+* **HipChat Instant Messaging** https://www.hipchat.com/g6Use7j8w
 
 ## Course Structure
 
