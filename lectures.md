@@ -24,6 +24,7 @@ The course focuses in teaching the distributed systems concepts through projects
     * Overview of RPC and Message Serialization using Apache Thrift
 
 * [[Apache Thrift Slides]]({{ site.url }}slides/SICE-Fall17-B649-Thrift-Introduction.pdf)
+* [[Class Details Slides]]({{ site.url }}slides/CS649Fall2017-Lecture2-Course-Details.pdf)
 
 ###  Lecture 3 - August 29th
 * Goal: students will understand the basics of microservices and messaging
@@ -32,7 +33,7 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 4 - August 31st
 * Goal: students will understand how to use containers
 * Topic: Microservices
-* [[Class Details Slides]]({{ site.url }}slides/CS649Fall2017-Lecture2-Course-Details.pdf)
+* [[Class Details Slides]]({{ site.url }}slides/Fall2017-CS649-GradingProjectsNotes.pptx)
 * [[MicroServices Lecture Slides]]({{ site.url }}slides/CS649-Fall2017-MicroServices.pptx)
         
 ###  Lecture 5 - September 5th
@@ -42,7 +43,10 @@ The course focuses in teaching the distributed systems concepts through projects
 * [[MicroServices and Messaging Lecture Slides]]({{ site.url }}slides/CS649-Fall2017-MessagingAndMicroservices.pptx)
         
 ###  Lecture 6 - September  7th 
-* Goal: Recap, reinforce initial lecture material
+* Goal: Students will understand the basics of continuous integration and deployment
+* Topics: Overview of continuous integration and deployment; Apache Jenkins
+* [[Continuous Integration and Deployment Slides]]({{ site.url }}slides/Fall2017-CICDApacheJenkins.pptx)
+
 
 ###  Lecture 7 - September  12th
 * Goal: Students will understand the use of internal and external APIs and data models within a microservice architecture
