@@ -44,13 +44,13 @@ The course focuses in teaching the distributed systems concepts through projects
         
 ###  Lecture 6 - September  7th 
 * Goal: Students will understand the basics of continuous integration and deployment
-* Topics: Overview of continuous integration and deployment; Apache Jenkins
-* [[Continuous Integration and Deployment Slides]]({{ site.url }}slides/Fall2017-CICDApacheJenkins.pptx)
-
+* Topics: Help session, demo of Apache Jenkins
 
 ###  Lecture 7 - September  12th
-* Goal: Students will understand the use of internal and external APIs and data models within a microservice architecture
-* Topic: API, API servers: basics of REST, Thrift
+* Goal: Students will understand the basics of continuous integration and deployment
+* Topic:
+* [[Assignment 1 Followup Remarks]]({{ site.url }}slides/Fall2017-Assignment1FollowUp.pptx)
+* [[Continuous Integration and Deployment Slides]]({{ site.url }}slides/Fall2017-CICDApacheJenkins.pptx)
 
 ###  Lecture 8 - September  14th
 * Goal: Students will understand the use of internal and external APIs and data models within a microservice architecture
@@ -68,10 +68,6 @@ The course focuses in teaching the distributed systems concepts through projects
 * Goal: Students will gain a basic understanding of distributed systems concepts and their relations to microservice architectures
 * Topics: Distributed systems intro, part 1
         
-#### Guest Lecture
-* Speaker: [Dr. Andrea Donnellan](https://science.jpl.nasa.gov/people/Donnellan/){:target="_blank"}, NASA JPL
-* Topic: GeoGateway and Earthquake Science Cyberinfrastructure
-
 ###  Lecture 12 - September  28th
 * Goal: Students will gain a basic understanding of distributed systems concepts and their relations to microservice architectures
 * Topics: Distributed systems intro, part 2        
