@@ -65,7 +65,7 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 10 - September  21st
 * Goal: Further understand Airavata projects
 * Topics: Elaborate on Assignment next steps
-* [[Project themes introduction slides]]({{ site.url }}slides/SICE-Fall17-B649-Assignment3.pdf)
+* [[Assignment 3 instruction slides]]({{ site.url }}slides/SICE-Fall17-B649-Assignment3.pdf)
 
 ###  Lecture 11 - September  26th
 * Goal: Students will gain a basic understanding of distributed systems concepts and their relations to microservice architectures
