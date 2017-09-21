@@ -53,12 +53,14 @@ The course focuses in teaching the distributed systems concepts through projects
 * [[Continuous Integration and Deployment Slides]]({{ site.url }}slides/Fall2017-CICDApacheJenkins.pptx)
 
 ###  Lecture 8 - September  14th
-* Goal: Students will understand the use of internal and external APIs and data models within a microservice architecture
-* Topic: APIs, API servers: load balancing and fault tolerance
+* Goal: Understand the motivations for Apache Airavata
+* Topic: Supercomputing and Airavata Abstractions to build Science Gateways
+* [[Airavata introduction slides]]({{ site.url }}slides/Fall2017-SICE-CSB649-Intro-Airavata.pdf)
         
 ###  Lecture 9 - September  19th
-* Goal: Students will understand the use of microservice fabrics
-* Topics: Apache Mesos and DC/OS
+* Goal: Understand project themes
+* Topics: Introducing Airavata based projects
+* [[Project themes introduction slides]]({{ site.url }}slides/SICE-Fall17-B649-Airavata-Projects.pdf)
         
 ###  Lecture 10 - September  21st
 * Goal: Students will understand the use of microservice fabrics
