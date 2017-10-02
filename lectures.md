@@ -72,8 +72,9 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topics: Distributed systems intro, part 1
         
 ###  Lecture 12 - September  28th
-* Goal: Students will gain a basic understanding of distributed systems concepts and their relations to microservice architectures
-* Topics: Distributed systems intro, part 2        
+* Goal: Phase 2 Apache Airavata contributions. 
+* Topics: Assignment 4 ideas
+* [[Assignment 4 ideas]]({{ site.url }}slides/SICE-Fall17-B649-Assignments4.pdf)      
 
 ###  Lecture 13 - October 3rd
 * Goal: Students will understand the basics of the ELK stack and its use in microservice systems
