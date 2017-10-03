@@ -77,16 +77,16 @@ The course focuses in teaching the distributed systems concepts through projects
 * [[Assignment 4 ideas]]({{ site.url }}slides/SICE-Fall17-B649-Assignments4.pdf)      
 
 ###  Lecture 13 - October 3rd
-* Goal: Students will understand the basics of the ELK stack and its use in microservice systems
+* Goal: Review Project 3 and Project 4 assignments
 
 ###  Lecture 14 - October 5th
-* Goal: Students will understand the basics of the ELK stack and its use in microservice systems
+* Goal: Review Project 3 and Project 4 assignemnts
 
 ###  Lecture 15 - October 10th
-* Goal: students will understand the basics of science gateway security 
+* Mid-Term Presentations
 
 ###  Lecture 16 - October 12th
-* Lecture Topic: Containerizatoin and Docker, Part 2 [[Slides]]({{ site.url }}fall2016/slides/CS649-Containers-Part2.pdf)
+* Mid-Term Presentations
 
 ###  Lecture 15 - October 17th
 * Goal: students will understand security implementations in science gateways

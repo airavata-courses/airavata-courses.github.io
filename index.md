@@ -31,7 +31,7 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
         * You will get 8 points for your submission
         * You will get 1 point for peer reviewing other submissions 
         * 2 peer review assignments 
-    * There will be 8 assignments
+    * There will be 7 assignments, with Assignment 7 counting 20 points
     * Assignments will be graded on functionality of the submission, which must be documented in your wiki
     * Each assignment is submitted as a Wiki entry in GitHub
     * Each student gets a github repo in https://github.com/airavata-courses 
