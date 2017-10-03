@@ -77,10 +77,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * [[Assignment 4 ideas]]({{ site.url }}slides/SICE-Fall17-B649-Assignments4.pdf)      
 
 ###  Lecture 13 - October 3rd
-* Goal: Review Project 3 and Project 4 assignments
+* Goal: Understand some basic concepts in distributed systems
+* * [[Introduction to Distributed Systems Slides]]({{ site.url }}slides/Fall2017-DistributedComputingScienceGateways.pptx)
 
 ###  Lecture 14 - October 5th
-* Goal: Review Project 3 and Project 4 assignemnts
+* Goal: Review project Assignment 4
 
 ###  Lecture 15 - October 10th
 * Mid-Term Presentations
