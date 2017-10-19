@@ -78,7 +78,7 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 13 - October 3rd
 * Goal: Understand some basic concepts in distributed systems
-* * [[Introduction to Distributed Systems Slides]]({{ site.url }}slides/Fall2017-DistributedComputingScienceGateways.pptx)
+* [[Introduction to Distributed Systems Slides]]({{ site.url }}slides/Fall2017-DistributedComputingScienceGateways.pptx)
 
 ###  Lecture 14 - October 5th
 * Goal: Review project Assignment 4
@@ -90,13 +90,14 @@ The course focuses in teaching the distributed systems concepts through projects
 * Mid-Term Presentations
 
 ###  Lecture 15 - October 17th
-* Goal: students will understand security implementations in science gateways
+* Goal: Students will gain a better understanding of how scientists use science gateways
+* Guest lecturer:  Dr. Sudhakar Pamidighantam 
+* Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
+
 
 ###  Lecture 16 - October 18th
-
-#### Guest Lecture
-* Dr. Sudhakar Pamidighantam 
-* Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
+* Goal: Students will gain an understanding of distributed messaging system by examining Apache Kafka
+* [[Distributed Systems Case Study Slides]]({{ site.url }}slides/Fall2017-ApacheKafkaDistributedSystems.pptx)
 
 ###  Lecture 17 - October 24th
 * Guest Lecture: Jetstream and OpenStack
