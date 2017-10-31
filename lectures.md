@@ -106,7 +106,8 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Clusters and Supercomputers
 
 ###  Lecture 19 - October 31st 
-* Goal: students will understand Apache Airavata basics and how to make contributions
+* Goal: students will understand the use of REST in science gateways and distributed systems.
+* [[REST and Science Gateways Slides ]] ({{ site.url }}slides/Fall2017-ScienceGateways-REST.pptx)
 
 ###  Lecture 20 - November 2nd
 * Open help session for Project Milestone 3
