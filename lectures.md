@@ -110,13 +110,15 @@ The course focuses in teaching the distributed systems concepts through projects
 * [[REST and Science Gateways Slides ]] ({{ site.url }}slides/Fall2017-ScienceGateways-REST.pptx)
 
 ###  Lecture 20 - November 2nd
-* Open help session for Project Milestone 3
+* Goal: students will understand log-centric systems and consensus
+* [[Log Centric Systems and Science Gateways]] ({{ site.url }}slides/Fall2017-ScienceGateways-REST.pptx)
 
 ###  Lecture 21 - November 7th
-* Lecture Topic: Apache Mesos
+* Goal: students will learn how log systems can be used for continuous deployment, and how Byzantine faults can be handled
+* * [[Log Centric Systems and Science Gateways: Advanced Topics]] ({{ site.url }}slides/Fall2017-AdvancedRaftTopics.pptx)
 
 ###  Lecture 22 - November 9th
-* Lecture Topic: Messaging and Microservices [[Slides]]({{ site.url }}fall2016/slides/CS649-MessagingAndMicroservices.pdf)
+
 
 ###  Lecture 23 - November 14th
 * Guest Lecture: TBD
@@ -127,8 +129,8 @@ The course focuses in teaching the distributed systems concepts through projects
 ### Thanksgiving Break - November 19th to 26th - no classes
 
 ###  Lecture 27 - November 29th
-* Goal: Expand on previous lecture topics
+
 
 ###  Lecture 28 - December 1st
-* Goal: Expand on previous lecture topics
+* Goal: students will preview advanced topics that will be covered in the Spring 2018 course
 
