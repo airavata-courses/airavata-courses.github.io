@@ -111,14 +111,13 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 20 - November 2nd
 * Goal: students will understand log-centric systems and consensus
-* [[Log Centric Systems and Science Gateways]]({{ site.url }}slides/Fall2017-ScienceGateways-REST.pdf)
+* [[Log Centric Systems and Science Gateways]]({{ site.url }}slides/Fall2017-ScienceGateways-Fall2017-SGACourse-RaftLogsEtc.pptx)
 
 ###  Lecture 21 - November 7th
 * Goal: students will learn how log systems can be used for continuous deployment, and how Byzantine faults can be handled
-* [[Log Centric Systems and Science Gateways: Advanced Topics]]({{ site.url }}slides/Fall2017-AdvancedRaftTopics.pdf)
 
 ###  Lecture 22 - November 9th
-
+* [[Log Centric Systems and Science Gateways: Advanced Topics]]({{ site.url }}slides/Fall2017-AdvancedRaftTopics.pdf)
 
 ###  Lecture 23 - November 14th
 * Guest Lecture: TBD
