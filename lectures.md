@@ -97,7 +97,7 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 16 - October 18th
 * Goal: Students will gain an understanding of distributed messaging system by examining Apache Kafka
-* [[Distributed Systems Case Study Slides]]({{ site.url }}slides/Fall2017-ApacheKafkaDistributedSystems.pptx)
+* [[Distributed Systems Case Study Slides]]({{ site.url }}slides/Fall2017-ApacheKafkaDistributedSystems.pdf)
 
 ###  Lecture 17 - October 24th
 * Guest Lecture: Jetstream and OpenStack
@@ -107,15 +107,15 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 19 - October 31st 
 * Goal: students will understand the use of REST in science gateways and distributed systems.
-* [[REST and Science Gateways Slides ]] ({{ site.url }}slides/Fall2017-ScienceGateways-REST.pptx)
+* [[REST and Science Gateways Slides ]]({{ site.url }}slides/Fall2017-ScienceGateways-REST.pdf)
 
 ###  Lecture 20 - November 2nd
 * Goal: students will understand log-centric systems and consensus
-* [[Log Centric Systems and Science Gateways]] ({{ site.url }}slides/Fall2017-ScienceGateways-REST.pptx)
+* [[Log Centric Systems and Science Gateways]]({{ site.url }}slides/Fall2017-ScienceGateways-REST.pdf)
 
 ###  Lecture 21 - November 7th
 * Goal: students will learn how log systems can be used for continuous deployment, and how Byzantine faults can be handled
-* * [[Log Centric Systems and Science Gateways: Advanced Topics]] ({{ site.url }}slides/Fall2017-AdvancedRaftTopics.pptx)
+* [[Log Centric Systems and Science Gateways: Advanced Topics]]({{ site.url }}slides/Fall2017-AdvancedRaftTopics.pdf)
 
 ###  Lecture 22 - November 9th
 
