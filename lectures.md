@@ -127,9 +127,15 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ### Thanksgiving Break - November 19th to 26th - no classes
 
-###  Lecture 27 - November 29th
+###  Lecture 27 - November 28th
 
 
-###  Lecture 28 - December 1st
+###  Lecture 28 - November 30th
 * Goal: students will preview advanced topics that will be covered in the Spring 2018 course
+
+### Lecture 29 - December 5th
+* Student final presentations, Part 1
+
+### Lecture 30 - December 7th
+* Student final presentations, Part 2
 
