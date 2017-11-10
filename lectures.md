@@ -93,7 +93,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Goal: Students will gain a better understanding of how scientists use science gateways
 * Guest lecturer:  Dr. Sudhakar Pamidighantam 
 * Topic: The Science and Engineering Grid [SEAGrid](https://seagrid.org/){:target="_blank"} Science Gateway
-
+* [[SEAGrid Science Gateway Slides]]({{ site.url }}slides/Fall2017-SEAGrid_Gateways-Course_IU_2017.pptx)
 
 ###  Lecture 16 - October 18th
 * Goal: Students will gain an understanding of distributed messaging system by examining Apache Kafka
