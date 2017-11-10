@@ -103,7 +103,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Guest Lecture: Jetstream and OpenStack
 
 ###  Lecture 18 - October 26th
-* Topic: Clusters and Supercomputers
+* Topic: Airavata installation hackathon, course help session
 
 ###  Lecture 19 - October 31st 
 * Goal: students will understand the use of REST in science gateways and distributed systems.
@@ -120,10 +120,9 @@ The course focuses in teaching the distributed systems concepts through projects
 * [[Log Centric Systems and Science Gateways: Advanced Topics]]({{ site.url }}slides/Fall2017-AdvancedRaftTopics.pdf)
 
 ###  Lecture 23 - November 14th
-* Guest Lecture: TBD
+* Guest Lecture: Gourav Shenoy
 
 ###  Lecture 24 - November 16th
-* Guest Lecture: TBD
 
 ### Thanksgiving Break - November 19th to 26th - no classes
 
