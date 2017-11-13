@@ -101,6 +101,7 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 17 - October 24th
 * Guest Lecture: Jetstream and OpenStack
+* [[IU's Jetstream Cluster and OpenStack]]({{ site.url }}slides/171024-Jetstream-GWArchClass.pptx)
 
 ###  Lecture 18 - October 26th
 * Topic: Airavata installation hackathon, course help session
