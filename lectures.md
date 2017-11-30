@@ -122,13 +122,14 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 23 - November 14th
 * Guest Lecture: Gourav Shenoy
+* [Gest Lecture Slides: Apache Helix, Profile Service, Event-Driven Data Replication] ({{ site.url }}slides/SGA_Guest_Lecture.pdf)
 
 ###  Lecture 24 - November 16th
 
 ### Thanksgiving Break - November 19th to 26th - no classes
 
 ###  Lecture 27 - November 28th
-
+* [Gateway Security with OAuth2 and OpenIDConnect]({{ site.url }}slides/Fall2017-OAuth2-OIDC.pptx)
 
 ###  Lecture 28 - November 30th
 * Goal: students will preview advanced topics that will be covered in the Spring 2018 course
