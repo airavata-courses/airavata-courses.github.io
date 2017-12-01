@@ -133,6 +133,7 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 28 - November 30th
 * Goal: students will preview advanced topics that will be covered in the Spring 2018 course
+* [[Airavata summary and next steps - Spring 2018 class topics]]({{ site.url }}slides/Fall2017-Summary-Intro-to-Spring2018.pdf)
 
 ### Lecture 29 - December 5th
 * Student final presentations, Part 1
