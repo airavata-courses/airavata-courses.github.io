@@ -2,29 +2,55 @@
 layout: default
 ---
 
-## Fall 2017 - Science Gateway Architectures
+## Fall 2018 - Science Gateway Architectures
 
 * **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
 * **Associate Instructors:** [Sneha Tilak](mailto:tilaks@umail.iu.edu); [Eldho Mathulla](mailto:emathull@umail.iu.edu)
     
-* **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 150
+* **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 130
 * **Office Hours** On Request
-* **HipChat Instant Messaging** https://www.hipchat.com/g6Use7j8w
+* **Instant Messaging** Will provide a slack channel for instant communications
+
+## Course Overview
+Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, atmospheric science and other scientific fields by bringing unprecedented computing power to a broad community of scientists. Gateways are interesting topics in their own right. Modern gateway systems utilize microservice architectures and DevOps principles in their design and operations, adopting lessons learned from cloud-based Software as a Service activities. 
+Distributed systems by design scale software to handle large amount of data and to achieve better performance. Inherently distributed systems face challenges related to scaling and a system consists of multiple processes and these processes may run on different hardware systems. The challenges in distributed systems can be mainly categorized as follows:
+* Scalability
+* Efficiency: System handles large amount of data, so performance is important
+* Fault tolerance: Now to solve a problem multiple processes work together. If a process goes down, system is not able to solve a problem.
+* Operation: Easy scaling reduce operation complexity and cost
+* Avoid over-engineering
+* Ability to work with multiple devices
+* Change management
+
+In this course, students will be divided into development teams, and each team will build a distributed system software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building systems as well as learning DevOps principles such as containerization, continuous integration, and continuous deployment for deploying robust cloud services. Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members. Finally the students will have an opportunity to apply the learnings to Apache Airavata based Science Gateways. 
+
+## Course Objectives
+* Provide a high level, broad understanding of the application of core distributed computing systems concepts to “Software as a Service” systems that support scientific research and education. 
+* Study both abstract concepts and practical techniques for building science gateways.
+* Provide hands-on experience in developing a science gateway while working with open source philosophies modelled after Apache Software Foundation.
+* Apply the general concepts of Distributed Systems and understanding state of the art in applicable areas.
+
+## Course Outcomes
+* Demonstrate an applied understanding of microservice architectures and their underlying distributed systems foundations.
+* Demonstrate an applied understanding of the DevOps principles of continuous integration and delivery to the development and operations of science 
+* Demonstrate an understanding of open source practices, particularly those of the Apache Software Foundation.
+* Demonstrate an ability to develop remote job submission interfaces to computational cyberinfrastructure like IU Big Red 2 Supercomputers.
+* Demonstrate an ability to develop a simple metadata management system.
+* Demonstrate an ability to develop and consume API services.
 
 ## Course Structure
+Course Goal: students will, working in team of 2 to 3 students., learn and apply modern distributed computing concepts to a stand alone Apache Airavata and contribute them to the code base.
 
-* Course Goal: students will, working individually, learn and apply modern distributed computing concepts to Apache Airavata and contribute them to the code base.
-* Assignments due every two weeks. 
-* All assignments are individual assignments.
+* All assignment reports are individual assignments even though projects are executed within groups.
 * The course will be split into two parts
     * Part 1: Learning basic distributed computing concepts, microservices, DevOps etc
     * Part 2: Applying what you have learned to Apache Airavata 
 
-
 ## Instructors
-The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervasive Technology Institute's [Science Gateways Research Center](https://sgrc.iu.edu/){:target="_blank"} and are project management committee members for the Apache Airavata open source software.
+The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervasive Technology Institute's [Science Gateways Research Center](https://sgrc.iu.edu/){:target="_blank"} and are  members of the Apache Software Foundation and project management committee members for the Apache Airavata open source software.
 
+<!--
 ## Grading
 * Homework Assignments: 
     * Each assignment is worth 10 points 
@@ -41,6 +67,8 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
     * Each student submits a report (5 points)
     * Midterm: 10 points
     * Final: 10 points
+
+-->
 
 ## Apache Airavata Project Themes
 
