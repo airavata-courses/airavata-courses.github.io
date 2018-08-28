@@ -27,6 +27,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Goal: students will understand the project planning and execution timeline
 
 <!--
+
 ###  Lecture 4 - August 31st
 * Goal: students will understand how to use containers
 * Topic: Microservices
@@ -137,4 +138,5 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ### Lecture 30 - December 7th
 * Student final presentations, Part 2
+
 -->
