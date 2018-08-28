@@ -21,7 +21,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topics: 
     * Walk through the transition from monolith's to microservices, challanges encountered and potential solutions
 
-* [Class Details Slides]({{ site.url }}slides/SGA-Fall2018-Projects-August23.pdf)
+* [Microservices Slides]({{ site.url }}slides/SGA-Fall2018-Projects-August23.pdf)
 
 ###  Lecture 3 - August 28th
 * Goal: students will understand the project planning and execution timeline
