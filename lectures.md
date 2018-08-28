@@ -6,30 +6,27 @@ layout: default
 
 The course focuses in teaching the distributed systems concepts through projects. The lectures prepare the students to execute the assignments.
 
-###  Lecture 1 - August 22nd
+###  Lecture 1 - August 21st
 * Goal: Students should understand what the course is about and what is expected from them.
 * Topics: 
-    * Introduce students to primary science gateways concepts
-    * Introduce students to Apache Airavata
-    * Introduce students to the Apache Way, open source
-    * Introduce students to planned projects
+    * Introduce students to software as a service life cycle
+    * Introduce students to Distributed Systems
+    * Introduce students to Lecture Topics
+    * Introduce students to project Themes
 
-* [[Class Overview Slides]]({{ site.url }}slides/SOIC-B649-Fall2017-Overview.pdf)
-* [[Assignment 1 Slides]]({{ site.url }}slides/SICE-Fall17-B649-Assignment-1.pdf)
+* [[Class Overview Slides]]({{ site.url }}slides/SGA-Fall2018-Introduction-August21.pdf)
 
-###  Lecture 2 - August 24th
-* Goal: Preview the semester lectures so students can understand what the course is about and what is expected from them.
+###  Lecture 2 - August 23rd
+* Goal: Students will understand the basics of microservices and messaging and preview the semester projects so students can understand what the course is about and what is expected from them.
 * Topics: 
-    * Walk through of all the course theme areas.
-    * Overview of RPC and Message Serialization using Apache Thrift
+    * Walk through the transition from monolith's to microservices, challanges encountered and potential solutions
 
-* [[Apache Thrift Slides]]({{ site.url }}slides/SICE-Fall17-B649-Thrift-Introduction.pdf)
-* [[Class Details Slides]]({{ site.url }}slides/CS649Fall2017-Lecture2-Course-Details.pdf)
+* [[Class Details Slides]]({{ site.url }}slides/SGA-Fall2018-Projects-August23.pdf)
 
-###  Lecture 3 - August 29th
-* Goal: students will understand the basics of microservices and messaging
-* Topic: Apache Thrift
+###  Lecture 3 - August 28th
+* Goal: students will understand the project planning and execution timeline
 
+<!--
 ###  Lecture 4 - August 31st
 * Goal: students will understand how to use containers
 * Topic: Microservices
@@ -140,4 +137,4 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ### Lecture 30 - December 7th
 * Student final presentations, Part 2
-
+-->

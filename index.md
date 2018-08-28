@@ -6,7 +6,6 @@ layout: default
 
 * **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
-* **Associate Instructors:** [Sneha Tilak](mailto:tilaks@umail.iu.edu); [Eldho Mathulla](mailto:emathull@umail.iu.edu)
     
 * **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 130
 * **Office Hours** On Request

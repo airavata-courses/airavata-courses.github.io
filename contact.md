@@ -5,9 +5,8 @@ layout: default
 ## How to find us
 
 * Email is the best way to contact the instructors. Marlon Pierce (marpierc at iu.edu>), Suresh Marru (smarru at iu.edu)
-* Twice a week lectures will be on Tuesdays and Thursdays from 4pm to 5.15pm in Informatics East (I2) Room 150.
-* Office Hours will be on Tuesdays and Thursdays from 3pm to 3pm in Informatics East (I2) Room 226B.
-* All other appointments made on request will be in Cyberinfrastructure Building unless otherwise noted. 
+* Twice a week lectures will be on Tuesdays and Thursdays from 4pm to 5.15pm in Informatics East (I2) Room 130.
+* Appointments made on request will be in Cyberinfrastructure Building unless otherwise noted. 
 * Use the maps below for any help with directions. 
 
 ## Helpful Maps
