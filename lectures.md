@@ -14,14 +14,14 @@ The course focuses in teaching the distributed systems concepts through projects
     * Introduce students to Lecture Topics
     * Introduce students to project Themes
 
-* [[Class Overview Slides]]({{ site.url }}slides/SGA-Fall2018-Introduction-August21.pdf)
+* [Class Overview Slides]({{ site.url }}slides/SGA-Fall2018-Introduction-August21.pdf)
 
 ###  Lecture 2 - August 23rd
 * Goal: Students will understand the basics of microservices and messaging and preview the semester projects so students can understand what the course is about and what is expected from them.
 * Topics: 
     * Walk through the transition from monolith's to microservices, challanges encountered and potential solutions
 
-* [[Class Details Slides]]({{ site.url }}slides/SGA-Fall2018-Projects-August23.pdf)
+* [Class Details Slides]({{ site.url }}slides/SGA-Fall2018-Projects-August23.pdf)
 
 ###  Lecture 3 - August 28th
 * Goal: students will understand the project planning and execution timeline
