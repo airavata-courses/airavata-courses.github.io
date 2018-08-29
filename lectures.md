@@ -25,6 +25,11 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 3 - August 28th
 * Goal: students will understand the project planning and execution timeline
+* Topics:
+    * Project 5 step process
+    * Apache Airavata background and motivations
+
+* [Airavata motivation Slides]({{ site.url }}slides/SGA-Fall2018-Airavata-August28.pdf)
 
 <!--
 
