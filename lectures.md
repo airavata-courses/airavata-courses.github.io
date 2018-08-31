@@ -35,7 +35,7 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 4 - August 30th
 * Goal: Project steps and Understanding of Apache Thrift
 * Topic: Motivations for Apache Thrift
-* [MicroServices Lecture Slides]({{ site.url }}slides/SGA-Fall2018-Thrift-August30.pdf)
+* [Thrift Lecture Slides]({{ site.url }}slides/SGA-Fall2018-Thrift-August30.pdf)
 
 <!--
 
