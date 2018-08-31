@@ -31,13 +31,15 @@ The course focuses in teaching the distributed systems concepts through projects
 
 * [Airavata motivation Slides]({{ site.url }}slides/SGA-Fall2018-Airavata-August28.pdf)
 
+
+###  Lecture 4 - August 30th
+* Goal: Project steps and Understanding of Apache Thrift
+* Topic: Motivations for Apache Thrift
+* [MicroServices Lecture Slides]({{ site.url }}slides/SGA-Fall2018-Thrift-August30.pdf)
+
 <!--
 
-###  Lecture 4 - August 31st
-* Goal: students will understand how to use containers
-* Topic: Microservices
-* [[Class Details Slides]]({{ site.url }}slides/Fall2017-CS649-GradingProjectsNotes.pptx)
-* [[MicroServices Lecture Slides]]({{ site.url }}slides/CS649-Fall2017-MicroServices.pptx)
+
         
 ###  Lecture 5 - September 5th
 * Goal: students will understand the basics of continuous integration and deployment
