@@ -40,7 +40,7 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 5 - September 5th
 * Goal: Students will understand course requirements for using code repositories
 * Topic: Git and GitHub
-* [Git Lecture Slides]({{ site.url }}slides/Fall2018-CS649-Git-Overview.pptx)
+* [Git Lecture Slides]({{ site.url }}slides/Fall2018-CS649-Git-Overview.pdf)
 
 <!--
 
