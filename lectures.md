@@ -37,10 +37,15 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Motivations for Apache Thrift
 * [Thrift Lecture Slides]({{ site.url }}slides/SGA-Fall2018-Thrift-August30.pdf)
 
-###  Lecture 5 - September 5th
+###  Lecture 5 - September 4th
 * Goal: Students will understand course requirements for using code repositories
 * Topic: Git and GitHub
 * [Git Lecture Slides]({{ site.url }}slides/Fall2018-CS649-Git-Overview.pptx)
+
+###  Lecture 6 - September 6th
+* Goal: Students will understand basics of continous integration and deployment concepts and how they apply to microservices
+* Topic: Continuous Integration and Deployment
+* [CI/CD Lecture Slides]({{ site.url }}slides/Fall2018-CICD.pptx)
 
 <!--
 
