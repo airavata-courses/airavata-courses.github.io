@@ -47,6 +47,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Continuous Integration and Deployment
 * [CI/CD Lecture Slides]({{ site.url }}slides/Fall2018-CICD.pptx)
 
+###  Lecture 7 - September 11th
+* Goal: Students will understand basics of messaging systems and how they relate to microservices
+* Topic: Messaging, AMQP, and RabbitMQ for microservices.
+* [Messaging Lecture Slides]({{ site.url }}slides/Fall2018-MessagingAndMicroservices.pptx)
+
 <!--
 
 
