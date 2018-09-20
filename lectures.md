@@ -31,7 +31,6 @@ The course focuses in teaching the distributed systems concepts through projects
 
 * [Airavata motivation Slides]({{ site.url }}slides/SGA-Fall2018-Airavata-August28.pdf)
 
-
 ###  Lecture 4 - August 30th
 * Goal: Project steps and Understanding of Apache Thrift
 * Topic: Motivations for Apache Thrift
@@ -45,16 +44,27 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 6 - September 6th
 * Goal: Students will understand basics of continous integration and deployment concepts and how they apply to microservices
 * Topic: Continuous Integration and Deployment
-* [CI/CD Lecture Slides]({{ site.url }}slides/Fall2018-CICD.pptx)
+* [CI/CD Lecture Slides]({{ site.url }}slides/Fall2018-CICD.pdf)
 
 ###  Lecture 7 - September 11th
 * Goal: Students will understand basics of messaging systems and how they relate to microservices
 * Topic: Messaging, AMQP, and RabbitMQ for microservices.
-* [Messaging Lecture Slides]({{ site.url }}slides/Fall2018-MessagingAndMicroservices.pptx)
+* [Messaging Lecture Slides]({{ site.url }}slides/Fall2018-MessagingAndMicroservices.pdf)
+
+###  Lecture 8 - September 13th
+* Goal: Project Review
+* Topic: Review project architecture and discuss any impediments.
+
+###  Lecture 9 - September 18th
+* Goal: Students will understand use of Jetstream for Continous Delivary
+* Topic: Introduction to JetStream.
+* [Jetstream Slides]({{ site.url }}slides/171024-Jetstream-GWArchClass.pdf)
+
+###  Lecture 10 - September 20th
+* Goal: Students will understand service discovery 
+* Topic: Apache Zookeeper.
 
 <!--
-
-
         
 ###  Lecture 5 - September 5th
 * Goal: students will understand the basics of continuous integration and deployment
