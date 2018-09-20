@@ -6,6 +6,8 @@ layout: default
 
 The course focuses in teaching the distributed systems concepts through projects. The lectures prepare the students to execute the assignments.
 
+[Project report tenmplate]({{ site.url }}/CS649Project1SubmissionTemplate.docx)
+
 ###  Lecture 1 - August 21st
 * Goal: Students should understand what the course is about and what is expected from them.
 * Topics: 
@@ -56,16 +58,24 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Review project architecture and discuss any impediments.
 
 ###  Lecture 9 - September 18th
-* Goal: Students will understand use of Jetstream for Continous Delivary
+* Goal: Students will understand use of Jetstream for Continuous Delivery
 * Topic: Introduction to JetStream.
 * [Jetstream Slides]({{ site.url }}slides/171024-Jetstream-GWArchClass.pdf)
 
 ###  Lecture 10 - September 20th
 * Goal: Students will understand service discovery 
-* Topic: Apache Zookeeper.
+* Topic: Motivations behind Apache Zookeeper.
+
+###  Lecture 11 - September 25th
+* Goal: Students will understand Identity and Access Management  
+* Topic: Introduction to Keycloak.
+
 
 <!--
         
+        * [Zookeeper Slides]({{ site.url }}slides/171024-Jetstream-GWArchClass.pdf)
+
+
 ###  Lecture 5 - September 5th
 * Goal: students will understand the basics of continuous integration and deployment
 * Topics: Microservices and Messaging
