@@ -69,16 +69,18 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 11 - September 25th
 * Goal: Students will understand Identity and Access Management  
 * Topic: Introduction to Keycloak.
+* [Django Keycloak Integration](https://lists.apache.org/thread.html/4d1245356402d1582ae50aa2183284d2b28c4efe5198821d60cf8c55@%3Cdev.airavata.apache.org%3E)
 
 ###  Lecture 12 - September 27th
 * Goal: Students will understand Apache Airavata's architecture
 * Topic: Apache Airavata under the hood
+* [Airavata Introduction]({{ site.url }}slides/SGA-Fall2018-Airavata-code-Introduction.pdf)
 
 ###  Lecture 13 - October 2nd
 * Goal: Students will understand how Apache Zookeeper supports microservices and science gateways.
 * Topic: Apache Zookeeper, Part 2: Distributed systems use cases
-* * [Zookeeper, Part 2]({{ site.url }}slides/Fall2018-ZookeeperPart2.pptx)
-
+* * [Zookeeper, Part 2]({{ site.url }}slides/Fall2018-ZookeeperPart2.pdf)
+* [Project Deadlines]({{ site.url }}slides/SGA-Fall2018-Project-2-October2.pdf)
 
 <!--
         
