@@ -82,6 +82,12 @@ The course focuses in teaching the distributed systems concepts through projects
 * * [Zookeeper, Part 2]({{ site.url }}slides/Fall2018-ZookeeperPart2.pdf)
 * [Project Deadlines]({{ site.url }}slides/SGA-Fall2018-Project-2-October2.pdf)
 
+###  Lecture 14 - October 4th
+* Goal: Students will understand how Apache Kafka works and can be used to support microservices
+* Topic: Apache Kafka
+* * [Apache Kafka]({{ site.url }}slides/Fall2018-ApacheKafkaDistributedSystems.pptx)
+* [Project Deadlines]({{ site.url }}slides/SGA-Fall2018-Project-2-October2.pdf)
+
 <!--
         
         * [Zookeeper Slides]({{ site.url }}slides/171024-Jetstream-GWArchClass.pdf)
