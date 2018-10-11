@@ -88,6 +88,15 @@ The course focuses in teaching the distributed systems concepts through projects
 * * [Apache Kafka]({{ site.url }}slides/Fall2018-ApacheKafkaDistributedSystems.pptx)
 * [Project Deadlines]({{ site.url }}slides/SGA-Fall2018-Project-2-October2.pdf)
 
+###  Lecture 15 - October 9th
+
+
+###  Lecture 14 - October 11th
+* Goal: Students will understand the use of logs to support distributed state machines
+* Topic: Log Centric Systems, RAFT, and Science Gateways
+* * [Logs and Raft]({{ site.url }}slides/Fall2018-SGACourse-RaftLogsEtc.pptx)
+
+
 <!--
         
         * [Zookeeper Slides]({{ site.url }}slides/171024-Jetstream-GWArchClass.pdf)
