@@ -96,6 +96,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Log Centric Systems, RAFT, and Science Gateways
 * * [Logs and Raft]({{ site.url }}slides/Fall2018-SGACourse-RaftLogsEtc.pptx)
 
+###  Lecture 15 - October 16th
+* Goal: Students will understand advanced uses of RAFT and how they can be applied to science gateways
+* Topic: Advanced Raft Topics for Science Gateways
+* * [Logs and Raft]({{ site.url }}slides/Fall2018-AdvancedRaftTopics.pptx)
+
 
 <!--
         
