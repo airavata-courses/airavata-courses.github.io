@@ -101,6 +101,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Advanced Raft Topics for Science Gateways
 * * [Logs and Raft]({{ site.url }}slides/Fall2018-AdvancedRaftTopics.pptx)
 
+###  Lecture 16 - October 30th
+* Goal: Students will understand the application of OAuth2 and OpenID Connect to Science Gateway Scenarios
+* Topic: Science Gateway Security Considerations
+* * [Science Gateway Security Considerations]({{ site.url }}slides/Fall2018-OAuth2-OIDC.pptx)
+
 
 <!--
         
