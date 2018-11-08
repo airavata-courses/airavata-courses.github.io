@@ -110,7 +110,7 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 17 - November 8th
 * Goal: Students will understand the roles of virtual machines and containers in microserivce architectures
-* Topic: Microservices
+* Topic: Containers, Virtual Machines, and Microservices
 * * [Containers, Docker, and Microservices]({{ site.url }}slides/Fall2018-SGACourse-Containers-Part1.pptx)
 
 
