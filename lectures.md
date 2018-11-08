@@ -106,6 +106,13 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Science Gateway Security Considerations
 * * [Science Gateway Security Considerations]({{ site.url }}slides/Fall2018-OAuth2-OIDC.pptx)
 
+###  Lecture 16 - November 6th
+
+###  Lecture 17 - November 8th
+* Goal: Students will understand the roles of virtual machines and containers in microserivce architectures
+* Topic: Microservices
+* * [Containers, Docker, and Microservices]({{ site.url }}slides/Fall2018-SGACourse-Containers-Part1.pptx)
+
 
 <!--
         
