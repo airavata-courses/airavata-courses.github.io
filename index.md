@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Fall 2018 - Science Gateway Architectures
+## Spring 2019 - Science Gateway Architectures
 
 * **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
     
-* **Class Schedule** Tuesdays and Thursdays from 4 pm to 5.15pm in I2 (Informatics East) Room 130
-* **Office Hours** On Request
+* **Class Schedule** Friday from 1:00 pm to 3:30 pm in I2 (Informatics East) Room 130
+* **Office Hours** To Be Scheduled
 
 ## Course Overview
 Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, atmospheric science and other scientific fields by bringing unprecedented computing power to a broad community of scientists. Gateways are interesting topics in their own right. Modern gateway systems utilize microservice architectures and DevOps principles in their design and operations, adopting lessons learned from cloud-based Software as a Service activities. 
@@ -41,43 +41,32 @@ In this course, students will be divided into development teams, and each team w
 Course Goal: students will, working in team of 2 to 3 students., learn and apply modern distributed computing concepts to a stand alone Apache Airavata and contribute them to the code base.
 
 * All assignment reports are individual assignments even though projects are executed within groups.
-* The course will be split into two parts
-    * Part 1: Learning basic distributed computing concepts, microservices, DevOps etc
-    * Part 2: Applying what you have learned to Apache Airavata 
+* The course will focus on learning basic distributed computing concepts, microservices, DevOps etc. Students interested in applying these concept to Apache Airavata can do so in the Advanced Science Gateway Architectures course.
 
 ## Instructors
 The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervasive Technology Institute's [Science Gateways Research Center](https://sgrc.iu.edu/){:target="_blank"} and are  members of the Apache Software Foundation and project management committee members for the Apache Airavata open source software.
 
-<!--
 ## Grading
 * Homework Assignments: 
-    * Each assignment is worth 10 points 
-        * You will get 8 points for your submission
-        * You will get 1 point for peer reviewing other submissions 
-        * 2 peer review assignments 
-    * There will be 7 assignments, with Assignment 7 counting 20 points
+    * Each assignment is worth 18 points 
+        * You will get 18 points for your submission
+        * You will get 2 points for peer reviewing other submissions 
+    * There will be 4 assignments
     * Assignments will be graded on functionality of the submission, which must be documented in your wiki
     * Each assignment is submitted as a Wiki entry in GitHub
-    * Each student gets a github repo in https://github.com/airavata-courses 
-    * Each assignment must be submitted for peer grading for 1 week, then submitted for final grading after two weeks
+    * Each project gets a github repo in https://github.com/airavata-courses 
+    * Each assignment must be submitted for initial peer grading via GitHub issues, followed by full submission (with corrections) to Canvas.
 * Presentations and Reports
     * Each student makes a presentation (5 points)
     * Each student submits a report (5 points)
     * Midterm: 10 points
     * Final: 10 points
 
--->
-
-## Apache Airavata Project Themes
-
+<!--
+## Project Themes
 1. Load balancing and fault tolerance of the API Server
-1. Expanding Airavata microservice architecture with new services
-    1. CI/CD for new services
-    1. Allocation management
-    1. Resource status, load, etc
-    1. Postprocessing pipelines
-1. Containerizing and orchestrating Airavata deployments
-1. Airavata CI/CD
+1. Containerizing and orchestrating deployments
+1. Continuous Integration and Deployment
     1. Resource provisioning
     1. CI/CD 
     1. Blue-green deployments
@@ -99,7 +88,8 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
     1. Visualization, science desktop integration
 1. Data mining as a back end application
 1. Data management and file transfer
- 
+-->
+
 ## Resources
 
 During the course, instructors will provide references to journal and conference papers. A good understanding of concepts discussed in these referred papers will greatly help in absorbing the course material. 
