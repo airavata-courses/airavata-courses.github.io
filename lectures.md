@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Twice a Week Lectures
+## Weekly Lectures
 
 The course focuses in teaching the distributed systems concepts through projects. The lectures prepare the students to execute the assignments.
 
 [Project report tenmplate]({{ site.url }}/CS649Project1SubmissionTemplate.docx)
 
-###  Lecture 1 - August 21st
+###  Lecture 1 - January 11th, 2019
 * Goal: Students should understand what the course is about and what is expected from them.
 * Topics: 
     * Introduce students to software as a service life cycle
@@ -16,8 +16,9 @@ The course focuses in teaching the distributed systems concepts through projects
     * Introduce students to Lecture Topics
     * Introduce students to project Themes
 
-* [Class Overview Slides]({{ site.url }}slides/SGA-Fall2018-Introduction-August21.pdf)
+* [Class Overview Slides]({{ site.url }}slides/SGA-Spring2019-Projects-January11.pptx)
 
+<!--
 ###  Lecture 2 - August 23rd
 * Goal: Students will understand the basics of microservices and messaging and preview the semester projects so students can understand what the course is about and what is expected from them.
 * Topics: 
@@ -113,6 +114,7 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Containers, Virtual Machines, and Microservices
 * * [Containers, Docker, and Microservices]({{ site.url }}slides/Fall2018-SGACourse-Containers-Part1.pptx)
 
+-->
 
 <!--
         
