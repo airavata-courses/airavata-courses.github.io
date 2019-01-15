@@ -16,7 +16,7 @@ The course focuses in teaching the distributed systems concepts through projects
     * Introduce students to Lecture Topics
     * Introduce students to project Themes
 
-* [Class Overview Slides]({{ site.url }}slides/SGA-Spring2019-Projects-January11.pptx)
+* [Class Overview Slides]({{ site.url }}slides/SGA-Spring2019-Projects-January11.pdf)
 
 <!--
 ###  Lecture 2 - August 23rd
