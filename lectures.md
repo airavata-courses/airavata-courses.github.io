@@ -18,22 +18,20 @@ The course focuses in teaching the distributed systems concepts through projects
 
 * [Class Overview Slides]({{ site.url }}slides/SGA-Spring2019-Projects-January11.pdf)
 
-<!--
-###  Lecture 2 - August 23rd
-* Goal: Students will understand the basics of microservices and messaging and preview the semester projects so students can understand what the course is about and what is expected from them.
+
+###  Lecture 2 - January 18th, 2019
+* Goal: Students will understand how to make good napkin drawings, map these to their architectures, and keep the two distinct.
 * Topics: 
-    * Walk through the transition from monolith's to microservices, challanges encountered and potential solutions
+    * Napkin drawing principles, review and refinement of student team efforts.
 
-* [Microservices Slides]({{ site.url }}slides/SGA-Fall2018-Projects-August23.pdf)
-
-###  Lecture 3 - August 28th
-* Goal: students will understand the project planning and execution timeline
+###  Lecture 3 - January 25th, 2019
+* Goal: students will understand the the use of Git and GitHub, open source governance. Students will have firm understanding of their initial microservice system and its communications. 
 * Topics:
-    * Project 5 step process
-    * Apache Airavata background and motivations
+  * Git and GitHub
+  * Microservices: distributed components, APIs, and communications
+* [Git Lecture Slides]({{ site.url }}slides/Spring2019-CS649-Git-Overview.pdf)
 
-* [Airavata motivation Slides]({{ site.url }}slides/SGA-Fall2018-Airavata-August28.pdf)
-
+<!--
 ###  Lecture 4 - August 30th
 * Goal: Project steps and Understanding of Apache Thrift
 * Topic: Motivations for Apache Thrift
