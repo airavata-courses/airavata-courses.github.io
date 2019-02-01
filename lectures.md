@@ -31,6 +31,14 @@ The course focuses in teaching the distributed systems concepts through projects
   * Microservices: distributed components, APIs, and communications
 * [Git Lecture Slides]({{ site.url }}slides/Spring2019-CS649-Git-Overview.pdf)
 
+###  Lecture 4 - February 1st, 2018
+* Goal: students will understand inter-service communication patterns and APIs for microservices.
+* Topics:
+  * Messaging basics, RabbitMQ
+  * APIs and Data Models with Apache Thrift
+* [Messaging Slides]({{ site.url }}slides/Spring2019-MessagingAndMicroservices.pdf)
+
+
 <!--
 ###  Lecture 4 - August 30th
 * Goal: Project steps and Understanding of Apache Thrift
