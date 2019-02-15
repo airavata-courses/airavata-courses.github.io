@@ -43,6 +43,10 @@ The course focuses in teaching the distributed systems concepts through projects
 * Topic: Continuous Integration and Deployment
 * [CI/CD Lecture Slides]({{ site.url }}slides/Spring2018-CICD.pdf)
 
+###  Lecture 6 - February 15th, 2019
+* Goals: Students will understand basics of distributed configuration management; students will understand the basics of the OpenStack API and using Jetstream.
+* [Zookeeper Lecture Slides]({{ site.url }}slides/Spring2019-ZooKeeperDistributedSystems.pptx)
+
 
 <!--
 ###  Lecture 4 - August 30th
