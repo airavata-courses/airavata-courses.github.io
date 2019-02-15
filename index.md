@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Spring 2019 - Science Gateway Architectures
+## Spring 2019 - Applied Distributed Systems
+### (Previously called Science Gateway Architectures)
 
 * **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)

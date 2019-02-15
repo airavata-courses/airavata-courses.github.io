@@ -45,7 +45,8 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 6 - February 15th, 2019
 * Goals: Students will understand basics of distributed configuration management; students will understand the basics of the OpenStack API and using Jetstream.
-* [Zookeeper Lecture Slides]({{ site.url }}slides/Spring2019-ZooKeeperDistributedSystems.pptx)
+* [Zookeeper Lecture Slides]({{ site.url }}slides/Spring2019-ZooKeeperDistributedSystems.pdf)
+* [Openstack and Jetstream]({{ site.url }}slides/ADS-Spring2019-OpenStack-Jetstream-Feb15.pdf)
 
 
 <!--
@@ -101,8 +102,12 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 14 - October 4th
 * Goal: Students will understand how Apache Kafka works and can be used to support microservices
 * Topic: Apache Kafka
-* * [Apache Kafka]({{ site.url }}slides/Fall2018-ApacheKafkaDistributedSystems.pptx)
-* [Project Deadlines]({{ site.url }}slides/SGA-Fall2018-Project-2-October2.pdf)
+* * [Apache Kafka]({{ site.url }}slides/Fall2018-ApacheKafkaDistributedSystems.pdf)
+
+###  Lecture 15 - October 9th
+* Goal: Students will understand how Apache Kafka works and can be used to support microservices
+* Topic: Apache Kafka
+* * [Apache Kafka]({{ site.url }}slides/Fall2018-ApacheKafkaDistributedSystems.pdf)
 
 ###  Lecture 15 - October 9th
 
