@@ -41,7 +41,7 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 5 - February 8th, 2019
 * Goal: Students will understand basics of continous integration and deployment concepts and how they apply to microservices
 * Topic: Continuous Integration and Deployment
-* [CI/CD Lecture Slides]({{ site.url }}slides/Spring2018-CICD.pdf)
+* [CI/CD Lecture Slides]({{ site.url }}slides/Spring2019-CICD.pdf)
 
 ###  Lecture 6 - February 15th, 2019
 * Goals: Students will understand basics of distributed configuration management; students will understand the basics of the OpenStack API and using Jetstream.
