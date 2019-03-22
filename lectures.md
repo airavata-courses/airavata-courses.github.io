@@ -50,7 +50,8 @@ The course focuses in teaching the distributed systems concepts through projects
 
 ###  Lecture 7 - March 22nd, 2019
 * Goals: Students will understand basics of distributed configuration management; students will understand the basics of the OpenStack API and using Jetstream.
-* [Kafka Lecture Slides]({{ site.url }}slides/Spring2019-ApacheKafkaDistributedSystems.pptx)
+* [Kafka Lecture Slides]({{ site.url }}slides/Spring2019-ApacheKafkaDistributedSystems.pdf)
+* [Kubernetes Material]({{ site.url }}slides/kubernetes.zip)
 
 
 <!--
