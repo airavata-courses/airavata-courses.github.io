@@ -48,6 +48,10 @@ The course focuses in teaching the distributed systems concepts through projects
 * [Zookeeper Lecture Slides]({{ site.url }}slides/Spring2019-ZooKeeperDistributedSystems.pdf)
 * [Openstack and Jetstream]({{ site.url }}slides/ADS-Spring2019-OpenStack-Jetstream-Feb15.pdf)
 
+###  Lecture 7 - March 22nd, 2019
+* Goals: Students will understand basics of distributed configuration management; students will understand the basics of the OpenStack API and using Jetstream.
+* [Kafka Lecture Slides]({{ site.url }}slides/Spring2019-ApacheKafkaDistributedSystems.pptx)
+
 
 <!--
 ###  Lecture 4 - August 30th
