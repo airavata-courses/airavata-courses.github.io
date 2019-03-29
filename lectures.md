@@ -49,9 +49,13 @@ The course focuses in teaching the distributed systems concepts through projects
 * [Openstack and Jetstream]({{ site.url }}slides/ADS-Spring2019-OpenStack-Jetstream-Feb15.pdf)
 
 ###  Lecture 7 - March 22nd, 2019
-* Goals: Students will understand basics of distributed configuration management; students will understand the basics of the OpenStack API and using Jetstream.
+* Goals:Students will understand the basics of log-centric architecture with Apache Kafka; students will understand the basics of container management with Kubernetes.
 * [Kafka Lecture Slides]({{ site.url }}slides/Spring2019-ApacheKafkaDistributedSystems.pdf)
 * [Kubernetes Material]({{ site.url }}slides/kubernetes.zip)
+
+###  Lecture 8 - March 29nd, 2019
+* Goals: Students will understand the basics of the RAFT consensus protocol for distributed state machines
+* [RAFT Lecture Slides]({{ site.url }}slides/Spring2019-SGACourse-RaftLogsEtc.pptx)
 
 
 <!--
