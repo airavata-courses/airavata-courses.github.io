@@ -57,6 +57,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * Goals: Students will understand the basics of the RAFT consensus protocol for distributed state machines
 * [RAFT Lecture Slides]({{ site.url }}slides/Spring2019-SGACourse-RaftLogsEtc.pptx)
 
+###  Lecture 9 - April 5th, 2019
+* Goals: Students will understand how RAFT clusters are updated and how this may be applied to continuous deployment scenarios; students will understand Byzantine Failures in RAFT and some counter measures. 
+* [RAFT Lecture Slides]({{ site.url }}slides/Spring2019-AdvancedRaftTopics.pptx)
+
+
 
 <!--
 ###  Lecture 4 - August 30th
