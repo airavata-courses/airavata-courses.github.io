@@ -61,6 +61,11 @@ The course focuses in teaching the distributed systems concepts through projects
 * Goals: Students will understand how RAFT clusters are updated and how this may be applied to continuous deployment scenarios; students will understand Byzantine Failures in RAFT and some counter measures. 
 * [RAFT Lecture Slides]({{ site.url }}slides/Spring2019-AdvancedRaftTopics.pptx)
 
+###  Lecture 10 - April 19th, 2019
+* Goals: Students will understand basic security concepts for science gateways and other distributed systems. 
+* [OAuth2 Lecture Slides]({{ site.url }}slides/Spring2019-OAuth2-OIDC.pptx)
+
+
 
 
 <!--
