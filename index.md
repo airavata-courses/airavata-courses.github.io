@@ -11,7 +11,7 @@ layout: default
 * **Office Hours** To Be Scheduled
 
 ## Instructors
-The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervasive Technology Institute's [Cyberinfrastructure Integration Research Center](https://circ.iu.edu/){:target="_blank"} and are  members of the Apache Software Foundation and project management committee members for the [Apache Airavata](https://airavata.apache.org/){:target="_blank"} open source software.
+The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervasive Technology Institute's [Cyberinfrastructure Integration Research Center](https://circ.iu.edu/){:target="_blank"} and are nominated members of the [Apache Software Foundation](https://www.apache.org/){:target="_blank"} and project management committee members for the [Apache Airavata](https://airavata.apache.org/){:target="_blank"} open source distributed computing software framework.
 
 ## Course Overview
 Distributed software systems use software components operating on multiple, coordinated computing resources to handle large amounts of data, provide resilience by removing single points of failure, and achieve better performance than single-component systems. Such systems form the backbone of enormously scalable cloud-based software systems that power social networks, e-commerce, streaming media services, and many others; however, many of the core concepts for distributed systems that underlie the modern services go back decades and need to be understood in order to build new systems. 
