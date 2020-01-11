@@ -16,6 +16,7 @@ The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervas
 ## Course Overview
 Distributed software systems use software components operating on multiple, coordinated computing resources to handle large amounts of data, provide resilience by removing single points of failure, and achieve better performance than single-component systems. Such systems form the backbone of enormously scalable cloud-based software systems that power social networks, e-commerce, streaming media services, and many others; however, many of the core concepts for distributed systems that underlie the modern services go back decades and need to be understood in order to build new systems. 
 
+
 Inherently, distributed systems face challenges that can be categorized as follows:
 * Scalability: How well does the system scale as it adds more resources? What are the overheads for management and coordination as the system grows?
 * Efficiency: System handles large amount of data, so performance is important
@@ -26,7 +27,9 @@ Inherently, distributed systems face challenges that can be categorized as follo
 * User Environments: How can user environments be developed at scale? How can they efficiently evolve as the underlying system evolves?
 * Security: how can these systems be operated securely? How can security problems be detected?
 
+
 As an applied course, the students will get an opportunity to work with concrete instances of distributed systems. Science gateways are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers and have revolutionized bioinformatics, computational chemistry, nano-engineering, atmospheric science and other scientific fields by bringing unprecedented computing power to a broad community of scientists. Gateways are interesting topics in their own right. Modern gateway systems utilize microservice architectures and DevOps principles in their design and operations, adopting lessons learned from cloud-based Software as a Service activities. 
+
 
 In this course, students will be divided into development teams, and each team will build a distributed system software as a service system from scratch. Teams will be encouraged to explore alternative technologies and ways for building systems as well as learning DevOps principles such as containerization, continuous integration, and continuous deployment for deploying robust cloud services. Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members. Finally, the students will have an opportunity to apply the learning to Apache Airavata based Science Gateways.
 
@@ -57,6 +60,7 @@ In this course, students will be divided into development teams, and each team w
 ## Grading
 This will be a project heavy course. Students will be divided into teams. Each team will have 3 projects.  There will also be a midterm and final presentation. The maximum number of points for the semester is 100.  90-100 points is an A, 80-89 points is a B, etc.
 
+
 * Course Projects 90%:  There will be 3 projects, including mid-term and final milestones.  Each project is worth 25 points.  
     * Must use Apache compatible open source licensed software and tools
     * Projects must be checked into github, must be reproducibly executable on the deadline day by the AI’s and instructors.
@@ -72,12 +76,12 @@ Trivial issues don’t get rewarded.
     * 1 point perfect attendance
     * Up to 4 points classroom interactions
 
-### Project Grading
-* Each project will be judged on ~4 quality attributes. The number will vary by assignment
-* To get all points, the project must demonstrate all attributes to the grader.  The grader must also be able to easily install and test all software by following documentation for the milestone in the team’s GitHub Wiki.
-* Each student on the team will submit a report describing what they did
-    * Give a percentage of effort for each attribute
-    * Provide auditable proof via links to issues and commits.
+* Project Grading
+    * Each project will be judged on ~4 quality attributes. The number will vary by assignment
+    * To get all points, the project must demonstrate all attributes to the grader.  The grader must also be able to easily install and test all software by following documentation for the milestone in the team’s GitHub Wiki.
+    * Each student on the team will submit a report describing what they did
+        * Give a percentage of effort for each attribute
+        * Provide auditable proof via links to issues and commits.
 
 ## Resources
 
