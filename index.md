@@ -2,12 +2,11 @@
 layout: default
 ---
 
-## Spring 2019 - Applied Distributed Systems
-### (Previously called Science Gateway Architectures)
+## Spring 2020 - Applied Distributed Systems
 
-* **Course:** [CSCI-B 649, Topics in Systems](https://www.soic.indiana.edu/graduate/courses/index.html?number=b649&department=CSCI){:target="_blank"}, Computer Science, School of Informatics and Computing, Indiana University
+* **Course:** [CSCI-B 649, Topics in Systems](https://luddy.indiana.edu/academics/courses/class/iub-spring-2020-csci-b649){:target="_blank"}, Computer Science, Luddy School of Informatics, Computing and Engineering, Indiana University
 * **Instructors:** Marlon Pierce, [marpierc@iu.edu](mailto:marpierc@iu.edu); Suresh Marru, [smarru@iu.edu](mailto:smarru@iu.edu)
-    
+
 * **Class Schedule** Friday from 1:00 pm to 3:30 pm in I2 (Informatics East) Room 130
 * **Office Hours** To Be Scheduled
 
