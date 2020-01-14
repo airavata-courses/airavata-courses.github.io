@@ -8,17 +8,17 @@ The course focuses in teaching the distributed systems concepts through projects
 
 [Project report tenmplate]({{ site.url }}/CS649Project1SubmissionTemplate.docx)
 
-###  Lecture 1 - January 11th, 2019
+###  Lecture 1 - January 14th, 2020
 * Goal: Students should understand what the course is about and what is expected from them.
 * Topics: 
     * Introduce students to software as a service life cycle
-    * Introduce students to Distributed Systems
-    * Introduce students to Lecture Topics
-    * Introduce students to project Themes
+    * Introduce students to distributed systems
+    * Introduce students to lecture topics
+    * Introduce students to project shemes
 
-* [Class Overview Slides]({{ site.url }}slides/SGA-Spring2019-Projects-January11.pdf)
+* [Class Overview Slides]({{ site.url }}slides/SGA-Spring2020-Projects-January14.pdf)
 
-
+<!--
 ###  Lecture 2 - January 18th, 2019
 * Goal: Students will understand how to make good napkin drawings, map these to their architectures, and keep the two distinct.
 * Topics: 
@@ -64,7 +64,7 @@ The course focuses in teaching the distributed systems concepts through projects
 ###  Lecture 10 - April 19th, 2019
 * Goals: Students will understand basic security concepts for science gateways and other distributed systems. 
 * [OAuth2 Lecture Slides]({{ site.url }}slides/Spring2019-OAuth2-OIDC.pptx)
-
+-->
 
 
 
