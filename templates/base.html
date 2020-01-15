@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="{% static '/static/css/bootstrap.css' %}">
+        <style>
+            body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+            }
+        </style>
+        <link href="https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular" media="screen" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="{% static '/static/css/bootstrap-theme.css' %}">
+        <link rel="stylesheet" href="{% static '/static/css/main.css' %}">
+        <script src="{% static '/static/js/vendor/modernizr-2.6.2.js' %}"></script>
+    </head>
+
+    <body>
+
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark iu-crimson-bg">
+        <div class="container">
+        <a class="navbar-brand" href="{% url '/index.html' %}"><img src="{% static '/static/images/trident-large.png'%}" height="30" class="d-inline-block align-top" alt=""> courses.airavata.org </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <ul class="navbar-nav mr-2">
+                    <li class="nav-item">
+                        <a class="nav-link
+            {% if_current_page '/index.html' 'active' '' %}" href="{% url '/index.html' %}">Course</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link
+            {% if_current_page '/lectures.html' 'active' '' %}" href="{% url '/lectures.html' %}">Lectures</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link
+            {% if_current_page '/projects.html' 'active' '' %}" href="{% url '/projects.html' %}">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link
+            {% if_current_page '/contact.html' 'active' '' %}" href="{% url '/contact.html' %}">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://github.com/airavata-courses" target="_blank" class="btn btn-sm btn-outline-light my-sm-0" type="submit">Source on Github</a>
+                    </li>
+                </ul>
+            </form>
+        </div>
+        </div>
+    </nav>
+
+    {% block body %}
+    {% endblock %}
+
+    <footer>
+        <nav class="navbar navbar-light bg-light iu-footer-nav">
+            <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="{% static '/static/images/iu-sig-formal.svg'%}" height="30" class="d-inline-block align-top" alt="">
+            </a>
+                © Copyright 2020
+            </div>
+        </nav>
+    </footer>
+
+
+    <script src="{% static '/static/js/vendor/jquery-1.10.1.js' %}"></script>
+    <script src="{% static '/static/js/vendor/bootstrap.js' %}"></script>
+    <script src="{% static '/static/js/main.js' %}"></script>
+  </body>
+
+  {% block scripts %}
+  {% endblock %}
+</html>
