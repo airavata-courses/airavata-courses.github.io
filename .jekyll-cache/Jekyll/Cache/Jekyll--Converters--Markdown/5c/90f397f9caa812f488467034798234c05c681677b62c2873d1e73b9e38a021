@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<div class="main">
+I"�K<div class="main">
     <div class="jumbotron iu-light-bg">
         <div class="container">
             <div class="page-sub-header">Spring 2020</div>
@@ -14,10 +10,9 @@ layout: default
                             <h6 class="card-title">COURSE</h6>
                         </div>
                         <div class="card-body">
-                            <p class="card-text"><a target="_blank"
-                                                    href="https://luddy.indiana.edu/academics/courses/class/iub-spring-2020-csci-b649">CSCI-B
-                                649, Topics in Systems</a>,<br/>
-                                Computer Science, Luddy School of Informatics,</br>
+                            <p class="card-text"><a target="_blank" href="https://luddy.indiana.edu/academics/courses/class/iub-spring-2020-csci-b649">CSCI-B
+                                649, Topics in Systems</a>,<br />
+                                Computer Science, Luddy School of Informatics,&lt;/br&gt;
                                 Computing and Engineering, Indiana University</p>
                         </div>
                     </div>
@@ -28,9 +23,9 @@ layout: default
                             <h6 class="card-title">INSTRUCTORS</h6>
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Marlon Pierce <a href="mailto:marpierc@iu.edu"></br>
-                                marpierc@iu.edu</a></br>Suresh
-                                Marru</br>
+                            <p class="card-text">Marlon Pierce <a href="mailto:marpierc@iu.edu">&lt;/br&gt;
+                                marpierc@iu.edu</a>&lt;/br&gt;Suresh
+                                Marru&lt;/br&gt;
                                 <a href="mailto:smarru@iu.edu">smarru@iu.edu</a></p>
                         </div>
                     </div>
@@ -41,7 +36,7 @@ layout: default
                             <h6 class="card-title">CLASS SCHEDULE</h6>
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Tuesdays and Thursdays </br>from 4 pm to 5.15pm in </br>Woodburn
+                            <p class="card-text">Tuesdays and Thursdays &lt;/br&gt;from 4 pm to 5.15pm in &lt;/br&gt;Woodburn
                                 Hall Room 111</p>
                         </div>
                     </div>
@@ -294,20 +289,15 @@ layout: default
             <div class="col-lg-12 p-3">
                 <h2>Beginner Materials</h2>
                 <ul>
-                    <li>Principles of Distributed Computing – <a target="_blank"
-                                                                 href="http://disco.ethz.ch/lectures/podc_allstars/">Lecture
+                    <li>Principles of Distributed Computing – <a target="_blank" href="http://disco.ethz.ch/lectures/podc_allstars/">Lecture
                         Collection</a></li>
                     <li>
-                        <a target="_blank"
-                           href="https://cwiki.apache.org/confluence/download/attachments/45876421/iwsg2014_submission_19%20(2)%20(1).pdf?version=1&modificationDate=1409604473000&api=v2">Overview
+                        <a target="_blank" href="https://cwiki.apache.org/confluence/download/attachments/45876421/iwsg2014_submission_19%20(2)%20(1).pdf?version=1&amp;modificationDate=1409604473000&amp;api=v2">Overview
                             of Apache Airavata</a>
                     </li>
-                    <li>Apache Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center <a
-                            target="_blank"
-                            href="http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf">Apache
+                    <li>Apache Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center <a target="_blank" href="http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf">Apache
                         Mesos Paper</a></li>
-                    <li>Apache ZooKeeper: Wait-free coordination for Internet-scale systems <a target="_blank"
-                                                                                               href="https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf">Apache
+                    <li>Apache ZooKeeper: Wait-free coordination for Internet-scale systems <a target="_blank" href="https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf">Apache
                         Zookeeper Paper</a></li>
                 </ul>
             </div>
@@ -332,3 +322,4 @@ layout: default
         </div>
     </div>
 </div>
+:ET
