@@ -5,7 +5,7 @@ layout: default
 <div class="main">
     <div class="jumbotron iu-light-bg">
         <div class="container">
-            <div class="page-sub-header">Spring 2020</div>
+            <div class="page-sub-header">Spring 2021</div>
             <div class="page-header">Applied Distributed Systems</div>
             <div class="row course-cards">
                 <div class="col-xl-3 col-lg-6 col-md-8 col-sm-12 p-3">
@@ -41,8 +41,7 @@ layout: default
                             <h6 class="card-title">CLASS SCHEDULE</h6>
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Tuesdays and Thursdays </br>from 4 pm to 5.15pm in </br>Woodburn
-                                Hall Room 111</p>
+                            <p class="card-text">Tuesdays and Thursdays </br>from 4.55pm to 6.10pm Online </br>Zoom link sent on Canvas</p>
                         </div>
                     </div>
                 </div>
@@ -74,85 +73,51 @@ layout: default
 
             <div class="col-lg-12 p-3">
                 <h2>Course Overview</h2>
-                <p>Distributed software systems use software components operating on multiple, coordinated computing
-                    resources to handle large amounts of data, provide resilience by removing single points of
-                    failure, and achieve better performance than single-component systems. Such systems form the
-                    backbone of enormously scalable cloud-based software systems that power social networks,
-                    e-commerce, streaming media services, and many others; however, many of the core concepts for
-                    distributed systems that underlie the modern services go back decades and need to be understood
-                    in order to build new systems.</p>
+                <p>Distributed software systems use software components operating on multiple, coordinated computing resources to handle large amounts of data, provide resilience by removing single points of failure, and achieve better performance than single-component systems. Such systems form the backbone of enormously scalable cloud-based software systems that power social networking sites, e-commerce, streaming media services, and many other modern businesses; however, many of the core concepts for distributed systems that underlie the modern services go back decades and need to be understood in order to build new systems.</p>
                 <p>Inherently, distributed systems face challenges that can be categorized as follows:</p>
                 <ul>
                     <li>
-                        Scalability: How well does the system scale as it adds more resources? What are the
-                        overheads for management and coordination as the system grows?
+                        Scalability: How well does the system scale as it adds more resources? What are the overheads for management and coordination as the system grows?
                     </li>
                     <li>
-                        Efficiency: System handles large amount of data, so performance is important
+Efficiency: The system handles a large amount of data, so performance is important.                    </li>
+                    <li>
+                        Fault tolerance: Can the system continue to operate if some of the components fail? Can the system recover full capacity when resources come back online?
                     </li>
                     <li>
-                        Fault tolerance: Can the system continue to operate if some of the components fail? Can the
-                        system recover full capacity when resources come back online?
+Communications: How do the components of the system communicate?  How well does the system handle message latency and loss?
                     </li>
                     <li>
-                        Communications: How do the components of the system communicate? How well does the system
-                        handle message latency and loss?
+Heterogeneity: How can a system be built out of components developed using multiple programming languages, supporting components (such as databases), etc? 
                     </li>
                     <li>
-                        Heterogeneity: How can a system be built out of components developed using multiple
-                        programming languages, supporting components (such as databases), etc?
+Integration, Deployment, and Operation: How can multi-component systems developed by multiple teams be integrated, tested, deployed into production, and operated at scale?
                     </li>
                     <li>
-                        Integration, Deployment, and Operation: How can multi-component systems developed by
-                        multiple teams be integrated, tested, deployed into production, and operated at scale?
+User Environments: How can end user environments to dynamic distributed systems be developed at scale? How can they efficiently evolve as the underlying system evolves?
                     </li>
-                    <li>
-                        User Environments: How can user environments be developed at scale? How can they efficiently
-                        evolve as the underlying system evolves?
-                    </li>
-                    <li>Security: how can these systems be operated securely? How can security problems be
-                        detected?
+                    <li>Security: How can these systems be operated securely? How can security problems be detected?
                     </li>
                 </ul>
-                <p>As an applied course, the students will get an opportunity to work with concrete instances of
-                    distributed systems. Science gateways are distributed computing environments that enable
-                    scientists to conduct computational experiments on computing clouds and supercomputers and have
-                    revolutionized bioinformatics, computational chemistry, nano-engineering, atmospheric science
-                    and other scientific fields by bringing unprecedented computing power to a broad community of
-                    scientists. Gateways are interesting topics in their own right. Modern gateway systems utilize
-                    microservice architectures and DevOps principles in their design and operations, adopting
-                    lessons learned from cloud-based Software as a Service activities.
+                <p>As an applied course, the students will get an opportunity to work with concrete instances of distributed systems. Students will learn from our experience developing science gateways, which are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers. Science gateways have revolutionized bioinformatics, computational chemistry, nano-engineering, atmospheric science and other scientific fields by bringing unprecedented computing power to a broad community of scientists. The architecture, implementation, and operations of science gateways are interesting topics in their own right. Modern gateway systems utilize microservice architectures, DevOps principles, and user-centered design in their design and operations, adopting lessons learned from cloud-based Software as a Service activities. 
 
-                    In this course, students will be divided into development teams, and each team will build a
-                    distributed system software as a service system from scratch. Teams will be encouraged to
-                    explore alternative technologies and ways for building systems as well as learning DevOps
-                    principles such as containerization, continuous integration, and continuous deployment for
-                    deploying robust cloud services. Students will also be introduced to the Apache Software
-                    Foundation’s open community governance principles for open source software and will learn how to
-                    effectively interact with Apache Software Foundation projects in order to become committers and
-                    project management committee members. Finally, the students will have an opportunity to apply
-                    the learning to Apache Airavata based Science Gateways.</p>
+                 In this course, students will be divided into development teams, and each team will build a distributed “software as a service” system from scratch. Teams will be encouraged to explore alternative technologies and ways for building systems as well as learning Cloud Native principles such as containerization, continuous integration, and continuous deployment for deploying robust cloud services. Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members. Finally, students will have an opportunity to apply what they have learned to Apache Airavata distributed systems framework.</p>
             </div>
 
             <div class="col-lg-12 p-3">
                 <h2>Course Objectives</h2>
                 <ul>
                     <li>
-                        Provide a high level, broad understanding of the application of core distributed computing
-                        systems concepts to “Software as a Service” systems that support scientific research and
-                        education.
+                        Provide a high level, broad understanding of the application of core distributed computing systems concepts and apply them to build “Software as a Service” systems.
                     </li>
                     <li>
-                        Study both abstract concepts and practical techniques for building science gateways.
+Study both abstract concepts and practical techniques for building Cloud-Native Distributed Systems.
                     </li>
                     <li>
-                        Provide hands-on experience in developing a science gateway while working with open source
-                        philosophies modelled after Apache Software Foundation.
+                        Provide hands-on experience in developing scalable application stacks while working with open source philosophies modeled after Apache Software Foundation.
                     </li>
                     <li>
-                        Apply the general concepts of Distributed Systems and understanding state of the art in
-                        applicable areas.
-                        Course Outco
+Apply the general concepts of Distributed Systems to understanding the state of the art in “real world” systems.
                     </li>
                 </ul>
             </div>
@@ -161,31 +126,24 @@ layout: default
                 <h2>Course Outcomes</h2>
                 <ul>
                     <li>
-                        Demonstrate an applied understanding of cloud native, microservice architectures and their
-                        underlying distributed systems foundations.
+                        Demonstrate an applied understanding of cloud-native, microservice architectures, and their underlying distributed systems foundations.
                     </li>
                     <li>
-                        Demonstrate an applied understanding of the DevOps principles of continuous integration and
-                        delivery to the development and operations of science.
+                        Demonstrate an applied understanding of the DevOps principles of continuous integration and delivery to the development and operations of science. 
                     </li>
                     <li>
-                        Demonstrate an understanding of open source practices, particularly those of the Apache
-                        Software Foundation.
+                        Demonstrate an understanding of open source practices, particularly those of the Apache Software Foundation.
                     </li>
                     <li>
-                        Demonstrate an ability to develop a metadata management system for managing the digital
-                        objects created by the system.
+                        Demonstrate an ability to develop a metadata management system for managing the digital objects created by the system.
                     </li>
                     <li>
-                        Demonstrate an ability to develop and consume API services.
+Demonstrate an ability to develop and consume API services.                    </li>
+                    <li>
+                     Demonstrate an ability to apply discovery, load balancing, failure recovery, metrics, and monitoring to a distributed system. 
                     </li>
                     <li>
-                        Demonstrate an ability to apply discovery, load balancing, failure recovery, metrics, and
-                        monitoring to a distributed system.
-                    </li>
-                    <li>
-                        Demonstrate ability to perform scalability testing, canary rollouts, rate limiting, access
-                        control, and end-to-end authentication.
+                        Demonstrate ability to perform scalability testing, canary rollouts, rate limiting, access control, and end-to-end authentication.
                     </li>
                 </ul>
             </div>
@@ -193,41 +151,37 @@ layout: default
 
             <div class="col-lg-12 p-3">
                 <h2>Course Structure</h2>
-                <p>Course Goal: students will, working in a team of 3-4 students, learn and apply modern distributed
-                    computing concepts to a stand alone Apache Airavata and contribute them to the code base.</p>
+                <p>Course Goal: Students working in a team of 3 will learn and apply modern distributed computing concepts.</p>
                 <ul>
                     <li>
-                        Assignments
+                        Projects
                         <ul>
-                            <li>Assignments due every four weeks</li>
-                            <li>Assignments due every four weeks</li>
-                        </ul>
-                    </li>
-                    <li>
-                        The course will be split into two parts
-                        <ul>
-                            <li>Part 1: Learning basic cloud native architectures, distributed computing concepts,
-                                microservices, DevOps etc
-                            </li>
-                            <li>Part 2: Applying what you have learned to Apache Airavata</li>
+                            <li>Projects due every four weeks</li>
+                            <li>All projects are individually submitted; use GitHub to provide an auditable record of your contributions to your team’s work.</li>
                         </ul>
                     </li>
                 </ul>
             </div>
 
+            <div class="col-lg-12 p-3">
+                <h2>Project Themes for Spring 2021</h2>
+                <p>For the Spring 2021 project theme, we derive a generalized version of data gateway infrastructures that serve the data management and research needs of scientific instruments such as electron microscopes, light-sheet microscopes, and next-generation sequencers. Data gateways provide secure, controlled access to data generated by these and many other scientific instruments. To keep the students focused on the Distributed Systems aspects, we use a photo-sharing application as a simpler analogy.</p>
+                <p>The students will develop a user interface to upload photos to the archive on remote storage servers. The projects will need to develop pipelines for extracting additional picture metadata using open-source image parsing libraries. The application should enable browsing the photos organized into collections and metadata searches. An example might be to display all photos where flash was used. Students can integrate advanced techniques to integrate imagine recognition machine learning algorithms, although the emphasis will be on building distributed systems that exhibit fault tolerance, scalability, good engineering and operations practices, etc.
+                </p>
+                <p>The projects will need to exercise the distributed systems discussed above and use concepts of Micro-services & Micro-Frontends, and Cloud-Native Architecture principles. The end system developed in three incremental milestones should be highly available and highly scalable, and the architecture should be demonstrably evolvable over time. Projects will be required to use Security (<a href="https://airavata.apache.org/custos/">Custos Website</a>) and Data Management components from the Apache Airavata ecosystem and support accessible storage systems such as https://kb.iu.edu/d/aczn#research, https://uits.iu.edu/google, and https://uits.iu.edu/onedrive using Apache Airavata Managed File Transfer services (<a href="https://osf.io/j5t97/">MFT Paper</a>). 
 
+                </p>
+            </div>
+            
             <div class="col-lg-12 p-3">
                 <h2>Grading</h2>
-                <p>This will be a project heavy course. Students will be divided into teams. Each team will have 3
-                    projects. There will also be a midterm and final presentation. The maximum number of points for
-                    the semester is 100. 90-100 points is an A, 80-89 points is a B, etc.</p>
+                <p>This will be a project heavy course. Students will be divided into teams. Each team will have to do a semester-long project divided into 3 project milestones.  There will also be a midterm and final presentation. The maximum number of points for the semester is 100.  90-100 points is an A, 80-89 points is a B, etc.</p>
                 <ul>
-                    <li>Course Projects 90%: There will be 3 projects, including mid-term and final milestones. Each
-                        project is worth 25 points.
+                    <li>Course Projects 90%: There will be 3 project milestones with each worth 30 points.
                         <ul>
-                            <li>Must use Apache compatible open source licensed software and tools</li>
+                            <li>Must use Apache compatible open source licensed software and tools.</li>
                             <li>Projects must be checked into github, must be reproducibly executable on the
-                                deadline day by the AI’s and instructors.
+                                deadline day by the TA’s and instructors.
                                 <ul>
                                     <li>Linux/Unix compatible</li>
                                     <li>If the instructors cannot execute your project and verify you have met the
@@ -242,8 +196,7 @@ layout: default
                             <li>Students who show no activity (no github commits, no email discussions, etc) for the
                                 milestone will receive 0 points.
                             </li>
-                            <li>Up to 5 points for GitHub interactions with other projects (not your team’s
-                                project). Examples include
+                            <li>Up to 5 bonus points per project for GitHub interactions with other projects (not your team’s project). These have to be substantially demonstrated. Examples include
                                 <ul>
                                     <li>Posting bugs that get resolved</li>
                                     <li>Resolving bugs in other team’s projects. These must be accepted to the code
@@ -253,15 +206,11 @@ layout: default
                             </li>
                         </ul>
                     </li>
-                    <li>Classroom Interactions and Peer Reviews: 10%. The projects and the topics will require
-                        interactive pro-active participation. Also mimicking real-world open source and software
-                        development practices, the course requires students to be aware of other approaches to
-                        problems, borrowing ideas (with proper acknowledgements and no stealing and plagiarizing)
-                        and peer reviewing and offering constructive feedback. These demonstrated interactions (on
-                        github issues and pull requests) will be worth 10 points.
+                    <li>Mid-term and final presentations: 10%. Pre-recorded project demonstrations with each of the three teammates taking turns to present the project covering specific topics related to the progress of project milestones.
+                    </li>
+                    <li>Classroom Interactions and Peer Reviews: (Bonus) 10%. The projects and topics will require interactive pro-active participation. Also mimicking real-world open source and software development practices, the course requires students to be aware of other approaches to problems, borrowing ideas (with proper acknowledgments and no stealing and plagiarizing), and peer reviewing and offering constructive feedback. These demonstrated interactions (on GitHub issues and pull requests) will be worth 10 points.  
                         <ul>
-                            <li>1 point perfect attendance</li>
-                            <li>Up to 4 points classroom interactions</li>
+                            <li>We expect students to attend all classes and to actively participate in the class by asking questions.  The instructors will factor this into the final grades for individuals.</li>
                         </ul>
                     </li>
                     <li>Project Grading
