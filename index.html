@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Applied Distributed Systems</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <style>
+        body {
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+    </style>
+    <link href="https://fonts.iu.edu/style.css?family=BentonSans:regular,bold|BentonSansCond:regular|GeorgiaPro:regular" media="screen" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="/assets/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <script src="/assets/js/vendor/modernizr-2.6.2.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark iu-crimson-bg">
+    <div class="container">
+        <a class="navbar-brand" href="/"><img src="/assets/images/trident-large.png" height="30" class="d-inline-block align-top" alt=""> courses.airavata.org </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <ul class="navbar-nav mr-2">
+                    <li class="nav-item">
+                        <a class="nav-link
+            active" href="/">Course</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link
+            " href="/lectures/">Lectures</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link
+            " href="/projects/">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link
+            " href="/contact/">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://github.com/airavata-courses" target="_blank" class="btn btn-sm btn-outline-light my-sm-0" type="submit">Source on Github</a>
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </div>
+</nav>
+
+<div class="main">
+    <div class="jumbotron iu-light-bg">
+        <div class="container">
+            <div class="page-sub-header">Spring 2021</div>
+            <div class="page-header">Applied Distributed Systems</div>
+            <div class="row course-cards">
+                <div class="col-xl-3 col-lg-6 col-md-8 col-sm-12 p-3">
+                    <div class="card">
+                        <div class="card-header iu-mahogany-bg text-light">
+                            <h6 class="card-title">COURSE</h6>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text"><a target="_blank" href="https://luddy.indiana.edu/academics/courses/class/iub-spring-2020-csci-b649">CSCI-B
+                                649, Topics in Systems</a>,<br />
+                                Computer Science, Luddy School of Informatics,&lt;/br&gt;
+                                Computing and Engineering, Indiana University</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-8 col-sm-12 p-3">
+                    <div class="card">
+                        <div class="card-header iu-mahogany-bg text-light">
+                            <h6 class="card-title">INSTRUCTORS</h6>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Marlon Pierce <a href="mailto:marpierc@iu.edu">&lt;/br&gt;
+                                marpierc@iu.edu</a>&lt;/br&gt;Suresh
+                                Marru&lt;/br&gt;
+                                <a href="mailto:smarru@iu.edu">smarru@iu.edu</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-8 col-sm-12 p-3">
+                    <div class="card">
+                        <div class="card-header iu-mahogany-bg text-light">
+                            <h6 class="card-title">CLASS SCHEDULE</h6>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Tuesdays and Thursdays &lt;/br&gt;from 4.55pm to 6.10pm Online &lt;/br&gt;Zoom link sent on Canvas</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-8 col-sm-12 p-3">
+                    <div class="card">
+                        <div class="card-header iu-mahogany-bg text-light">
+                            <h6 class="card-title">OFFICE HOURS</h6>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Office Hours To Be Scheduled</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12 p-3">
+                <h2>Instructors</h2>
+                <p>The course will be taught by Marlon Pierce and Suresh Marru, who lead the Pervasive Technology
+                    Institute’s <a href="https://circ.iu.edu/" target="_blank">Cyberinfrastructure Integration
+                        Research Center</a> and are nominated members of the
+                    <a href="https://www.apache.org/">Apache Software Foundation</a> and project management
+                    committee members for the <a href="https://airavata.apache.org/">Apache Airavata</a> open
+                    source distributed computing software framework.</p>
+            </div>
+
+            <div class="col-lg-12 p-3">
+                <h2>Course Overview</h2>
+                <p>Distributed software systems use software components operating on multiple, coordinated computing resources to handle large amounts of data, provide resilience by removing single points of failure, and achieve better performance than single-component systems. Such systems form the backbone of enormously scalable cloud-based software systems that power social networking sites, e-commerce, streaming media services, and many other modern businesses; however, many of the core concepts for distributed systems that underlie the modern services go back decades and need to be understood in order to build new systems.</p>
+                <p>Inherently, distributed systems face challenges that can be categorized as follows:</p>
+                <ul>
+                    <li>
+                        Scalability: How well does the system scale as it adds more resources? What are the overheads for management and coordination as the system grows?
+                    </li>
+                    <li>
+Efficiency: The system handles a large amount of data, so performance is important.                    </li>
+                    <li>
+                        Fault tolerance: Can the system continue to operate if some of the components fail? Can the system recover full capacity when resources come back online?
+                    </li>
+                    <li>
+Communications: How do the components of the system communicate?  How well does the system handle message latency and loss?
+                    </li>
+                    <li>
+Heterogeneity: How can a system be built out of components developed using multiple programming languages, supporting components (such as databases), etc? 
+                    </li>
+                    <li>
+Integration, Deployment, and Operation: How can multi-component systems developed by multiple teams be integrated, tested, deployed into production, and operated at scale?
+                    </li>
+                    <li>
+User Environments: How can end user environments to dynamic distributed systems be developed at scale? How can they efficiently evolve as the underlying system evolves?
+                    </li>
+                    <li>Security: How can these systems be operated securely? How can security problems be detected?
+                    </li>
+                </ul>
+                <p>As an applied course, the students will get an opportunity to work with concrete instances of distributed systems. Students will learn from our experience developing science gateways, which are distributed computing environments that enable scientists to conduct computational experiments on computing clouds and supercomputers. Science gateways have revolutionized bioinformatics, computational chemistry, nano-engineering, atmospheric science and other scientific fields by bringing unprecedented computing power to a broad community of scientists. The architecture, implementation, and operations of science gateways are interesting topics in their own right. Modern gateway systems utilize microservice architectures, DevOps principles, and user-centered design in their design and operations, adopting lessons learned from cloud-based Software as a Service activities. 
+
+                 In this course, students will be divided into development teams, and each team will build a distributed “software as a service” system from scratch. Teams will be encouraged to explore alternative technologies and ways for building systems as well as learning Cloud Native principles such as containerization, continuous integration, and continuous deployment for deploying robust cloud services. Students will also be introduced to the Apache Software Foundation’s open community governance principles for open source software and will learn how to effectively interact with Apache Software Foundation projects in order to become committers and project management committee members. Finally, students will have an opportunity to apply what they have learned to Apache Airavata distributed systems framework.</p>
+            </div>
+
+            <div class="col-lg-12 p-3">
+                <h2>Course Objectives</h2>
+                <ul>
+                    <li>
+                        Provide a high level, broad understanding of the application of core distributed computing systems concepts and apply them to build “Software as a Service” systems.
+                    </li>
+                    <li>
+Study both abstract concepts and practical techniques for building Cloud-Native Distributed Systems.
+                    </li>
+                    <li>
+                        Provide hands-on experience in developing scalable application stacks while working with open source philosophies modeled after Apache Software Foundation.
+                    </li>
+                    <li>
+Apply the general concepts of Distributed Systems to understanding the state of the art in “real world” systems.
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-12 p-3">
+                <h2>Course Outcomes</h2>
+                <ul>
+                    <li>
+                        Demonstrate an applied understanding of cloud-native, microservice architectures, and their underlying distributed systems foundations.
+                    </li>
+                    <li>
+                        Demonstrate an applied understanding of the DevOps principles of continuous integration and delivery to the development and operations of science. 
+                    </li>
+                    <li>
+                        Demonstrate an understanding of open source practices, particularly those of the Apache Software Foundation.
+                    </li>
+                    <li>
+                        Demonstrate an ability to develop a metadata management system for managing the digital objects created by the system.
+                    </li>
+                    <li>
+Demonstrate an ability to develop and consume API services.                    </li>
+                    <li>
+                     Demonstrate an ability to apply discovery, load balancing, failure recovery, metrics, and monitoring to a distributed system. 
+                    </li>
+                    <li>
+                        Demonstrate ability to perform scalability testing, canary rollouts, rate limiting, access control, and end-to-end authentication.
+                    </li>
+                </ul>
+            </div>
+
+
+            <div class="col-lg-12 p-3">
+                <h2>Course Structure</h2>
+                <p>Course Goal: Students working in a team of 3 will learn and apply modern distributed computing concepts.</p>
+                <ul>
+                    <li>
+                        Projects
+                        <ul>
+                            <li>Projects due every four weeks</li>
+                            <li>All projects are individually submitted; use GitHub to provide an auditable record of your contributions to your team’s work.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-12 p-3">
+                <h2>Project Themes for Spring 2021</h2>
+                <p>For the Spring 2021 project theme, we derive a generalized version of data gateway infrastructures that serve the data management and research needs of scientific instruments such as electron microscopes, light-sheet microscopes, and next-generation sequencers. Data gateways provide secure, controlled access to data generated by these and many other scientific instruments. To keep the students focused on the Distributed Systems aspects, we use a photo-sharing application as a simpler analogy.</p>
+                <p>The students will develop a user interface to upload photos to the archive on remote storage servers. The projects will need to develop pipelines for extracting additional picture metadata using open-source image parsing libraries. The application should enable browsing the photos organized into collections and metadata searches. An example might be to display all photos where flash was used. Students can integrate advanced techniques to integrate imagine recognition machine learning algorithms, although the emphasis will be on building distributed systems that exhibit fault tolerance, scalability, good engineering and operations practices, etc.
+                </p>
+                <p>The projects will need to exercise the distributed systems discussed above and use concepts of Micro-services &amp; Micro-Frontends, and Cloud-Native Architecture principles. The end system developed in three incremental milestones should be highly available and highly scalable, and the architecture should be demonstrably evolvable over time. Projects will be required to use Security (<a href="https://airavata.apache.org/custos/">Custos Website</a>) and Data Management components from the Apache Airavata ecosystem and support accessible storage systems such as https://kb.iu.edu/d/aczn#research, https://uits.iu.edu/google, and https://uits.iu.edu/onedrive using Apache Airavata Managed File Transfer services (<a href="https://osf.io/j5t97/">MFT Paper</a>). 
+
+                </p>
+            </div>
+            
+            <div class="col-lg-12 p-3">
+                <h2>Grading</h2>
+                <p>This will be a project heavy course. Students will be divided into teams. Each team will have to do a semester-long project divided into 3 project milestones.  There will also be a midterm and final presentation. The maximum number of points for the semester is 100.  90-100 points is an A, 80-89 points is a B, etc.</p>
+                <ul>
+                    <li>Course Projects 90%: There will be 3 project milestones with each worth 30 points.
+                        <ul>
+                            <li>Must use Apache compatible open source licensed software and tools.</li>
+                            <li>Projects must be checked into github, must be reproducibly executable on the
+                                deadline day by the TA’s and instructors.
+                                <ul>
+                                    <li>Linux/Unix compatible</li>
+                                    <li>If the instructors cannot execute your project and verify you have met the
+                                        success criteria, the team receives 0 points.
+                                    </li>
+                                    <li>A team may resubmit their assignment at any time before the next milestone.
+                                        Each resubmission gets -1 points; i.e., 9 points if you get it right on the
+                                        second try, 8 points on the third try, etc.
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>Students who show no activity (no github commits, no email discussions, etc) for the
+                                milestone will receive 0 points.
+                            </li>
+                            <li>Up to 5 bonus points per project for GitHub interactions with other projects (not your team’s project). These have to be substantially demonstrated. Examples include
+                                <ul>
+                                    <li>Posting bugs that get resolved</li>
+                                    <li>Resolving bugs in other team’s projects. These must be accepted to the code
+                                        base. Trivial issues don’t get rewarded.
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Mid-term and final presentations: 10%. Pre-recorded project demonstrations with each of the three teammates taking turns to present the project covering specific topics related to the progress of project milestones.
+                    </li>
+                    <li>Classroom Interactions and Peer Reviews: (Bonus) 10%. The projects and topics will require interactive pro-active participation. Also mimicking real-world open source and software development practices, the course requires students to be aware of other approaches to problems, borrowing ideas (with proper acknowledgments and no stealing and plagiarizing), and peer reviewing and offering constructive feedback. These demonstrated interactions (on GitHub issues and pull requests) will be worth 10 points.  
+                        <ul>
+                            <li>We expect students to attend all classes and to actively participate in the class by asking questions.  The instructors will factor this into the final grades for individuals.</li>
+                        </ul>
+                    </li>
+                    <li>Project Grading
+                        <ul>
+                            <li>Each project will be judged on ~4 quality attributes. The number will vary by
+                                assignment
+                            </li>
+                            <li>To get all points, the project must demonstrate all attributes to the grader. The
+                                grader must also be able to easily install and test all software by following
+                                documentation for the milestone in the team’s GitHub Wiki.
+                            </li>
+                            <li>Each student on the team will submit a report describing what they did
+                                <ul>
+                                    <li>Give a percentage of effort for each attribute</li>
+                                    <li>Provide auditable proof via links to issues and commits.</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-12 p-3">
+                <h2>Resources</h2>
+                <p>During the course, instructors will provide references to journal and conference papers. A good
+                    understanding of concepts discussed in these referred papers will greatly help in absorbing the
+                    course material.</p>
+            </div>
+
+            <div class="col-lg-12 p-3">
+                <h2>Beginner Materials</h2>
+                <ul>
+                    <li>Principles of Distributed Computing – <a target="_blank" href="http://disco.ethz.ch/lectures/podc_allstars/">Lecture
+                        Collection</a></li>
+                    <li>
+                        <a target="_blank" href="https://cwiki.apache.org/confluence/download/attachments/45876421/iwsg2014_submission_19%20(2)%20(1).pdf?version=1&amp;modificationDate=1409604473000&amp;api=v2">Overview
+                            of Apache Airavata</a>
+                    </li>
+                    <li>Apache Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center <a target="_blank" href="http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf">Apache
+                        Mesos Paper</a></li>
+                    <li>Apache ZooKeeper: Wait-free coordination for Internet-scale systems <a target="_blank" href="https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf">Apache
+                        Zookeeper Paper</a></li>
+                </ul>
+            </div>
+
+            <div class="col-lg-12 p-3">
+                <h2>Open Collaboration</h2>
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        Reuse and building upon ideas or code are major parts of modern software development. As a
+                        professional programmer you will never write anything from scratch. This class is structured
+                        such that all solutions are public. You are encouraged to learn from the work of your peers.
+                        We won’t hunt down people who are simply copying-and-pasting solutions, because without
+                        challenging themselves, they are simply wasting their time and money taking this class.
+                    </li>
+                    <li class="list-group-item">
+                        Please respect the terms of use and/or license of any code you find, and if you reimplement
+                        or duplicate a design or code from elsewhere, credit the original source.
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<footer>
+    <nav class="navbar navbar-light bg-light iu-footer-nav">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="/assets/images/iu-sig-formal.svg" height="30" class="d-inline-block align-top" alt="">
+            </a>
+            © Copyright 2020
+        </div>
+    </nav>
+</footer>
+
+
+<script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="/assets/js/vendor/bootstrap.js"></script>
+<script src="/assets/js/main.js"></script>
+</body>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-72139837-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+</html>
